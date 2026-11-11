@@ -1,0 +1,103 @@
+MENU
+# Wu, Zhenqin
+
+PhD Stanford
+Assistant Professor
+Tel: (+852) 6899 9087
+Email: zqwu@cs.hku.hk
+Hompage: https://www.zhenqin-wu.com/
+Zhenqin Wu is an Assistant Professor at the Department of Computer Science at the University of Hong Kong (HKU). He obtained his Ph.D. at Stanford University (2016-2022), advised by Prof. James Zou and Dr. Vijay Pande, during which he worked on deep learning applications in various computational chemistry and biology topics.
+His current research focuses on developing novel artificial intelligence and deep learning tools to analyze and interpret complex modalities in spatial biology, including spatial proteomics, transcriptomics, and histopathological imaging.
+Image
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

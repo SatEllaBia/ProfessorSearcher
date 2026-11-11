@@ -1,0 +1,151 @@
+MENU
+
+# Professor Yang, Yanchao
+
+## PhD University of California, Los Angeles (UCLA)
+
+## Assistant Professor
+
+Tel: (+852) 3917-7092
+
+Email: yanchaoy@hku.hk
+
+Office: Room 408, Chow Yei Ching Building, HKU
+
+Personal Page: https://yanchaoyang.github.io
+
+Image
+## Biography
+
+Professor Yanchao Yang is an Assistant Professor at the School of Computing and Data Science, where he leads the InfoBodied AI Lab. He joined HKU in 2022. Prior to joining HKU, Professor Yang was a Postdoctoral Research Fellow in Computer Science at Stanford University, working with Professor Leonidas J. Guibas. He received his Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of Professor Stefano Soatto.
+Professor Yang's research addresses core challenges in embodied AI: enabling robots and autonomous agents to perceive and reconstruct complex 3D environments in real time, discover actionable concepts from unlabeled multimodal data, and learn generalizable manipulation policies that operate reliably in open-world settings.
+His lab tackles problems spanning robot manipulation, 3D scene understanding and reconstruction, visuomotor control, and the grounding of large vision-language foundation models in the physical world - with a particular focus on reducing dependence on costly human annotation.
+A unifying thread across this work is the use of efficient mutual information estimators as a principled tool for representation learning, concept discovery, and policy optimization, forming the basis of the lab's research program in InfoBodied AI.
+Professor Yang has published extensively at top venues including CVPR, NeurIPS, ICLR, ECCV, ICML, CoRL, and SIGGRAPH. He has received the CPAL Rising Star Award (2025), the China3DV Top1 Paper Award (2025), the RGC Early Career Award (2024), the Alibaba Innovative Research Award (2024), the Microsoft Accelerate Foundation Models Research Award (2023), and the Meta Research Award (2023). He also serves as Area Chair for CVPR, NeurIPS, ICLR, RSS, ECCV, and AAAI.
+The InfoBodied AI Lab welcomes motivated students and researchers who are passionate about building the foundations of intelligent embodied agents. Prospective PhD students with backgrounds in computer vision, robotics, machine learning, or related areas are encouraged to reach out directly at yanchaoy@hku.hk with a CV and a brief description of their research interests.
+The lab has openings for PhD students and postdoctoral researchers, and strong candidates are welcome to apply for the Hong Kong PhD Fellowship Scheme (HKPFS) and the HKU Presidential PhD Scholar Programme (HKUPS), both of which provide competitive funding and are supported year-round.
+## Research Interests
+  * Perception and Scene Understanding: 3D scene understanding; neural rendering and real-time reconstruction; egocentric and human motion understanding.
+  * Policy Learning and Manipulation: Robot manipulation and dexterous control; generalizable policy learning and imitation learning; visuomotor control; concept and skill discovery from unlabeled demonstrations.
+  * Methodological Foundations: Vision-language foundation models for physical world interaction; self-supervised representation learning; mutual information estimation.
+## Selected Publications
+
+The following representative works reflect the lab's three core research directions: 3D scene perception and reconstruction, concept and skill discovery, and generalizable policy learning. A full list is available on Google Scholar.
+  * HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data. Ruizhe Liu, Pei Zhou, Qian Luo, Li Sun, Jun Cen, Yibing Song, Yanchao Yang. NeurIPS 2025.
+  * Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks. Pei Zhou, Wanting Yao, Qian Luo, Xunzhe Zhou, Yanchao Yang. NeurIPS 2025.
+  * HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation. Li Sun, Jiefeng Wu, Feng Chen, Ruizhe Liu, Yanchao Yang. CoRL 2025.
+  * SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos. Yuzheng Liu, Siyan Dong, Shuzhe Wang, Yingda Yin, Yanchao Yang, Qingnan Fan, Baoquan Chen. CVPR 2025, Spotlight. China3DV Top1 Paper Award.
+  * HuMoCon: Concept Discovery for Human Motion Understanding. Qihang Fang, Chengcheng Tang, Bugra Tekin, Shugao Ma, Yanchao Yang. CVPR 2025.
+  * Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization. Siyan Dong, Shuzhe Wang, Shaohui Liu, Lulu Cai, Qingnan Fan, Juho Kannala, Yanchao Yang. CVPR 2025.
+  * HyPoGen: Optimization-Biased Hypernetworks for Generalizable Policy Generation. Hanxiang Ren, Li Sun, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, Difan Zou, Youyi Zheng, Yanchao Yang. ICLR 2025.
+  * AutoCGP: Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations. Pei Zhou, Ruizhe Liu, Qian Luo, Fan Wang, Yibing Song, Yanchao Yang. ICLR 2025, Spotlight.
+  * InfoGS: Efficient Structure-Aware 3D Gaussians via Lightweight Information Shaping. Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang. ICLR 2025.
+  * MaxMI: A Maximal Mutual Information Criterion for Manipulation Concept Discovery. Pei Zhou, Yanchao Yang. ECCV 2024, Oral.
+  * InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction. Xulong Wang, Siyan Dong, Youyi Zheng, Yanchao Yang. ECCV 2024.
+  * InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization. Zhengyang Hu, Song Kang, Qunsong Zeng, Kaibin Huang, Yanchao Yang. ICML 2024, Oral.
+  * Text2Reward: Reward Shaping with Language Models for Reinforcement Learning. Tianbao Xie, Siheng Zhao, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, Tao Yu. ICLR 2024, Spotlight.
+  * InfoCon: Concept Discovery with Generative and Discriminative Informativeness. Ruizhe Liu, Qian Luo, Yanchao Yang. ICLR 2024.
+  * CigTime: Corrective Instruction Generation Through Inverse Motion Editing. Qihang Fang, Chengcheng Tang, Bugra Tekin, Yanchao Yang. NeurIPS 2024.
+  * JacobiNeRF: NeRF Shaping with Mutual Information Gradients. Xiaomeng Xu, Yanchao Yang, Kaichun Mo, Boxiao Pan, Li Yi, Leonidas Guibas. CVPR 2023.
+  * VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization. Bingfan Zhu, Yanchao Yang, Xulong Wang, Youyi Zheng, Leonidas Guibas. CVPR 2023.
+  * COPILOT: Human-Environment Collision Prediction and Localization from Egocentric Videos. Boxiao Pan, Bokui Shen, Davis Rempe, Despoina Paschalidou, Kaichun Mo, Yanchao Yang, Leonidas J. Guibas. ICCV 2023.
+  * ADeLA: Automatic Dense Labeling with Attention for Viewpoint Adaptation in Semantic Segmentation. Hanxiang Ren, Yanchao Yang, He Wang, Bokui Shen, Qingnan Fan, Youyi Zheng, C Karen Liu, Leonidas Guibas. CVPR 2022, Oral.
+  * GIMO: Gaze-Informed Human Motion Prediction in Context. Yang Zheng, Yanchao Yang, Kaichun Mo, Jiaman Li, Tao Yu, Yebin Liu, Karen Liu, Leonidas Guibas. ECCV 2022.
+  * SpOT: Spatiotemporal Modeling for 3D Object Tracking. Colton Stearns, Davis Rempe, Jie Li, et al., Yanchao Yang, Leonidas Guibas. ECCV 2022, Oral.
+  * Domain Adaptation on Point Clouds via Geometry-Aware Implicits. Yuefan Shen, Yanchao Yang, Mi Yan, He Wang, Youyi Zheng, Leonidas Guibas. CVPR 2022.
+  * DCL: Differential Contrastive Learning for Geometry-Aware Depth Synthesis. Yuefan Shen, Yanchao Yang, Youyi Zheng, Karen Liu, Leonidas Guibas. IEEE RA-L & ICRA 2022.
+  * DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping. Yanchao Yang, Brian Lai, Stefano Soatto. CVPR 2021, Oral.
+  * FDA: Fourier Domain Adaptation for Semantic Segmentation. Yanchao Yang, Stefano Soatto. CVPR 2020.
+  * Unsupervised Moving Object Detection via Contextual Information Separation. Yanchao Yang, Antonio Loquercio, Davide Scaramuzza, Stefano Soatto. CVPR 2019.
+  * Conditional Prior Networks for Optical Flow. Yanchao Yang, Stefano Soatto. ECCV 2018.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

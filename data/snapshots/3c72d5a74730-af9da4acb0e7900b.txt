@@ -1,0 +1,146 @@
+top of page
+
+  * Home
+  * News
+  * Research
+
+    * Publications
+    * Students
+  * STAR Lab
+
+    * Projects
+    * Grants
+  * Awards
+  * Teaching
+  * Service
+  * Openings
+  * More
+
+Use tab to navigate through the menu items.
+
+Image: bg.png
+
+Image: Reynold Cheng
+
+Image: Rey'sPhoto2.JPG
+
+Image: reynold cheng1.jpeg
+Image: OutstandingYoungResearchAward.jpeg
+
+Image: HangzhouSeminar.jpeg
+
+Image: HINCare Team.jpeg
+## Prof. Reynold C.K. Cheng
+鄭振剛教授
+
+Professor,  Division of AI and Data Science, School of Computing and Data Science, HKU
+
+​
+
+Distinguished Member, ACM
+
+​
+
+Senior Member, IEEE
+
+
+
+Division Head of AI & Data Science
+
+​
+
+Address: University of Hong Kong, CB303, Chow Yei Ching Building, Pokfulam Road, Hong Kong
+
+Mail
+
+ckcheng@cs.hku.hk
+
+FaceBook
+
+FaceBook
+
+CV
+
+CV
+
+phone
+
+(+852) 3917 4778
+http://linkedin.com/in/reynold-cheng-053b56137
+
+LinkedIn
+
+Google Scholar
+
+Google Scholar
+Reynold Cheng is a Full Professor of the Division of AI and Data Science, School of Computing and Data Science, the University of Hong Kong (HKU). His research interests are in data science, big graph analytics and uncertain data management. He was an Assistant Professor in the Department of Computing of the Hong Kong Polytechnic University (HKPU) from 2005 to 2008.
+He received his BEng (Computer Engineering) in 1998, and MPhil (Computer Science and Information Systems) in 2000 from HKU. He then obtained his MSc and PhD degrees from Department of Computer Science of Purdue University in 2003 and 2005.
+Prof. Cheng is an ACM Distinguished Member and an IEEE Senior Member. He received the ACM Distinguished Membership Award and the HKU Outstanding Research Student Supervisor Award in 2023. He was listed as the World’s Top 2% Scientists by Stanford University in 2022, as well as the AI 2000 Most Influential Scholar in Database in 2023 and 2024.
+He received the SIGMOD Research Highlights Reward 2020, HKICT Awards 2021, and HKU Knowledge Exchange Award (Engineering) 2021. He was granted an Outstanding Young Researcher Award 2011-12 by HKU. He received the Universitas 21 Fellowship in 2011, and two Performance Awards from HKPU Computing in 2006 and 2007. He is an academic advisor to the College of Professional and Continuing Education of HKPU.
+He was formerly the Head of Computer Science Department, Associate Dean of Engineering, and a Deputy Director of the Law and Technology Centre. He is a member of IEEE, ACM, ACM SIGMOD, and UPE. He was a PC co-chair of IEEE ICDE 2021, and has been serving on the program committees and review panels for leading database conferences and journals like SIGMOD, VLDB, ICDE, KDD, IJCAI, AAAI, and TODS.
+He is on the editorial board of IS and DAPD, and was a former editorial board member of TKDE.
+Our lab has a few openings for Postdocs and Ph.D this year. We are looking for talents with research interest in data science (including databases, data mining, NLP, machine learning, AI).  If you are interested, please feel free to email your CV, transcripts, and email to me (ckcheng@cs.hku.hk). Here is the official website for Ph.D and MPhil student recruitment.
+## What's New
+
+Image: Prof.Reynold Named 2026 AI 2000 Most Influential Scholar Honorable Mention in DatabaseImage: Prof.Reynold Named 2026 AI 2000 Most Influential Scholar Honorable Mention in Database
+
+Prof.Reynold Named 2026 AI 2000 Most Influential Scholar Honorable Mention in Database
+Prof. Reynold Cheng has been included in the “2026 AI 2000 Global Artificial Intelligence Scholars List” and awarded the "2026 AI 2000 Most Influential Scholar Award Honorable Mention" in the area of Database, based on his publications from 2016 to 2025. AI 2000 (https://aminer.org/ai2000), an initiative developed by the AMiner team at Z.AI, annually recognizes the 2,000 most influential scholars worldwide in Artificial Intelligence. The list covers 48 leading conferences and
+Image: HINCare Won a Silver Medal at the 51st International Exhibition of Inventions of GenevaImage: HINCare Won a Silver Medal at the 51st International Exhibition of Inventions of Geneva
+
+HINCare Won a Silver Medal at the 51st International Exhibition of Inventions of Geneva
+We are proud to announce that the HINCare project has won a Silver Medal at the 51st International Exhibition of Inventions of Geneva, held from 11 to 15 March 2026. The annual International Exhibition of Inventions of Geneva (IEIG) is one of the world’s most prestigious events dedicated exclusively to inventions and innovations. Bringing together inventors, research institutions, and industry leaders from around the world, the exhibition provides an important platform for sh
+Image: 2024 AI 2000 Most Influential Scholar Honorable MentionImage: 2024 AI 2000 Most Influential Scholar Honorable Mention
+
+2024 AI 2000 Most Influential Scholar Honorable Mention
+
+We are delighted to announce that five CS colleagues, Professors Reynold CK CHENG, Zhiyi HUANG, Taku KOMURA, Ping LUO and Hengshuang ZHAO...
+
+More News
+### Recent Publications
+
+###### MOSER: Scalable Network Motif Discovery Using Serial Test
+
+In Proc. VLDB Endow. Also in the Very Large Databases Conf. (VLDB 2023), Guangzhou, China, 2023.
+
+M. Najafi*, C. Ma*, X. Li*, R. Cheng, and L. Lakshmanan.
+###### Can LLM Already Serve as a Database Interface? A Big Bench for Large-Scale Database Grounded Text-to-SQLs
+
+In 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+J. Li*, B. Hui, G. Qu*, B. Li, J. Yang, B. Li, B. Wang, B. Qin, R. Cao, R. Geng, N. Huo*, X. Zhou, C. Ma*, G. Li, K.C.C. Chang, F. Huang, R. Cheng, and Y. Li.
+###### Graphix-T5: Mixing Pre-Trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing
+
+In AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+J. Li*, B. Hui, R. Cheng, B. Qin, C. Ma*, N. Huo*, F. Huang, W. Du*, L. Si, and Y. Li
+
+Read More
+
+### Recent Projects
+
+###### HINCare: A Heterogeneous Information Network for Elderly-Care Recommendation
+
+###### Jockey Club SMART Family-Link Project (JCSFL)
+###### Jockey Club Holistic Support Project for Elderly Mental Wellness (Second Phase)
+
+###### Jockey Club Golden Age Journey Project
+
+
+###### Application System Development for the Aberdeen Kai-Fong Welfare Association Social Service Centre (AKA Social Service)
+
+Read More
+
+ckcheng@cs.hku.hk
+
+​
+
+University of Hong Kong
+CB303, Chow Yei Ching Building
+Pokfulam Road, Hong Kong
+
+​
+
+@copyright 2022 by Reynold Cheng
+
+bottom of page

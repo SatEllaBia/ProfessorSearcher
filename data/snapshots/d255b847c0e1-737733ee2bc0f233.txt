@@ -1,0 +1,142 @@
+Image: profile picture
+
+# Yuan Cao
+
+Assistant Professor
+Division of AI & Data Science
+School of Computing & Data Science
+The University of Hong Kong
+
+  * About
+  * Research Interests
+  * Publications
+
+  *   * Twitter
+  * Facebook
+  * Email (yuancao@hku.hk)
+
+## Yuan Cao
+
+#### Assistant Professor
+Division of AI & Data Science
+School of Computing & Data Science
+The University of Hong Kong
+#### Office: Rm 118, Run Run Shaw Building
+Phone: (852) 3917-8315
+Email: yuancao@hku.hk
+I am an Assistant Professor in the School of Computing & Data Science at the University of Hong Kong. Before joining the University of Hong Kong, I was a postdoctoral researcher in the Department of Computer Science at University of California, Los Angeles working with Prof. Quanquan Gu. I obtained my Ph.D. in the Program in Applied and Computational Mathematics at Princeton University, where I worked with Prof. Han Liu and Prof.
+Weinan E.
+I am looking for highly motivated Ph.D. students to work with me on research problems in machine learning and data science. Please drop me an email with your CV if you are interested in joining my group.
+### Research Interests
+
+My research interests include:
+
+  * Machine learning
+  * Learning theory
+  * High-dimensional data analysis
+  * Optimization
+
+### Publications and Preprints
+#### (* indicates equal contribution)
+  * Towards Understanding Generalization in DP-GD: A Case Study in Training Two-Layer CNNs
+Zhongjie Shi, Puyu Wang, Chenyang Zhang and Yuan Cao, in Proc. of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026.
+  * Towards Understanding Transformers in Learning Random Walks
+Wei Shi and Yuan Cao, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 38, 2025.
+  * Understanding the Generalization of Stochastic Gradient Adam in Learning Neural Networks
+Xuan Tang, Han Zhang, Yuan Cao and Difan Zou, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 38, 2025.
+  * On the Robustness of Transformers against Context Hijacking for Linear Classification
+Tianle Li*, Chenyang Zhang*, Xingwu Chen, Yuan Cao and Difan Zou, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 38, 2025.
+  * Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization
+Xuran Meng, Yuan Cao and Weichen Wang, Journal of the American Statistical Association (JASA), 2025.
+  * Transformer Learns Optimal Variable Selection in Group-Sparse Classification
+Chenyang Zhang, Xuran Meng and Yuan Cao, in Proc. of the 13th International Conference on Learning Representations (ICLR), 2025.
+  * On the Feature Learning in Diffusion Models
+Andi Han, Wei Huang, Yuan Cao and Difan Zou, in Proc. of the 13th International Conference on Learning Representations (ICLR), 2025.
+  * On the Power of Multitask Representation Learning with Gradient Descent
+Qiaobo Li, Zixiang Chen, Yihe Deng, Yiwen Kou, Yuan Cao and Quanquan Gu, in Proc. of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+  * Quantifying the Optimization and Generalization Advantages of Graph Neural Networks Over Multilayer Perceptrons
+Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki, in Proc. of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+  * Transformers and their roles as time series foundation models
+Dennis Wu*, Yihan He*, Yuan Cao*, Jianqing Fan and Han Liu, arXiv: 2502.03383, 2025.
+  * Transformers Simulate MLE for Sequence Generation in Bayesian Networks
+Yuan Cao*, Yihan He*, Dennis Wu, Hong-Yu Chen, Jianqing Fan and Han Liu, arXiv:2501.02547, 2025.
+  * Learning Spectral Methods by Transformers
+Yihan He*, Yuan Cao*, Hong-Yu Chen, Dennis Wu, Jianqing Fan and Han Liu, arXiv:2501.01312, 2025.
+  * The Implicit Bias of Adam on Separable Data
+Chenyang Zhang, Difan Zou and Yuan Cao, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 37, 2024.
+  * Attention Boosted Individualized Regression
+Guang Yang, Yuan Cao and Long Feng, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 37, 2024.
+  * Global Convergence in Training Large-Scale Transformers
+Cheng Gao*, Yuan Cao*, Zihao Li, Yihan He, Mengdi Wang, Han Liu, Jason Klusowkski and Jianqing Fan, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 37, 2024.
+  * One-Layer Transformer Provably Learns One-Nearest Neighbor In Context
+Zihao Li*, Yuan Cao*, Cheng Gao, Yihan He, Han Liu, Jason Klusowkski, Jianqing Fan and Mengdi Wang, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 37, 2024.
+  * On the Comparison between Multi-modal and Single-modal Contrastive Learning
+Wei Huang*, Andi Han*, Yongqiang Chen, Yuan Cao, Zhiqiang Xu and Taiji Suzuki, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 37, 2024.
+  * Per-Example Gradient Regularization Improves Learning Signals from Noisy Data
+Xuran Meng, Yuan Cao and Difan Zou, Machine Learning Journal (MLJ), 2024.
+  * Towards Simple and Provable Parameter-Free Adaptive Gradient Methods
+Yuanzhe Tao, Huizhuo Yuan, Xun Zhou, Yuan Cao and Quanquan Gu, arXiv:2412.19444, 2024.
+  * Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers
+Shuning Shang, Xuran Meng, Yuan Cao and Difan Zou, arXiv:2410.19139, 2024.
+  * Understanding the Benefits of SimCLR Pre-Training in Two-Layer Convolutional Neural Network
+Han Zhang and Yuan Cao, arXiv:2409.18685, 2024.
+  * Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data
+Xuran Meng, Difan Zou and Yuan Cao, in Proc. of the 41th International Conference on Machine Learning (ICML), 2024.
+  * On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization
+Dongruo Zhou*, Jinghui Chen*, Yuan Cao*, Ziyan Yang and Quanquan Gu, Transaction of Machine Learning Research (TMLR), 2024.
+  * Multiple Descent in the Multiple Random Feature Model
+Xuran Meng, Jianfeng Yao and Yuan Cao, Journal of Machine Learning Research (JMLR), 2024.
+  * Can Overfitted Deep Neural Networks in Adversarial Training Generalize?--An Approximation Viewpoint
+Zhongjie Shi, Fanghui Liu, Yuan Cao, Johan A.K. Suykens, arXiv:2401.13624, 2024.
+  * The Implicit Bias of Batch Normalization in Linear Models and Two-layer Linear Convolutional Neural Networks
+Yuan Cao, Difan Zou, Yuanzhi Li and Quanquan Gu, in Proc. of the 36th Annual Conference on Learning Theory (COLT), 2023.
+  * The Benefits of Mixup for Feature Learning
+Difan Zou, Yuan Cao, Yuanzhi Li and Quanquan Gu, in Proc. of the 40th International Conference on Machine Learning (ICML), 2023.
+  * Benign Overfitting in Adversarially Robust Linear Classification
+Jinghui Chen*, Yuan Cao* and Quanquan Gu, in Proc. of the 39th International Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
+  * Graph over-parameterization: Why the graph helps the training of deep graph convolutional network
+Yucong Lin, Silu Li, Jiaxing Xu, Jiawei Xu, Dong Huang, Wendi Zheng, Yuan Cao and Junwei Lu, Neurocomputing, 2023.
+  * Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization
+Difan Zou, Yuan Cao, Yuanzhi Li and Quanquan Gu, in Proc. of the 11th International Conference on Learning Representations (ICLR), 2023.
+  * How Does Semi-supervised learning with Pseudo-labelers Work? A Case Study
+Yiwen Kou, Zixiang Chen, Yuan Cao and Quanquan Gu, in Proc. of the 11th International Conference on Learning Representations (ICLR), 2023.
+  * Understanding Train-Validation Split in Meta-Learning with Neural Networks
+Xinzhe Zuo, Zixiang Chen, Huaxiu Yao, Yuan Cao and Quanquan Gu, in Proc. of the 10th International Conference on Learning Representations (ICLR), 2023.
+  * Benign Overfitting in Two-layer Convolutional Neural Networks
+Yuan Cao*, Zixiang Chen*, Mikhail Belkin and Quanquan Gu, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 35, 2022. (Oral presentation)
+  * Online Machine Learning Modeling and Predictive Control of Nonlinear Systems With Scheduled Mode Transitions
+Cheng Hu, Yuan Cao and Zhe Wu, AIChE Journal, in press.
+  * Risk Bounds for Over-parameterized Maximum Margin Classification on Sub-Gaussian Mixtures
+Yuan Cao, Quanquan Gu and Mikhail Belkin, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 34, 2021.
+  * Provable Generalization of SGD-trained Neural Networks of Any Width in the Presence of Adversarial Label Noise
+Spencer Frei, Yuan Cao and Quanquan Gu, in Proc. of the 38th International Conference on Machine Learning (ICML), 2021.
+  * Agnostic Learning of Halfspaces with Gradient Descent via Soft Margins
+Spencer Frei, Yuan Cao and Quanquan Gu, in Proc. of the 38th International Conference on Machine Learning (ICML), 2021. (Long talk)
+  * Towards Understanding the Spectral Bias of Deep Learning
+Yuan Cao*, Zhiying Fang*, Yue Wu*, Ding-Xuan Zhou and Quanquan Gu, in Proc. of the 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021.
+  * How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?
+Zixiang Chen*, Yuan Cao*, Difan Zou* and Quanquan Gu, in Proc. of the 9th International Conference on Learning Representations (ICLR), 2021.
+  * High Temperature Structure Detection in Ferromagnets
+Yuan Cao, Matey Neykov and Han Liu, Information and Inference: A Journal of the IMA, 2020.
+  * Agnostic Learning of a Single Neuron with Gradient Descent
+Spencer Frei, Yuan Cao and Quanquan Gu, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 33, 2020.
+  * A Generalized Neural Tangent Kernel Analysis for Two-layer Neural Networks
+Zixiang Chen, Yuan Cao, Quanquan Gu and Tong Zhang, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 33, 2020.
+  * Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks
+Jinghui Chen, Dongruo Zhou, Yiqi Tang, Ziyan Yang, Yuan Cao and Quanquan Gu, in Proc. of the 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan , 2020.
+  * Accelerated Factored Gradient Descent for Low-Rank Matrix Factorization
+Dongruo Zhou, Yuan Cao and Quanquan Gu, In Proc. of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS), Palermo, Sicily, Italy, 2020.
+  * Generalization Bounds of Stochastic Gradient Descent for Wide and Deep Neural Networks [slides][poster]
+Yuan Cao and Quanquan Gu, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 32, 2019. (Spotlight presentation)
+  * Tight Sample Complexity of Learning One-hidden-layer Convolutional Neural Networks [poster]
+Yuan Cao and Quanquan Gu, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 32, 2019.
+  * Algorithm-dependent generalization bounds for overparameterized deep residual networks
+Spencer Frei, Yuan Cao and Quanquan Gu, in Proc. of Advances in Neural Information Processing Systems (NeurIPS) 32, 2019.
+  * Generalization Error Bounds of Gradient Descent for Learning Over-parameterized Deep ReLU Networks
+Yuan Cao and Quanquan Gu, in Proc. of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
+  * Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks
+Difan Zou*, Yuan Cao*, Dongruo Zhou and Quanquan Gu, Machine Learning Journal (MLJ), 2019.
+  * The Edge Density Barrier: Computational-Statistical Tradeoffs in Combinatorial Inference
+Hao Lu, Yuan Cao, Zhuoran Yang, Junwei Lu, Han Liu and Zhaoran Wang, in Proc. of the 35th International Conference on Machine Learning (ICML), 2018.
+  * Local and Global Inference for High Dimensional Nonparanormal Graphical Models
+Quanquan Gu, Yuan Cao, Yang Ning and Han Liu, arXiv:1502.02347, 2015.

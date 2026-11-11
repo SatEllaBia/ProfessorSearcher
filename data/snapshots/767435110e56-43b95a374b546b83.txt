@@ -1,0 +1,121 @@
+MENU
+# Professor Yu, Yizhou
+
+PhD UC Berkeley
+Chair Professor
+Tel: (+852) 2857 8238
+Fax: (+852) 2559 8447
+Email: yzyu@cs.hku.hk
+Homepage: https://www.cs.hku.hk/~yzyu
+
+Image
+Professor Yu received his PhD degree in computer science from University of California, Berkeley in 2000. He also holds a MS degree in applied mathematics and a BE degree in computer science and engineering from Zhejiang University. He was first a tenure-track then a tenured professor at University of Illinois, Urbana-Champaign (UIUC) for 12 years. He has also collaborated with Google Brain and Microsoft Research in the past. He is an IEEE Fellow and ACM Distinguished Member.
+Professor Yu has made important contributions to AI and visual computing, including deep learning, computer vision, image processing, graphics, and VR/AR. He is a recipient of 2002 US National Science Foundation CAREER Award, 2007 NNSF China Overseas Distinguished Young Investigator Award, ACCV 2018 Best Application Paper Award, and ACM SCA 2011 and 2005 Best Paper Awards.
+He has delivered keynote or invited speeches at many international conferences, including IEEE CAD/CG 2009, International Conference on Digital Home 2012, and International Conference on Artificial Intelligence and Robots (AIR2016). His current research includes deep learning methods for machine intelligence, biomedical data analysis, computer vision, computational visual media, and geometric computing.
+Professor Yu is an associate editor of IET Computer Vision, IEEE Transactions on Visualization and Computer Graphics as well as International Journal of Software and Informatics. He was a program chair of Computational Visual Media 2017 and Computer Animation and Social Agents 2012, and a conference chair of 2017 International Conference on Machine Vision and Information Technology.
+He has served on the program committee of many leading international conferences, including SIGGRAPH, SIGGRAPH Asia, and International Conference on Computer Vision.
+## Research Interests
+
+Artificial Intelligence (AI), Machine Learning, Computer Vision, Visual Media, VR/AR
+## Selected Publications
+  * C Fang, Z Liao, and Y Yu, Piecewise Flat Embedding for Image Segmentation, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019
+  * G Li and Y Yu, Contrast-Oriented Deep Neural Networks for Salient Object Detection, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Vol 29, No 12, 2018.
+  * W Ge, B Gong, and Y Yu, Image Super-Resolution via Deterministic-Stochastic Synthesis and Local Statistical Rectification, ACM Transactions on Graphics, Vol 37, No 6, 2018 (special issue for SIGGRAPH Asia 2018).
+  * W Ge and Y Yu, Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-tuning, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+  * X Han, Z Li, H Huang, E Kalogerakis, and Y Yu, High Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference, IEEE International Conference on Computer Vision (ICCV), 2017
+  * X Han, C Gao, and Y Yu , DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling, ACM Transactions on Graphics, Vol 36, No 4, 2015 (special issue for SIGGRAPH 2017).
+  * G Li and Y Yu, Visual Saliency Detection Based on Multiscale Deep CNN Features, IEEE Transactions on Image Processing (TIP), Vol 25, No 11, 2016.
+  * Z Yan, H Zhang, R Piramuthu, V Jagadeesh, D DeCoste, W Di, and Y Yu, HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition, IEEE International Conference on Computer Vision (ICCV), 2015.
+  * S Bi, X Han, and Y Yu, An L1 Image Transform for Edge-Preserving Smoothing and Scene-Level Intrinsic Decomposition, ACM Transactions on Graphics, Vol 34, No 4, 2015 (special issue for SIGGRAPH 2015).
+  * Y Yu and JT Chang, Shadow Graphs and 3D Texture Reconstruction, International Journal of Computer Vision (IJCV), Vol 62, No 1-2, pp 35-60, 2005.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

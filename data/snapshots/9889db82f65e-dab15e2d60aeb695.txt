@@ -1,0 +1,123 @@
+MENU
+# Professor Wipf, David Paul
+
+PhD University of California San Diego
+Professor
+Email: dwipf@hku.hk
+
+
+Image
+David Paul Wipf has served as a Principal Research Scientist at Amazon Web Services and similar roles at Microsoft Research. Prior to these industry positions, he received the B.S. degree with highest honors in electrical engineering from the University of Virginia, and the M.S. and Ph.D. degrees from the University of California, San Diego as an NSF Fellow in Vision and Learning in Humans and Machines. He was later an NIH Postdoctoral Fellow at the University of California, San Francisco. Dr.
+Wipf is the recipient of multiple fellowships and awards including the 2012 IEEE Signal Processing Society Best Paper Award. He is also an IEEE Fellow.
+## Research Interests
+
+  * Foundation models and reasoning over structured data in tables, graphs, and relational databases.
+  * Understanding modern generative models through the lens of classical methods for estimating low-dimensional structure in data.
+  * Analyzing and exploiting the loss surface of latent variable generative models.
+  * Reinterpreting the forward pass of common deep architectures as energy function minimization.
+## Selected Publications
+  * Y. Lu, X. Zhu, T. He, and D. Wipf, “Sparse Autoencoders, Again?,” International Conference on Machine Learning (ICML), 2025.
+  * X. Zhu, Y. Lu, T. He, and D. Wipf, “Explicit Preference Optimization: No Need for an Implicit Reward Model,” International Conference on Machine Learning (ICML), 2025.
+  * L. Kong, X. Hu, T. He, and D. Wipf, “Common Learning Constraints Alter Interpretations of Direct Preference Optimization,” International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+  * C. Yang, Z. Li, and D. Wipf, “Chain-of-Thought Provably Enables Learning the (Otherwise) Unlearnable,” International Conference on Learning Representations (ICLR), 2025.
+  * H. Jiang, R. Liu, X. Yan, Z. Cai, M. Wang, and D. Wipf, “MuseGNN: Forming Scalable, Convergent GNN Layers that Minimize a Sampling-Based Energy,” International Conference on Learning Representations (ICLR), 2025.
+  * D. Wipf, “Marginalization Is Not Marginal: No Bad VAE Local Minima when Learning Optimal Sparse Representations,” International Conference on Machine Learning (ICML), 2023.
+  * Y. Wang, Q. Gan, X. Qiu, X. Huang, and D. Wipf, “From Hypergraph Energy Functions to Hypergraph Neural Networks,” International Conference on Machine Learning (ICML), 2023.
+  * Y. Yang, Z. Huang, and D. Wipf, “Transformers from an Optimization Perspective,” Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  * Y. Zheng, T. He, Y. Qiu, and D. Wipf, “Learning Manifold Dimensions with Conditional Variational Autoencoders,” Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  * B. Dai, L. Wenliang, and D. Wipf, “On the Value of Infinite Gradients in Variational Autoencoder Models,” Advances in Neural Information Processing Systems (NeurIPS), 2021.
+  * Y. Yang, T. Liu, Ya. Wang, J. Zhou, Q. Gan, Z. Wei, Z. Zhang, Z. Huang, and D. Wipf, “Graph Neural Networks Inspired by Classical Iterative Algorithms,” International Conference on Machine Learning (ICML), 2021.
+  * B. Dai and D. Wipf, “Diagnosing and Enhancing VAE Models,” International Conference on Learning Representations (ICLR), 2019.
+  * B. Dai, C. Zhu, and D. Wipf, “Compressing Neural Networks Using the Variational Information Bottleneck,” International Conference on Machine Learning (ICML), 2018.
+  * B. Xin, Y. Wang, W. Gao, and D. Wipf, “Maximal Sparsity with Deep Networks?,” Advances in Neural Information Processing Systems (NeurIPS), 2016.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

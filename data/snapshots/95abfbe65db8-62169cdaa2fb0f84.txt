@@ -1,0 +1,83 @@
+Image
+
+## Hengshuang Zhao
+
+Assistant Professor
+Rm424, Chow Yei Ching Building
+School of Computing and Data Science
+The University of Hong Kong
+Email: hszhao[at]cs.hku.hk
+##### Research Interests:
+
+Computer Vision Embodied AI Multimodal AI Spatial AI Generative AI Physical AI
+I am an Assistant Professor at the School of Computing and Data Science of The University of Hong Kong, where I direct the Super Artificial Intelligence Lab (SAIL). Previously, I have spent wonderful times as a Postdoctoral Researcher at Computer Science and Artificial Intelligence Laboratory (CSAIL) of MIT, supervised by Prof.
+Antonio Torralba, at Torr Vision Group of University of Oxford (beautiful Oxford), supervised by Prof. Philip Torr. I obtained my Ph.D. degree from The Chinese University of Hong Kong, supervised by Prof. Jiaya Jia. During Ph.D., I have spent wonderful times as a Research Intern, working with Dr. Xiaohui Shen, Dr. Zhe Lin, Dr.
+Kalyan Sunkavalli, Dr. Brian Price at Adobe (San Jose), Prof. Raquel Urtasun at Uber (Toronto), and Dr. Vladlen Koltun at Intel (Santa Clara).
+My general research interests cover the broad area of Computer Vision, Embodied AI, Machine Learning, and Artificial Intelligence, with special emphasis on building super intelligent systems. My research goal is to utilize artificial intelligence techniques to make machines perceive, understand, imagine, and interact with the surrounding environment, and ultimately make high positive impacts on various fields.
+Our current research interests and focus include: Embodied AI, Multimodal AI, Spatial AI, and Generative AI, and the research projects are detailed in Publication.
+Prospective students: We are actively looking for self-motivated Ph.D. students, postdoctoral researchers, research assistants, and visiting scholars, working together on exciting and cutting-edge Computer Vision, Embodied AI, Machine Learning, and Artificial Intelligence projects. If you are interested in working with me, please drop me an email with your resume. Available Ph.D.
+scholarships and opportunities include Hong Kong PhD Fellowship Scheme (HKPFS), HKU Presidential PhD Scholar Programme (HKUPS), Postgraduate Scholarships (PGS), and HKU-SLAI.
+### News
+  * [2026-07] Recognized as AI 2000 Most Influential Scholar Honorable Mention in Computer Vision 2026.
+  * [2026-07] Recognized as MIT Technology Review 35 Innovators Under 35 China.
+  * [2026-07] Zhuoling is awarded the HKU Foundation Publication Award for Research Postgraduate Students 2026.
+  * [2026-06] Selected as an Oral Session Chair for the CVPR 2026 on Multimodal Reasoning.
+  * [2026-06] We are organizing the CVPR 2026 Workshop on ScaleBot: The First Workshop on Scalable Robot Learning Systems.
+  * [2026-06] We are organizing the CVPR 2026 Workshop on The 2nd Workshop on Human-Interactive Generation and Editing.
+  * [2026-06] Invited talk at the ICRA 2026 Workshop on Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics.
+  * [2026-06] Xiaoyang is awarded the Qingyuan InnoVibe 2026 Academic Rising Star Award 2026.
+  * [2026-06] Xiaoyang is awarded The Arthur and Louise May Memorial Fund Scholarship.
+  * [2026-01] Xiaoyang is invited as an Area Chair for European Conference on Computer Vision (ECCV) 2026.
+  * [2025-12] Invited talk at the NeurIPS 2025 Workshop on Next Practices in Video Generation and Evaluation.
+  * [2025-10] Selected as an Oral Session Chair for the ICCV 2025 on Multi-modal Learning.
+  * [2025-10] We are organizing the ICCV 2025 Workshop on Human-Interactive Generation and Editing.
+  * [2025-10] Awarded PRCV 2025 Best Area Chair Award.
+  * [2025-09] Awarded the Ant InTech Award 2025.
+  * [2025-09] Lihe is awarded the Ant InTech Scholarship - Future 2025.
+  * [2025-09] Lihe is awarded the Tencent Project Up Scholarship 2025.
+  * [2025-07] Recognized as AI 2000 Most Influential Scholar Honorable Mention in Computer Vision 2025.
+  * [2025-07] Awarded the World Artificial Intelligence Conference (WAIC) Bright Star Award 2025.
+  * [2025-07] Awarded the World Artificial Intelligence Conference (WAIC) Youth Outstanding Paper Award 2025.
+  * [2025-06] Xiaoyang is awarded the CVPR Doctoral Consortium Award 2025.
+  * [2025-06] We are organizing the CVPR 2025 Tutorial on The 2nd Point Cloud Tutorial: All You Need To Know About 3D Point Cloud.
+  * [2025-06] Invited talk at the CVPR 2025 Workshop on PixFoundation: Workshop on Pixel-level Vision Foundation Models.
+  * [2025-06] Invited talk at the CVPR 2025 Workshop on Pixel-level Video Understanding in the Wild Challenge.
+  * [2025-04] Invited talk at the ICLR 2025 Workshop on Embodied Intelligence with Large Language Models In Open City Environment.
+  * [2025-04] Our Point Transformer V3 won the CVPR 2024 Waymo 3D Semantic Segmentation Challenge Champion.
+  * [2025-03] Recognized as 100 Young Pioneers in Artificial Intelligence 2025.
+  * [2025-01] Lihe is awarded the ByteDance Scholarship 2024.
+  * [2024-12] Xi is awarded the prestigious NSFC PhD Research Fund by the National Natural Science Foundation of China.
+  * [2024-09] Invited talk at the ECCV 2024 Workshop on Synthetic Data for Computer Vision.
+  * [2024-09] Invited talk at the ECCV 2024 Workshop on Large-scale Video Object Segmentation.
+  * [2024-08] Awarded the prestigious Excellent Young Scientists Fund by the National Natural Science Foundation of China.
+  * [2024-07] Awarded the World Artificial Intelligence Conference (WAIC) Youth Outstanding Paper Award 2024.
+  * [2024-07] We are organizing the ICML 2024 Workshop on Multimodal Foundation Models for Embodied Agents.
+  * [2024-06] Invited talk at the CVPR 2024 Area Chair Workshop.
+  * [2024-06] We are organizing the CVPR 2024 Tutorial on All You Need To Know About Point Cloud Understanding.
+  * [2024-06] Our Depth Anything is integrated into Apple Core ML Models for fantastic applications.
+  * [2024-06] Our Depth Anything won the CVPR 2024 Best Demo Honorable Mention.
+  * [2024-03] Recognized as AI 2000 Most Influential Scholar Honorable Mention in Computer Vision 2024.
+  * Serve as an Area Chair or Lead Area Chair for CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, etc.
+  * Serve as an Associate Editor for IEEE TPAMI, Pattern Recognition, Science China Information Sciences, and IEEE TCSVT (Guest).
+## Research Works (All Publications)
+
+G
+### Generative AI
+
+Creating and editing images, videos, 3D content, and controllable worlds.
+CVPR 2026 Hint2GenBridging understanding and generation with code-structured hints. CVPR 2026 Highlight Temporal Equilibrium MeanFlowOne-step generation by bridging the scale gap. CVPR 2026 GDROGroup-level reward post-training for diffusion models. CVPR 2026 SURFSignature-retained fast video generation. CVPR 2026 SynMotionSemantic-visual adaptation for motion-customized video generation. NeurIPS 2025 Oral PlayerOneEgocentric world simulator for embodied agents. NeurIPS 2025 MiCoLearning interaction-aware representations for embodied agents. NeurIPS 2025 ROSERemoving objects with side effects in videos. NeurIPS 2025 DB GenSpaceBenchmarking spatially-aware image generation. SIGGRAPH Asia 2025 DiffCameraArbitrary refocusing on images. SIGGRAPH 2025 VideoAnyDoorHigh-fidelity video object insertion with precise motion control. SIGGRAPH 2025 LayerFlowLayer-aware video generation. SIGGRAPH 2025 FashionComposerCompositional fashion image generation. CVPR 2025 Highlight UniRealUniversal image generation and editing via real-world dynamics. TPAMI 2025 AnyDoorZero-shot object-level image customization. NeurIPS 2024 MimicBrushZero-shot image editing with reference imitation. ICLR 2026 Anime-ReadyControllable 3D anime character generation.
+E
+### Embodied AI
+
+Learning agents that reason, predict, and act in dynamic physical environments.
+arXiv 2026 DreamAvoidCritical-phase test-time dreaming to avoid failures in VLA policies. NeurIPS 2026 FASTERRethinking real-time flow vision-language-action policies. arXiv 2026 Sim-to-Real Dynamic Object ManipulationOptimization path shaping for dynamic manipulation on conveyor systems. ICML 2026 Any3D-VLAEnhancing VLA robustness via diverse point clouds. CVPR 2026 DrivePISpatial-aware 4D MLLM for driving understanding, perception, prediction, and planning. CVPR 2026 GenieDrivePhysics-aware driving world model with 4D occupancy guided video generation. ICML 2025 VIPVision planning and prediction for embodied decision making. ICML 2025 LARMLarge auto-regressive model for long-horizon embodied intelligence. RA-L 2024 DriveGPT4Interpretable end-to-end autonomous driving via large language models. NeurIPS 2026 FlowR2ALearning reward-to-action distributions for multimodal driving planning. arXiv 2025 VLN-R1Vision-language navigation via reinforcement fine-tuning.
+M
+### Multimodal AI
+
+Binding vision, language, point clouds, and dense pixel supervision into unified models.
+ICLR 2026 SigLIP-HDFine-to-coarse supervision for high-definition vision-language pre-training. ICLR 2026 GPT4SceneUnderstanding 3D scenes from videos with vision-language models. ICLR 2026 Mini-o3Scaling up reasoning patterns and interaction turns for visual search. AAAI 2026 Game Ground BenchComplex semantic grounding across game universes. NeurIPS 2025 Seg-VARImage segmentation with visual autoregressive modeling. ICCV 2025 ViLLaVideo reasoning segmentation with large language model guidance. ICCV 2025 DisCoDistinct and coherent visual encapsulation in video MLLMs. ICML 2025 HaploVLA single-transformer baseline for multimodal understanding. TPAMI 2025 GPT4Point++Unified point-language understanding and generation.
+S
+### Spatial AI
+
+Recovering depth, geometry, 3D structure, and spatial representations at scale.
+ICLR 2026 Less Gaussians, Texture More4K feed-forward textured splatting for spatial reconstruction. ICLR 2026 Depth Anything with Any PriorPrior-guided depth estimation for robust spatial perception. NeurIPS 2025 ConcertoJoint 2D-3D self-supervised learning for spatial representations. ICCV 2025 Highlight StableDepthScene-consistent and scale-invariant monocular depth. CVPR 2025 DriveGPT4-V2Reliable multimodal reasoning for autonomous driving. NeurIPS 2024 Depth Anything V2Depth foundation models for broad real-world deployment. NeurIPS 2024 LiTUnifying LiDAR languages with LiDAR translator. ECCV 2024 Pixel-GSPixel-aware gradient control for 3D Gaussian splatting.

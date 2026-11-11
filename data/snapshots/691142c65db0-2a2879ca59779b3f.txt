@@ -1,0 +1,112 @@
+MENU
+# Professor Zhao, Hengshuang
+
+PhD CUHK
+Assistant Professor
+
+Tel: (+852) 2857 8270
+Fax: (+852) 2559 8447
+Email: hszhao@cs.hku.hk
+Homepage: https://www.ai.hku.hk/~hszhao
+Research Lab: https://sail.ai.hku.hk
+
+Image
+Prof. Hengshuang Zhao is an Assistant Professor at the School of Computing and Data Science of The University of Hong Kong and an NSFC Excellent Young Scientist. Before that, he was a postdoctoral researcher at Massachusetts Institute of Technology and University of Oxford. His general research interests cover the broad area of Computer Vision, Embodied AI, Machine Learning, and Artificial Intelligence, with special emphasis on building super intelligent systems.
+He has published more than 100 papers in top venues like CVPR, NeurIPS, and TPAMI. His research works have been cited about 60,000+ times, one of his first-authored papers gets more than 20,000 citations, and six of his first-authored papers get more than 1,000 citations.
+He has won several champions in competitive international challenges, and many awards and hornors like the WAIC rising star award, bright star award, youth outstanding paper award, Ant InTech award, CVPR best demo honorable mention award, 100 young pioneers in artificial intelligence, 35 Innovators Under 35 China by MIT Technology Review, and is recognized as one of the most influential scholars in computer vision by AI 2000 and is ranked as world’s top 2% scientists by Stanford University.
+He serves as an Area Chair for CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR, and an Associate Editor for IEEE TPAMI.
+## Research Interests
+
+Computer Vision, Embodied AI, Machine Learning, Artificial Intelligence
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

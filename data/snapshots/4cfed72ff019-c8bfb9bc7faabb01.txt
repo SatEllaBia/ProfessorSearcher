@@ -1,0 +1,156 @@
+MENU
+
+# Professor Pan, Jia
+
+PhD North Carolina, Chapel Hill
+Associate Professor
+Tel: (+852) 2857 8441
+Fax: (+852) 2559 8447
+Email: jpan [AT] cs [DOT] hku [DOT] hk
+Chief Research Scientist, LimX Dynamics
+
+Image
+
+##
+## Research Interests
+
+Robotics and Artificial Intelligence, with the goal of building reliable, general-purpose, and affordable autonomous robots that can understand and interact with the physical world, acquire generalizable physical intelligence, and be flexibly composed and harnessed as agentic physical systems.
+
+## Information for Prospective Students
+
+Express your interest here (for prompt check, please don't send me emails directly)
+## One Representative Publication for Each Team Member:
+  * Yinqiang Zhang, Liang Lu, Yipeng Pan, Maolin Lei, Yuhan Xie, Zhanteng Xie, Xiaowei Luo, Jia Pan. BIM-Loc: BIM-integrated discrepancy-aware LiDAR-based indoor localization,  International Journal of Robotics Research (IJRR), 2026 [Yinqiang Zhang, Ph.D. 2026]
+  * Chengyu Deng, Guanqi Chen, Yizhou Chen, Zejia Liu, Zhiwen Ruan, Guanhua Chen, Jia Pan. Semantically Structured Mixture-of-Experts for Compositional Robotic Manipulation,  in Robotics: Science and Systems (RSS), 2026
+  * Yuhan Xie, Yixi Cai, Yinqiang Zhang, Lei Yang, Jia Pan*. GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction, in Robotics: Science and Systems (RSS), 2025
+  * Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan*. NetTrack: Tracking Highly Dynamic Objects with a Net. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+  * Shijie Lin, Guangze Zheng, Ziwei Wang, Ruihua Han, Wanli Xing, Zeqing Zhang, Yifan Peng*, Jia Pan*. Seeing in Extreme Bright: Embodied Neuromorphic Synergy for Lighting-robust Machine Vision, Nature Communications, 15, 10781, 2024 [Shijie Lin, PhD. 2025]
+  * Hao Xu, Jia Pan*, HHD-GP: Incorporating Helmholtz-Hodge Decomposition into Gaussian Processes for Learning Dynamical Systems. In Neural Information Processing Systems (NeurIPS), 2024 [Hao Xu, Ph.D. 2024]
+  * Dongjie Yu, Hang Xu, Yizhou Chen, Yi Ren, Jia Pan*. BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation, in Workshop on Algorithmic Foundations of Robotics (WAFR), 2024
+  * Ruihua  Han, Shuai Wang, Shuaijun Wang, Zeqing Zhang, Jianjun Chen, Shijie Lin, Chengyang Li, Chengzhong Xu, Yonina C Eldar, Qi Hao*, and Jia Pan*. NeuPAN: Direct Point Robot Navigation with End-to-End Modelbased Learning, IEEE Transactions on Robotics, 2025 [Ruihua Han, HKU-SUSTech Joint Ph.D. 2024, SUSTech co-superviser: Qi Hao]
+  * Peng Zhou, Pai Zheng, Jiaming Qi, Chengxi Li, Hoiyin Lee, Yipeng Pan, Chenguang Yang, David Navarro-Alarcon, Jia Pan*. Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Neural Dynamics Model. IEEE/ASME Transactions on Mechatronics, to appear, 2024 [Peng Zhou, Postdoc 2023-2025]
+  * Linhan Yang, Lei Yang, Haoran Sun, Zeqing Zhang, Haibin He, Fang Wan, Chaoyang Song*, Jia Pan*, One Fling to Goal: Environment-aware Dynamics for Goal-conditioned Fabric Flinging, in Workshop on Algorithmic Foundations of Robotics (WAFR), 2024 [Linhan Yang, HKU-SUSTech Joint Ph.D. 2024, SUSTech co-superviser: Chaoyang Song]
+  * Yuping Gu, Ziqian Wang, Shihao Feng, Haoran Sun, Haibo Lu, Jia Pan*, Fang Wan*, Chaoyang Song*. Journal of Computational Design and Engineering, vol. 10(5), pp. 1941–1956, 2023 [Yuping Gu, HKU-SUSTech Joint Ph.D. 2024, SUSTech co-superviser: Chaoyang Song]
+  * Dawei Wang, Weizi Li, Lei Zhu, Jia Pan*. Learning to Control and Coordinate Mixed Traffic Through Robot Vehicles at Complex and Unsignalized Intersections. International Journal of Robotics Research (IJRR), to appear [Dawei Wang, Ph.D. 2023]
+  * Xuebo Ji, Zherong Pan, Xifeng Gao, Jia Pan*. Text-Guided Synthesis of Crowd Animation, SIGGRAPH, 2024
+  * Shuai Zhang, Xiaokang Lei, Xingguang Peng, Jia Pan*, Heterogeneous targets trapping with swarm robots by using adaptive density-based interaction. IEEE Transactions on Robotics (TRO), 2024 [Shuai Zhang, Postdoc 2021-2025]
+  * Guanqi Chen, Lei Yang, Ruixing Jia, Zhe Hu, Yizhou Chen, Wei Zhang, Wenping Wang, Jia Pan*. Language-Augmented Symbolic Planner for Open-World Task Planning, Robotics: Science and Systems (RSS), 2024
+  * Ke Guo, Wei Jing, Junbo Chen, Jia Pan*. CCIL: Context-conditioned imitation learning for urban driving, Robotics: Science and Systems (RSS), 2023 [Ke Guo, Ph.D. 2023]
+  * Guanhua Chen, Lu Hou, Yun Chen, Wenliang Dai, Lifeng Shang, Xin Jiang, Qun Liu, Jia Pan, Wenping Wang. mCLIP: Multilingual CLIP via Cross-lingual Transfer, Annual Meeting of the Association for Computational Linguistics (ACL), 2023 [Guanhua Chen, Ph.D. 2022]
+  * Zhe Hu, Yu Zheng*, Jia Pan*. Grasping Living Objects with Adversarial Behaviors using Inverse Reinforcement Learning. In IEEE Transactions on Robotics (TRO), 2022 [Zhe Hu, Ph.D. 2021]
+  * Hao Tian, Chaoyang Song, Changbo Wang, Xinyu Zhang, Jia Pan*. Sampling-based Planning for Retrieving Near-cylindrical Objects in Cluttered Scenes using Hierarchical Graphs. In IEEE Transactions on Robotics (TRO), 2022 [Hao Tian, Postdoc 2020-2022]
+  * Zhuoqi Zheng, Shengfeng He, Jia Pan*. Efficient Exploration in Crowds by Coupling Navigation Controller and Exploration Planner. IEEE Robotics and Automation Letters (RAL), vol. 7(4), pp. 12126 - 12133, 2022 [Zhuoqi Zheng, Ph.D. 2023]
+  * Yupu Lu, Shijie Lin, Jia Pan*. ModLaNets: Learning Generalisable Dynamics via Modularity and Physical Inductive Bias. In International Conference on Machine Learning (ICML), long presentation, 2022
+  * Youcan Yan, Zhe Hu, Zhengbao Yang, Wenzhen Yuan, Chaoyang Song, Jia Pan*, and Yajing Shen*. A soft magnetic skin for self-decoupled and super-resolved tactile sensing. Science Robotics, 6(51), 2021 [Youcan Yan, Ph.D. 2022]
+  * Yajue Yang, Pinxin Long, Xibin Song, Jia Pan*, and Liangjun Zhang*. Optimization-based framework for excavation trajectory generation. IEEE Robotics and Automation Letters (RAL), 6(2):1479 – 1486, 2021 [Yajue Yang, Ph.D. 2021]
+  * Xuan Zhao, Tingxiang Fan, Yanwen Li, Yu Zheng, Jia Pan*.  An Efficient and Responsive Robot Motion Controller for Safe Human-Robot Collaboration. IEEE Robotics and Automation Letters (RAL), 6(3): 6068 - 6075, 2021 [Xuan Zhao, Ph.D. 2021]
+  * Zhong Zhang, Yu Zheng*, Zhe Hu, Lezhang Liu, Xuan Zhao, Xiong Li, Jia Pan*. A Computational Framework for Robot Hand Design via Reinforcement Learning. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 7216-7222, 2021 [Zhong Zhang, Ph.D. 2022]
+  * Tinxiang Fan, Pinxin Long, Wenxi Liu, Jia Pan*. Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios. International Journal on Robotics Research (IJRR), 39(7):856–892, 2020 [Tingxiang Fan, Ph.D. 2022]
+  * Pinxin Long, Wenxi Liu, Jia Pan*. Deep-learned collision avoidance policy for distributed multi-agent navigation. IEEE Robotics and Automation Letters (RAL), 2(2):656–663, 2017 [Pinxin Long, Research Assistant 2016]
+  * Jia Pan* and Dinesh Manocha. Fast probabilistic collision checking for sampling-based motion planning using locality-sensitive hashing. International Journal of Robotics Research (IJRR), 35(12):1477–1496, 2016
+  * Jia Pan*, Xinyu Zhang, Dinesh Manocha , Efficient penetration depth computation using active learning, SIGGRAPH Asia, 2013
+  * Jia Pan*, Liangjun Zhang, Dinesh Manocha , Collision-free and Smooth Trajectory Computation in Cluttered Environments, International Journal of Robotics Research (IJRR), 2012
+  * Jia Pan*, Dinesh Manocha , GPU-based Parallel Collision Detection for Fast Motion Planning, International Journal of Robotics Research (IJRR), 2012
+## Recent Research Grants
+  * RGC's General Research Fund (2026) High Spatiotemporal Resolution Tactile Sensing for Impact-Aware Dynamic Robotic Operations
+  * RGC's General Research Fund (2025) Resilient Hierarchical Imitation Learning for Long-Horizon General-Purpose Manipulation
+  * RGC-NSFC Joint Research Scheme (2024) Modelling, Perception, Learning and Reaction of Human Feedback for Open-World Mixed Autonomy
+  * RGC's General Research Fund (2024) Dynamic non-prehensile manipulation of cloth fabric using multi-modal planning
+  * RGC's General Research Fund (2020) Eﬀective Navigation in Dense Crowds: Getting Robot Unlost, Unfrozen, and Unobtrusive using Deep Reinforcement Learning
+  * RGC's General Research Fund (2019) Fully-Decentralized and Near-Optimal Large-Scale Multi-Robot Collision Avoidance via Deep Learning
+  * RGC-NSFC Joint Research Scheme (2017) 3D Design Algorithms and Dexterous Robotic Sewing for Customized Garment Fabrication
+  * RGC's Early Career Scheme (2017) Autonomous Warehouse Logistics with Multiple Mobile Manipulators
+  * RGC's General Research Fund (2016) Learning from Demonstrations for Robotics Manipulation of Deformable Objects
+
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

@@ -1,0 +1,128 @@
+MENU
+# Professor Luo, Ping
+
+PhD CUHK
+Associate Director (AI Research and Tech Transfer) of CDS
+Associate Director (Innovation and outreach) of Musketers Foundation Institute of Data Science
+Professor
+Tel: (+852) 2859 2190
+Fax: (+852) 2559 8447
+Email: pluo@cs.hku.hk
+Homepage: http://luoping.me
+
+Image
+
+Google Scholar
+
+I am recruiting a number of Postdocs, PhDs, and RAs. Please drop me an email via pluo.lhi@gmail.com. See details.
+Ping Luo's researches aim at 1) developing Differentiable/ Meta/ Reinforcement Learning algorithms that endow machines and devices to solve complex tasks with larger autonomy, 2) understanding foundations of deep learning algorithms, and 3) enabling applications in Computer Vision and Artificial Intelligence.
+Ping Luo received his PhD degree in 2014 in Information Engineering, the Chinese University of Hong Kong (CUHK), supervised by Prof. Xiaoou Tang (founder of SenseTime Group Ltd.) and Prof. Xiaogang Wang. He was a Research Director in SenseTime Research. He has published 70+ peer-reviewed articles (including 20 first author papers) in top-tier conferences and journals such as TPAMI, IJCV, ICML, ICLR, NeurIPS and CVPR.
+He has won a number of competitions and awards such as the first runner up in 2014 ImageNet ILSVRC Challenge, the first place in 2017 DAVIS Challenge on Video Object Segmentation, Gold medal in 2017 Youtube‐8M Video Classification Challenge, the first place in 2018 Drivable Area Segmentation Challenge for Autonomous Driving, 2011 HK PhD Fellow Award, and 2013 Microsoft Research Fellow Award (ten PhDs in Asia).
+## Research Interests
+
+Computer Vision, Machine Learning, Deep Learning
+## Selected Journal Articles:
+  * P. Luo, J. Ren, Z. Peng, R. Zhang, J. Li, “Differentiable Switchable Normalization for learning-to-normalize deep representation”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019
+  * Z. Liu, X. Li, P. Luo*, C. C. Loy, X. Tang, “Deep Learning Markov Random Field for Semantic Segmentation ”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018 (*corresponding author)
+  * Z. Zhang, P. Luo*, C. C. Loy, and X. Tang, “Learning Deep Representation for Face Alignment with Auxiliary Attributes”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), No. 05 - May (vol. 38), 2016 (*corresponding author)
+  * S. Yang, P. Luo, C. C. Loy, and X. Tang, “Faceness-Net: Face Detection through Deep Facial Part Responses”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018
+  * Z. Zhang, P. Luo, C. C. Loy, and X. Tang, “From Facial Expression Recognition to Interpersonal Relation Prediction”, International Journal of Computer Vision (IJCV), 2018
+  * W. Ouyang, X. Zeng, X. Wang, S. Qiu, P. Luo et al., “DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), No. 07 - July (vol. 39), 2017
+## Selected Conferences:
+  * P. Luo, Z. Peng, W. Shao, R. Zhang, J. Ren, and L. Wu, “Differentiable Dynamic Normalization for Learning Deep Representation”, International Conference on Machine Learning (ICML), 2019, Oral
+  * P. Luo, W. Shao, X. Wang, Z. Peng, “Towards Understanding Regularization in Batch Normalization”, International Conference on Learning Representation (ICLR), 2019
+  * P. Luo, J. Ren, Z. Peng, R. Zhang, J. Li, “Differentiable learning-to-normalize via switchable normalization”, International Conference on Learning Representation (ICLR), 2019
+  * P. Luo, G. Wang, L. Lin, X. Wang, “Deep Dual Learning for Semantic Image Segmentation”, IEEE International Conference on Computer Vision (ICCV), 2017
+  * P. Luo, “Learning Deep Architectures via Generalized Whitened Neural Networks”, Thirty-fourth International Conference on Machine Learning (ICML), 2017, Oral
+  * P. Luo, “EigenNet: Towards Fast and Structural Learning of Deep Neural Networks”, International Joint Conference on Artificial Intelligence (IJCAI), 2017, Oral
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

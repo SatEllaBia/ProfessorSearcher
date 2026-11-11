@@ -1,0 +1,186 @@
+MENU
+
+* * *
+
+Teaching  | Research  | Publications  | Presentations  | Students  | Services  | Biography  | Honors  | CV.pdf
+
+* * *
+# Professor Ma, Yi
+
+PhD UC Berkeley
+Professor, Chair of Artificial Intelligence;
+Director of School of Computing and Data Science (HKU CDS);
+Director of HKU Musketeers Foundation Institute of Data Science (HKU IDS)
+Fax: (+852) 2559 8447
+Email: cdsdir@hku.hk, mayi@hku.hk
+
+Image
+Professor Yi Ma is a Chair Professor in the Musketeers Foundation Institute of Data Science (HKU IDS) and Department of Computer Science at the University of Hong Kong. He took up the Directorship of HKU IDS on January 12, 2023. He is also a Professor at the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley.
+Professor Ma received his Bachelor’s degrees in Automation and Applied Mathematics from Tsinghua University in 1995, two Masters degrees in EECS and Mathematics in 1997, and a PhD degree in EECS from UC Berkeley in 2000.
+He has been on the faculty of UIUC ECE from 2000 to 2011, the principal researcher and manager of the Visual Computing group of Microsoft Research Asia from 2009 to 2014, and the Executive Dean of the School of Information Science and Technology of ShanghaiTech University from 2014 to 2017. He then joined the faculty of UC Berkeley EECS in 2018.
+He has published about 60 journal papers, 120 conference papers, and three textbooks in computer vision, generalized principal component analysis, and high-dimensional data analysis. He received the NSF Career award in 2004 and the ONR Young Investigator award in 2005. He also received the David Marr prize in computer vision from ICCV 1999 and best paper awards from ECCV 2004 and ACCV 2009. He has served as the Program Chair for ICCV 2013 and the General Chair for ICCV 2015.
+He is a Fellow of IEEE, ACM, and SIAM.
+## Research Interests
+
+Computer vision, high-dimensional data analysis, and intelligent systems
+## Selected Publications
+  * Kwan Ho Ryan Chan, Yaodong Yu, Chong You, Haozhi Qi, John Wright, and Yi Ma, ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction, arXiv:2104.10446, Journal of Machine Learning Research (JMLR), 2022.
+  * John Wright, Allen Yang, Arvind Ganesh, Shankar Sastry, and Yi Ma, Robust Face Recognition via Sparse Representation, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 31. no.2, February 2009.
+  * John Wright, and Yi Ma, High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Cambridge University Press, 2022.
+  * Rene Vidal, Yi Ma, and Shankar Sastry, High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications, Interdisciplinary Applied Mathematics #40, Springer, 2016.
+  * Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Interdisciplinary Applied Mathematics #26, Springer, 2003.
+## Other Affiliations
+  * Berkeley Artificial Intelligence Research (BAIR)
+  * Berkeley Center for Augmented Cognition (CRC)
+  * Berkeley FHL Vive Center for Enhanced Reality
+  * Tsinghua-Berkeley Shenzhen Institute (TBSI)
+  * Institute of Data Science (IDS), the University of Hong Kong
+  * Department of Computer Science, the University of Hong Kong
+  * School of Computing and Data Science, the University of Hong Kong
+## Starting in January 2023 on Leave as
+
+  * Inaugural Director of Institute of Data Science (IDS), the University of Hong Kong.
+  * Inaugural Director of the School of Computing and Data Science, the University of Hong Kong.
+## New and Recent Events
+  * Keynote Speech, the 2024 Future Science Prize Symposium, Hong Kong, November 2, 2024.
+  * Keynote Speech, the 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV), Urumqi, China, Ocotber 18-20, 2024.
+  * Plenary Talk, Hong Kong China Friendship Association Forum, August 28, 2024.
+  * Plenary Talk, CCF BigData, Qingdao, China, August 10, 2024.
+  * Plenary Talk, the International Conference on Mathematical Theory of Deep Learning, Academy of Mathematics and Systems Science of CAS, Beijing, China, August 5-9, 2024.
+  * Keynote speech, Basic Science and Artificial Intelligence Forum, International Congress of Basic Science, Beijing, China, July 21, 2024.
+  * "Learning Deep Low-Dim Models from High-Dim Data: From Theory to Practice", CVPR, Seattle, June 17-21, 2024.
+  * Tutorial at BIRS Workshop "Mathematics of Deep Learning", the Casa Matematica Oaxaca (CMO), Mexico, June 9-14, 2024.
+  * Keynote, Huawei Strategic Forum, Shenzhen, May 21, 2024.
+  * APAC Keynote, Goldman Sachs Engineering Conference, May 13, 2024.
+  * Invited talk at San-Ya-Po Forum, Huawei, Shenzhen, May 11, 2024.
+  * Invited talk at the HKU Business School Global CEO program, May 10, 2024.
+  * Invited talk on "Transparent and Consistent Deep Representation Learning" at Alibaba Cloud, Hong Kong, May 7, 2024.
+  * Tutorial "Building White-Box Deep Neural Networks", ICASSP, Seoul, Korea, April 14-19, 2024.
+  * Guest of Honor and Speaker at the 2024 Annual Joint High Table dinner, by the HKU student residence, April 12, 2024.
+  * Talk on "Transparent and Consistent Deep Representation Learning" at the College of Engineering and Computer Science, VinUniversity, Hanoi, Vietnam, April 8th, 2024.
+  * Talk on "Transparent and Consistent Deep Representation Learning" at the Department of Statistics, Stanford University, March 7th, 2024.
+  * Recorded Talk on "Transparent and Consistent Deep Representation Learning" at the Department of Mathematics, UC Davis, March 6th, 2024.
+  * A Distinguished Lecture at the Masters Forum of the Chinese University of Hong Kong, Shenzhen, January 16, 2024.
+  * A Tutorial Lecture on ReduNet at the International Conference on Parsimony and Learning, Hong Kong, January 6, 2024.
+  * General Chair of the International Conference on Parsimony and Learning, Hong Kong, January 3-6, 2024.
+## Recent Releases
+  * A New Website: Sclaing White-Box Transformers for Vision.
+  * A New Website: White-Box Transformers via Sparse Rate Reduction.
+  * A New International Conference: Conference on Parsimony and Learning (CPAL) (Hong Kong, Jan. 3-6, 2024).
+  * ACDL2023 Plenary Lectures on Deep Networks and Intelligence.
+  * A New Textbook: High-Dimensional Data Analysis with Low-Dimensional Models (or a mirror site for download in China).
+  * A New Position Paper: On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence.
+  * A New Presentation & Roundtable Video: On Parsimony and Self-Consistency: the Origin and Nature of Intelligence.
+  * A New Tutorial: ICASSP 2023 Short Course on Low-dimensional Models and Deep Networks (a seven-lecture short course).
+  * A New Course EECS208: Computational Principles for High-Dimensional Data Analysis (with a Course Website and Lecture Slides).
+  * Recorded video of talk: Transparent and Consistent Deep Representation Learning, Mathematics of UC Davis, March 6, 2024.
+  * Recorded videos on Youtube of From Artificial Intelligence to Autonomous Inelligence, in Mandarin (with Slides), Harvard Academic Saloon, March 10, 2023.
+  * Recorded videos on Youtube of Tutorial and Lectures of the 3rd SLowDNN Workshop, Abu Dhabi, January 3-6, 2023.
+  * Recorded video on On the Principles of Parsimony and Self-Consistency: Structured Compressive Closed-loop Transcription, IDS HKU, Nov. 25, 2022.
+  * Recorded video on On Parsimony and Self-Consistency, the Origin and Nature of Intelligence Workshop, BAAI, September 21, 2022.
+  * Recorded video on Closed-Loop Data Transcription via Minimaxing Rate Reduction (with Paper and Slides), Berkeley Neuroscience Redwood Center, December 2, 2021.
+  * Recorded video on ReduNet: Deep (Convolution) Networks from First Principles (with Paper ), at CMSA of Harvard University, April 16, 2021.
+  * Recorded video on Learning to Detect Geometric Structures from Images, CVPR 3D Scene Understanding Workshop, June 19, 2021.
+  * Recorded video of An Overview of Reinforcement Learning and Optimal Control (with Slides), February 17, 2021.
+## Project Websites
+  * Whitebox Transformers via Sparse Rate Reduction (with Yaodong Yu et. al.).
+  * ReduNet: Whitebox Deep Networks from the Principle of Rate Reduction (with Ryan Chan, Yaodong Yu, Chong You, John Wright).
+  * Canonical Factors for Hybrid Neural Fields (with Brent Yi, Weijia Zeng, and Sam Buchanan).
+  * General In-hand Object Rotation with Vision and Touch (with Haozhi Qi, Brent Yi, Jitendra Malik, etc.)
+  * Dexterous Robot Hand Manipulation (with Haozhi Qi, Roberto Calandra, and Jitendra Malik).
+  * Pursuit of Large-Scale 3D Structures and Geometry (with Yichao Zhou, Xili Dai, Haozhi Qi).
+  * UIUC/MSRA: Low-Rank Matrix Recovery via Convex Optimization (with Wright, Lin and Candes et. al.).
+  * UIUC: Face Recognition via Sparse Representation (with Wright, Ganesh, Yang, Zhou and Wagner et. al.).
+  * UIUC: Clustering and Classification via Lossy Compression (with Wright Yang, Mobahi, and Rao et. al.).
+  * UIUC: Generalized Principal Component Analysis (with Huang and Vidal).
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

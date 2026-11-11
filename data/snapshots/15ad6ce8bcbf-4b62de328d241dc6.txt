@@ -1,0 +1,375 @@
+Image: Kai Han
+# Kai Han
+
+韩锴
+
+Assistant Professor
+
+Visual AI Lab
+School of Computing and Data Science
+The University of Hong Kong
+
+   Room 220, Run Run Shaw Building
+   Pokfulam Road, Hong Kong
+   kaihanx at hku.hk
+
+𝕏 Image: WeChat QR Code
+I am an Assistant Professor at The University of Hong Kong, where I direct the Visual AI Lab. My research interests lie in computer vision, machine learning, and artificial intelligence. My current research focuses on spatial intelligence, open-world learning, foundation models, generative AI, and their relevant fields.
+The overarching goal of my research is to achieve principled and comprehensive visual understanding, close the intelligence gap between machines and humans, and build reliable AI systems for open-world use.
+Previously, I was a Visiting Faculty Researcher at Google Research, an Assistant Professor in the Department of Computer Science at University of Bristol, and a Postdoctoral Researcher in VGG at the University of Oxford, working with Prof. Andrew Zisserman and Prof. Andrea Vedaldi. I received my Ph.D.
+from the Department of Computer Science at The University of Hong Kong, advised by Prof. Kenneth K.Y. Wong. During my Ph.D., I also worked with Prof. Jean Ponce and Prof. Minsu Cho at the WILLOW team of Inria and École Normale Supérieure (ENS).
+Openings
+
+  * PhD / Postdoc / RA — Always looking for strong candidates to work on computer vision, machine learning, and AI, covering topics like spatial intelligence, foundation models, open-world learning, and generative / physical / agentic / embodied AI.
+
+PhD scholarship programs: HKPFS HKU-PS PGS HKU-BICI HKU-ASTRI
+
+Interested? Send me your resume and transcripts.
+## News
+
+[Input] ▼ SHOW MORE ▲ SHOW LESS
+Oct 2026  | Two papers are accepted: ViPS to NeurIPS 2026, Mr. DETR++ to TPAMI.
+Sept 2026  | Invited talks: ECCV 2026 Area Chair Workshop, University of Cambridge, VGG @ University of Oxford, Imperial College London, and ETH Zürich.
+Aug 2026  | Invited to serve as: Area Chair for ICLR 2027, Area Chair for CVPR 2027.
+Aug 2026  | Invited to serve as Associate Editor for TVCG.
+July 2026  | Invited to serve as Associate Editor for RA-L.
+June 2026  | Invited to serve as Action Editor for TMLR.
+June 2026  | Four papers (Spatial Panoptic Captioning, JoVA, Physical Simulation, Category Discovery) are accepted to ECCV 2026.
+Apr 2026  | Four papers (PartCo, Geometric Reciprocity, iVGR, ZeroBench) are accepted to ICML 2026.
+Apr 2026  | ZeroBench is covered by Meta's Muse Spark.
+Apr 2026  | Two papers (Infinite Ladder; CodeBind to Findings) are accepted to ACL 2026.
+Mar 2026  | One paper (AI in Oral Health Surveillance) is accepted to Journal of Dental Research (JDR).
+Feb 2026  | Three papers (Sculpt4D; Speed3R and Scene-Level Heterogeneous Physics to Findings) are accepted to CVPR 2026.
+Dec 2025  | Invited to serve as Area Chair for ECCV 2026.
+Nov 2025  | One paper (Deepfake Detection with Graph Neural Network) is accepted to KDD 2026.
+Nov 2025  | Two papers (LooC, OnlineVPO) are accepted to WACV 2026.
+Nov 2025  | One paper on semantic correspondence is accepted to TPAMI.
+Sept 2025  | Seven papers (Panoptic Captioning, 3DRS, Fin3R, Wukong, VaMP, SEAL, GSPN-2) are accepted to NeurIPS 2025.
+Sept 2025  | Invited talks at University of Cambridge and University of Birmingham in the UK.
+Aug 2025  | Invited to serve as: Area Chair for CVPR 2026, Area Chair for ICLR 2026.
+July 2025  | ZeroBench is covered by Google's Gemini 2.5 Report.
+June 2025  | Two papers (Inpaint4Drag, GRAB) are accepted to ICCV 2025.
+June 2025  | Talks @ CVPR 2025 in Nashville: Lightning talk at CVPR Area Chair Workshop; Keynote talks at CVPR Workshops on Fine-Grained Visual Categorization, Visual Anomaly and Novelty Detection, and Domain Generalization.
+June 2025  | Invited to serve as Area Chair for AAAI 2026.
+May 2025  | Two papers (GAMEBot, PruneVid) are accepted to ACL 2025.
+Mar 2025  | Splat4D is accepted to SIGGRAPH 2025.
+Feb 2025  | Six papers (ICE, HypCD, Mr. DETR, v-CLR, GSPN, PASS) are accepted to CVPR 2025.
+Jan 2025  | Five papers (HiLo, DebGCD, BiGR, Needle Threading, AvatarGO) are accepted to ICLR 2025.
+Sept 2024  | SciFIBench is accepted to NeurIPS 2024.
+Sept 2024  | Invited to serve as: Area Chair for ICLR 2025, Area Chair for CVPR 2025.
+Aug 2024  | Our Dissecting OOD and OSR paper is accepted to IJCV.
+Jul 2024  | Three papers (RegionDrag, PromptCCD, and ConceptExpress) are accepted to ECCV 2024.
+Feb 2024  | Three papers (IBD-SLAM, DreamAvatar, and SD4Match) are accepted to CVPR 2024.
+Feb 2024  | CiPR is accepted to TMLR 2024.
+Jan 2024  | Two papers (SPTNet and FROSTER) are accepted to ICLR 2024.
+Oct 2023  | Invited to serve as an Area Chair for ECCV 2024.
+Sept 2023  | One paper on text-guided 3D head avatar generation and editing is accepted to NeurIPS 2023.
+Aug 2023  | One paper on visual correspondence is accepted to TPAMI.
+July 2023  | Two papers (on generalized category discovery/open-vocabulary semantic segmentation) are accepted to ICCV 2023.
+June 2023  | Invited to serve as an Area Chair for CVPR 2024.
+Mar 2023  | OOD-CV workshop @ ICCV 2023. Welcome participants from all over!
+Feb 2023  | Two papers (on compositional zero-shot learning/3D human digitization) are accepted to CVPR 2023.
+Jul 2022  | One paper on novel category discovery without forgetting is accepted to ECCV 2022.
+Jun 2022  | Best Paper Runner-Up Award at CVPR 2022 Workshop on Continual Learning in Computer Vision.
+Mar 2022  | Three papers (about generalized category discovery/3D human digitization/instance segmentation) are accepted to CVPR 2022.
+Jan 2022  | One paper about open-set recognition is accepted to ICLR 2022.
+Oct 2021  | One paper about visual correspondence is accepted to BMVC 2021.
+Sept 2021  | One paper about novel category discovery is accepted to NeurIPS 2021.
+Sept 2021  | Recognized as an Outstanding Reviewer for ICCV 2021, in the top 5% of experienced reviewers.
+July 2021  | One paper about single- and multi-modal novel category discovery is accepted to ICCV 2021.
+June 2021  | Our AutoNovel paper is accepted to TPAMI.
+June 2021  | Recognized as an Outstanding Reviewer for CVPR 2021.
+May 2021  | One paper about dynamic convolution for semantic scene completion is accepted to TPAMI.
+Mar 2021  | One paper about long-tailed recognition is accepted to CVPR 2021.
+Dec 2020  | One paper about mirror surface reconstruction is accepted to IEEE TIP.
+Sept 2020  | One paper about dense correspondence is accepted to NeurIPS 2020.
+Jun 2020  | One paper about deep photometric stereo is accepted to TPAMI.
+June 2020  | Recognized as an Outstanding Reviewer for CVPR 2020.
+Feb 2020  | Two papers (about semantic correspondence / 3D semantic scene completion) are accepted to CVPR 2020.
+Dec 2019  | One paper about novel category discovery is accepted to ICLR 2020.
+Jul 2019  | One paper about novel category discovery is accepted to ICCV 2019.
+Jul 2019  | One paper about transparent object matting is accepted to IJCV.
+Mar 2019  | Two papers (about unsupervised object discovery and matching / uncalibrated photometric stereo) are accepted to CVPR 2019.
+## Publications
+### Recent Preprints
+Image  | Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention
+Wenye Lin, Kai Han
+arXiv preprint arXiv:2603.01683, 2026.
+BibTeX PDF arXiv
+
+    Copied!`@article{Lin2026Surgical,
+     author    = {Wenye Lin and Kai Han},
+     title     = {Surgical Post-Training: Proximal On-Policy Distillation for Reasoning with Knowledge Retention},
+     journal   = {arXiv preprint arXiv:2603.01683},
+     year      = {2026},
+    }`
+Image  | Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models
+Hongjun Wang, Po Hu, Kai Han
+arXiv preprint arXiv:2605.00906, 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@article{Wang2026GCDDomainShifts,
+     author    = {Hongjun Wang and Po Hu and Kai Han},
+     title     = {Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models},
+     journal   = {arXiv preprint arXiv:2605.00906},
+     year      = {2026},
+    }`
+Image  | Effective Prompt Pool Learning for Continual Category Discovery
+Fernando Julio Cendra, Xinghui Li, Kai Han
+arXiv preprint arXiv:2407.19001, 2026.
+BibTeX PDF arXiv
+
+    Copied!`@article{Cendra2026PromptPool,
+     author    = {Fernando Julio Cendra and Xinghui Li and Kai Han},
+     title     = {Effective Prompt Pool Learning for Continual Category Discovery},
+     journal   = {arXiv preprint arXiv:2407.19001},
+     year      = {2026},
+    }`
+Image  | MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning
+Hongjun Wang, Wei Liu, Weibo Gu, Xing Sun, Kai Han
+arXiv preprint arXiv:2603.16929, 2026.
+BibTeX PDF arXiv
+
+    Copied!`@article{Wang2026MHPO,
+     author    = {Hongjun Wang and Wei Liu and Weibo Gu and Xing Sun and Kai Han},
+     title     = {MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning},
+     journal   = {arXiv preprint arXiv:2603.16929},
+     year      = {2026},
+    }`
+Image  | Category Discovery: An Open-World Perspective
+Zhenqi He, Yuanpei Liu, Kai Han
+arXiv preprint arXiv:2509.22542, 2026
+BibTeX PDF arXiv Project
+
+    Copied!`@article{He2025Category,
+     author    = {He, Zhenqi and Liu, Yuanpei and Han, Kai},
+     title     = {Category Discovery: An Open-World Perspective},
+     journal = {arXiv preprint arXiv:2509.22542},
+     year      = {2026},
+    }`
+### 2026
+Image  | Mr. DETR++: Instructive Multi-Route Training for Detection Transformers with Mixture-of-Experts
+Chang-Bin Zhang, Yujie Zhong, Kai Han
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@article{Zhang2026MrDETRpp,
+     author    = {Chang-Bin Zhang and Yujie Zhong and Kai Han},
+     title     = {Mr. DETR++: Instructive Multi-Route Training for Detection Transformers with Mixture-of-Experts},
+     journal   = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+     year      = {2026},
+    }`
+Image  | Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding
+Xiao Lin, Xiaohu Huang, Kai Han
+Advances in Neural Information Processing Systems (NeurIPS), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Lin2026ViPS,
+     author    = {Xiao Lin and Xiaohu Huang and Kai Han},
+     title     = {Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding},
+     booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+     year      = {2026},
+    }`
+Image  | Holo-Captioning: Toward the Text Equivalent of 3D Scenes
+Kun-Yu Lin, Chengke Bu, Zhenguo Li, Kai Han
+European Conference on Computer Vision (ECCV), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Lin2026HoloCap,
+     author    = {Kun-Yu Lin and Chengke Bu and Zhenguo Li and Kai Han},
+     title     = {Holo-Captioning: Toward the Text Equivalent of 3D Scenes},
+     booktitle = {European Conference on Computer Vision (ECCV)},
+     year      = {2026},
+    }`
+Image  | Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos
+Xiaoyang Liu, Kai Han
+European Conference on Computer Vision (ECCV), 2026.
+BibTeX PDF arXiv
+
+    Copied!`@inproceedings{Liu2026ConstLaws,
+     author    = {Xiaoyang Liu and Kai Han},
+     title     = {Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos},
+     booktitle = {European Conference on Computer Vision (ECCV)},
+     year      = {2026},
+    }`
+Image  | JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing
+Xiaohu Huang, Haoyang He, Hao Zhou, Qiangpeng Yang, Shilei Wen, Kai Han
+European Conference on Computer Vision (ECCV), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Huang2025JoVA,
+     author    = {Xiaohu Huang and Haoyang He and Hao Zhou and Qiangpeng Yang and Shilei Wen and Kai Han},
+     title     = {JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing},
+     booktitle = {European Conference on Computer Vision (ECCV)},
+     year      = {2026},
+    }`
+Image  | CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery
+Yuanpei Liu, Zhenqi He, Jialu Tang, Kai Han
+European Conference on Computer Vision (ECCV), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Liu2026CloSeR,
+     author    = {Yuanpei Liu and Zhenqi He and Jialu Tang and Kai Han},
+     title     = {CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery},
+     booktitle = {European Conference on Computer Vision (ECCV)},
+     year      = {2026},
+    }`
+Image  | PartCo: Part-Level Correspondence Priors Enhance Category Discovery
+Fernando Julio Cendra, Kai Han
+International Conference on Machine Learning (ICML), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Cendra2026PartCo,
+     author    = {Fernando Julio Cendra and Kai Han},
+     title     = {PartCo: Part-Level Correspondence Priors Enhance Category Discovery},
+     booktitle = {International Conference on Machine Learning (ICML)},
+     year      = {2026},
+    }`
+Image  | Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation
+Jingyi Lu, Kai Han
+International Conference on Machine Learning (ICML), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Lu2026GeomRecip,
+     author    = {Jingyi Lu and Kai Han},
+     title     = {Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation},
+     booktitle = {International Conference on Machine Learning (ICML)},
+     year      = {2026},
+    }`
+Image  | iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning
+Chang-Bin Zhang, Yujie Zhong, Qiang Zhang, Kai Han
+International Conference on Machine Learning (ICML), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Zhang2026iVGR,
+     author    = {Chang-Bin Zhang and Yujie Zhong and Qiang Zhang and Kai Han},
+     title     = {iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning},
+     booktitle = {International Conference on Machine Learning (ICML)},
+     year      = {2026},
+    }`
+Image  | ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models
+Jonathan Roberts, Mohammad Reza Taesiri, Ansh Sharma, Akash Gupta, et al., Kai Han^{†}, Samuel Albanie^{†}
+International Conference on Machine Learning (ICML), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Roberts2026ZeroBench,
+     author    = {Jonathan Roberts and Mohammad Reza Taesiri and Ansh Sharma and Akash Gupta and others and Kai Han and Samuel Albanie},
+     title     = {ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models},
+     booktitle = {International Conference on Machine Learning (ICML)},
+     year      = {2026},
+    }`
+Image  | How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers
+Jonathan Roberts, Kai Han, Samuel Albanie
+ICML 2026 Workshop on Combining Theory and Benchmarks (CTB).
+BibTeX PDF arXiv
+
+    Copied!`@inproceedings{Roberts2026Tokenizers,
+     author    = {Jonathan Roberts and Kai Han and Samuel Albanie},
+     title     = {How Long Is a Piece of String? A Brief Empirical Analysis of Tokenizers},
+     booktitle = {ICML Workshop on Combining Theory and Benchmarks (CTB)},
+     year      = {2026},
+    }`
+Image  | Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers
+Minghao Yin, Wenbo Hu, Jiale Xu, Ying Shan, Kai Han
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Yin2026Sculpt4D,
+     author    = {Minghao Yin and Wenbo Hu and Jiale Xu and Ying Shan and Kai Han},
+     title     = {Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers},
+     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+     year      = {2026},
+    }`
+Image  | Speed3R: Sparse Feed-forward 3D Reconstruction Models
+Weining Ren, Xiao Tan, Kai Han
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Ren2026Speed3R,
+     author    = {Weining Ren and Xiao Tan and Kai Han},
+     title     = {Speed3R: Sparse Feed-forward 3D Reconstruction Models},
+     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+     year      = {2026},
+    }`
+Image  | Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats
+Xiaoyang Liu, Shangzhe Wu, Kai Han
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Liu2026HeteroPhys,
+     author    = {Xiaoyang Liu and Shangzhe Wu and Kai Han},
+     title     = {Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats},
+     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+     year      = {2026},
+    }`
+Image  | When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework
+Haoyu Liu, Chaoyu Gong, Mengke He, Jiate Li, Kai Han, Siqiang Luo
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+BibTeX PDF arXiv
+
+    Copied!`@inproceedings{Liu2026Deepfake,
+     author    = {Haoyu Liu and Chaoyu Gong and Mengke He and Jiate Li and Kai Han and Siqiang Luo},
+     title     = {When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework},
+     booktitle = {ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+     year      = {2026},
+    }`
+Image  | Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models
+Jiahuan Zhang, Shunwen Bai, Tianheng Wang, Kaiwen Guo, Zijia Song, Hanqing Wu, Guozheng Rao, Kai Han, Kaicheng Yu
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+BibTeX PDF arXiv
+
+    Copied!`@inproceedings{Zhang2026Ladder,
+     author    = {Jiahuan Zhang and Shunwen Bai and Tianheng Wang and Kaiwen Guo and Zijia Song and Hanqing Wu and Guozheng Rao and Kai Han and Kaicheng Yu},
+     title     = {Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models},
+     booktitle = {Annual Meeting of the Association for Computational Linguistics (ACL)},
+     year      = {2026},
+    }`
+Image  | CodeBind: Decoupled Representation Learning for Multimodal Alignment with Unified Compositional Codebook
+Zeyu Chen, Jie Li, Kai Han
+Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Chen2026CodeBind,
+     author    = {Zeyu Chen and Jie Li and Kai Han},
+     title     = {CodeBind: Decoupled Representation Learning for Multimodal Alignment with Unified Compositional Codebook},
+     booktitle = {Annual Meeting of the Association for Computational Linguistics (ACL) Findings},
+     year      = {2026},
+    }`
+Image  | AI in Oral Health Surveillance: Critical Review
+Zeyu Chen, Pei Liu, Kai Han, Peixi Liao, Yanqi Yang, May C.M. Wong, Cynthia K.Y. Yiu, Edward C.M. Lo
+Journal of Dental Research (JDR), 2026.
+BibTeX DOI
+
+    Copied!`@article{Chen2026JDR,
+     author  = {Zeyu Chen and Pei Liu and Kai Han and Peixi Liao and Yanqi Yang and May C.M. Wong and Cynthia K.Y. Yiu and Edward C.M. Lo},
+     title   = {AI in Oral Health Surveillance: Critical Review},
+     journal = {Journal of Dental Research (JDR)},
+     year    = {2026},
+    }`
+Image  | LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization
+Jie Li, Kwan-Yee K. Wong, Kai Han
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
+BibTeX PDF arXiv Project Code
+
+    Copied!`@inproceedings{Li2026LooC,
+     author    = {Jie Li and Kwan-Yee K. Wong and Kai Han},
+     title     = {LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization},
+     booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+     year      = {2026},
+    }`
+Image  | Align Video Diffusion Model with Online Video-Centric Preference Optimization
+Jiacheng Zhang, Jie Wu, Weifeng Chen, Yatai Ji, Weilin Huang, Xuefeng Xiao, Kai Han
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026.
+BibTeX PDF arXiv Project
+
+    Copied!`@inproceedings{Zhang2026AlignVD,
+     author    = {Jiacheng Zhang and Jie Wu and Weifeng Chen and Yatai Ji and Weilin Huang and Xuefeng Xiao and Kai Han},
+     title     = {Align Video Diffusion Model with Online Video-Centric Preference Optimization},
+     booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+     year      = {2026},
+    }`
+### 2025
+Image  | Semantic Correspondence: Unified Benchmarking and a Strong Baseline
+Kaiyan Zhang, Xinghui Li, Jingyi Lu, Kai Han
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
+BibTeX PDF arXiv Project Code

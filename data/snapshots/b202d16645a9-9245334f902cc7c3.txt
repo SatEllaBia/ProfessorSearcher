@@ -1,0 +1,121 @@
+MENU
+# Professor Gong, Peng
+
+PhD University of Waterloo
+Chair Professor
+Vice-President and Pro-Vice-Chancellor (Academic Development)
+Email: penggong@hku.hk
+
+
+Image
+Peng Gong is professor of global sustainability at the University of Hong Kong. He received his degrees in computer cartography and remote sensing from Nanjing University and the University of Waterloo, Canada. He taught in Geomatics Engineering at the University of Calgary, Environmental Science, Policy and Management at UC Berkeley, State Key Lab of Remote Sensing Science in the Chinese Academy of Sciences, and Earth System Science at Tsinghua University before.
+His research group concentrated on the application of pattern recognition and AI methods to satellite remote sensing data, produced the first 30m, 10m, and 3m resolution global land cover maps in the world. He co-authored a paper in Nature, estimated when in each province of China nitrogen concentration exceeded its ecological safety boundaries in waters and proposed an economic estimation for different approaches to water quality restoration in China.
+In environmental health, he developed a spatio-temporal analysis technique based on spherical surfaces to track the origin of the cross-continental spreading of the 2003~2006 avian influenza. He co-led 12 annual Lancet publications on health and climate change from 2015~2026, proposed strategies to reducing climate change risk to health and tracked global efforts. He also led or participated in preparation of multiple Lancet publications related to planetary health and healthy cities.
+He served as a key expert in response to global change of the Ministry of Science and Technology, in smart city development and healthy development assessment of Chinese cities of the Ministry of Housing and Urban-Rural Development of the Chinese Government. Internationally, he served as an advisor to Future Earth. He is an Earth Commissioner, and is on the International Advisory Board of Lancet.
+## Selected Publications
+  * Li W, H Lu*, JM Chen*, S Piao, TF Keenan, G Miao, Q Liu, Z Zang, N Xu, Jane Liu, Qu Cheng, Han Wang, Rong Wang, Wenjie Ji, Peng Zhu, Congcong Li, Qinchuan Xin, P Gong*. “Enhanced effect of warming on the leaf-onset date of boreal deciduous broadleaf forest.” Nature Climate Change 2026, 16:200–206
+  * Liu S, Y Zhou*, L Zhao, G Mills, X Li, H Zhang, KC Seto, P Gong*. “Divergent surface urban heat island responses to background aerosol mitigation.” Nature Cities 2026, 3, 654–664
+  * Chen S, J Wang*, S Yuan, X Zhu, H Huang, P Gong*. “Spectral and spatial harmonization of Landsat ETM+, OLI, and Sentinel-2 MSI using time-series harmonic analysis and blur kernel estimation.” Remote Sensing of Environment 2026. 339, 115384
+  * Chen B*, Z Li, H Wang, X Li, JM Chen, B Xu*, P Gong*. “Mapping parcel-level Essential Urban Land Use Categories across global cities (EULUC-Globe).” Science Bulletin 2026. 10.1016/j.scib.2026.06.053
+  * Chen S, J Wang*, S Yuan, J Li, Y Xia, Y Liao, J Wei, J Yuan, X Xu, X Zhu, P Zhu, H Zhang, Y Zhou, H Fu, H Huang, B Chen, F Dai, P Gong*. “Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring.” Earth System Science Data. 2026, 1-35
+  * Yuan S, X Liang, T Lin, S Chen, R Liu, J Wang, H Zhang, P Gong*. “A Comprehensive Review of Remote Sensing in Wetland Classification and Mapping: Current progress and future.” IEEE Geoscience and Remote Sensing Magazine 2026.
+  * Wu S, B Chen*, J An, A Nelson, F Dai, C Lin, P Gong*. “Measuring global human accessibility to essential daily necessities and services.” Nature Communications 2025.16 (1), 10709
+  * Xu G, M Zhu, B Chen, M Salem, Z Xu, P Cobbinah, X Li, N Sumari, X Zhang, L Jiao*, P Gong*. “Underlying rules of evolutionary urban systems in Africa.” Nature Cities, 2025. 1-9
+  * Liu J, H Huang, X Hou, L Feng, X Pi, ED Kyzivat, Y Zhang, SG Woodman, L Tang, X Cheng, P Gong. “Expansion of aquatic vegetation in northern lakes amplified methane emissions.” Nature Geoscience, 2025. 1-8
+  * Duporge I, Z Wu, Z Xu, P Gong, D Rubenstein, DW Macdonald, Anthony RE Sinclair, Simon Levin, SJ Lee, T Wang. “AI-based satellite survey offers independent assessment of migratory wildebeest numbers in the Serengeti.” PNAS Nexus 2025. 4 (9), pgaf264
+  * Chen S., Wang, J; Liu, Q; Liang, X ; Liu, R; Qin, P; Yuan, JC; Wei, JB; Yuan, S; Huang, HB; Gong, P. “Global 30 m seamless data cube (2000-2022) of land surface reflectance generated from Landsat 5, 7, 8, and 9 and MODIS Terra constellations.” Earth System Science Data. 2024. 16 (11):5449-5475
+  * Du Z, L Yu, D Arvor, X Li, X Cao, L Zhong, Q Zhao, X Ma, H Wang, X Liu, M Zhang, B Xu, P Gong. “Dual data-and knowledge-driven land cover mapping framework for monitoring annual and near-real-time changes.” IEEE Transactions on Geoscience and Remote Sensing 2024
+  * Yuan S, L Zhang, R Dong, J Xiong, J Zheng, H Fu, P Gong. “Relational Part-Aware Learning for Complex Composite Object Detection in High-Resolution Remote Sensing Images.” IEEE Transactions on Cybernetics 2024. DOI: 10.1109/TCYB.2024.3392474
+  * Chen Shuang, J Wang, P Gong. “ROBOT: A spatiotemporal fusion model toward seamless data cube for global remote sensing applications.” Remote Sensing of Environment 2023. 294, 113616
+  * Gong Peng, Huadong Guo, Bin Chen, Fang Chen, Guojun He, Dong Liang, Zhonghui Liu, Zhongchang Sun, Jin Wu, Zhenci Xu, Dongmei Yan, Hongsheng Zhang. “iEarth: an interdisciplinary framework in the era of big data and AI for sustainable development.” National Science Review 2023. 10 (8), nwad178.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

@@ -1,0 +1,123 @@
+MENU
+# Professor Kao, Benjamin C.M.
+
+BSc HK; PhD Princeton
+Professor
+Tel: (+852) 2857 8445
+Fax: (+852) 2559 8447
+Email: kao@cs.hku.hk
+Homepage: https://www.cs.hku.hk/~kao
+
+Image
+Professor Ben Kao is a professor in the Department of Computer Science at The University of Hong Kong. He received the BSc degree in computer science from The University of Hong Kong in 1989, the PhD degree in computer science from Princeton University in 1995. From 1989-1991, he was a teaching and research assistant at Princeton University. From 1992-1995, he was a research fellow at Stanford University.
+Professor Kao has published extensively in various international journals, conference proceedings, and books. (DBLP records) He has also served as program committee member for many international computer conferences and as reviewer for many journals.
+
+Professor Kao's research interests include database management systems, data mining, real-time systems, and information retrieval systems.
+## Research Interests
+
+Database Management Systems, Data Mining, Real-time Systems, and Information Retrieval Systems
+## Selected Publications
+  * Ben Kao, S.D. Lee, Foris Lee, David Cheung, W.S. Ho, Clustering Uncertain Data Using Voronoi Diagrams and R-Tree Index, in IEEE Transaction on Knowledge and Data Engineering (IEEE TKDE).
+  * Smith Tsang, Ben Kao, Kevin Y. Yip, Wai-Shing Ho, S.D. Lee, Decision Trees for Uncertain Data, in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+  * Minghua Zhang, Ben Kao, David Cheung and Kevin Yip, Mining Periodic Patterns with Gap Requirement from Sequences, in ACM Transactions on Knowledge Discovery from Data (ACM TKDD), Volume 1, Issue 2 (August 2007).
+  * Chun-Kit Chui, Eric Lo, Ben Kao and David W. Cheung, S-OLAP: an OLAP system for analysis sequence data, in the proceedings of ACM SIGMOD International Conference on Management of Data 2010 (SIGMOD 2010), Indianapolis, USA, June 2010.
+  * Bin Bi, Lifeng Shang, Ben Kao, Collaborative Resource Discovery in Social Tagging Systems, in the proceedings of the 18th ACM Conference on Information and Knowledge Management (CIKM 2009), Hong Kong, November 2009.
+## Recent Research Grants
+
+  * Online Analytical Processing on Sequence Data, GRF, 2008
+  * Computational Issues in Mining Uncertain Data, GRF, 2006
+  * Computational problems in sequence mining, RGC, 2002-2004
+  * Computational problems in sequence mining, RGC, 2002
+  * Music retrieval in digital library, RGC, 1999-2001
+  * Efficient data structure and algorithms for WWW information retrieval, RGC, 1998-2000
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

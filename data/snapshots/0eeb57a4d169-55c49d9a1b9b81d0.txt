@@ -1,0 +1,118 @@
+MENU
+# Professor Liang, Yingyu
+
+PhD Georgia Tech
+Associate Professor of Department of Computer Science and HKU Musketeers Foundation Institute of Data Science
+Institute of Data Science Scholar
+Tel: (+852) 3910 2332
+Email: yingyul@hku.hk
+
+Image
+Dr Yingyu Liang co-hosted at the Department of Computer Science is an Associate Professor in the Musketeers Foundation Institute of Data Science at The University of Hong Kong. Before becoming a faculty member at HKU, he held the position of Associate Professor at the Department of Computer Sciences in the University of Wisconsin-Madison. Before that, he was a postdoc at Princeton University. He received his Ph.D. in 2014 from Georgia Tech, and M.S. (2010) and B.S. (2008) from Tsinghua University.
+He is a recipient of the NSF CAREER award.
+His research group aims at providing theoretical foundations for modern machine learning models and designing efficient algorithms for real world applications. Recent focuses include optimization and generalization in deep learning, robust machine learning, and their applications.
+## Research Interests
+
+Machine learning; Optimization and generalization in deep learning; Robust machine learning, and their applications.
+## Selected Publications
+  * Zhenmei Shi, Jenny Wei, Yingyu Liang. “Provable Guarantees for Neural Networks via Gradient Feature Learning.” Neural Information Processing Systems (NeurIPS), 2023.
+  * Jiefeng Chen, Jayaram Raghuram, Jihye Choi, Xi Wu, Yingyu Liang, Somesh Jha. “Stratified Adversarial Robustness with Rejection.” International Conference on Machine Learning (ICML), 2023.
+  * Zhenmei Shi, Jiefeng Chen, Kunyang Li, Jayaram Raghuram, Xi Wu, Yingyu Liang, Somesh Jha. “The Trade-off between Universality and Label Efficiency of Representations from Contrastive Learning.” International Conference on Learning Representations (ICLR), 2023.
+  * Zhenmei Shi, Jenny Wei, Yingyu Liang. “A Theoretical Analysis on Feature Learning in Neural Networks: Emergence from Inputs and Advantage over Fixed Features.” International Conference on Learning Representations (ICLR), 2022.
+  * Siddhant Garg, Yingyu Liang. “Functional Regularization for Representation Learning: A Unified Theoretical Perspective.” Neural Information Processing Systems (NeurIPS), 2020.
+  * Zeyuan Allen-Zhu, Yuanzhi Li, Yingyu Liang. “Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers.” Neural Information Processing Systems (NeurIPS), 2019.
+  * Shengchao Liu, Mehmet Furkan Demirel, Yingyu Liang. “N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules.” Neural Information Processing Systems (NeurIPS), 2019.
+  * Yuanzhi Li, Yingyu Liang. “Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data.” Neural Information Processing Systems (NeurIPS), 2018.
+  * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. “Linear Algebraic Structure of Word Senses, with Applications to Polysemy.” Transactions of the Association for Computational Linguistics (TACL), 2018.
+  * Sanjeev Arora, Yingyu Liang, Tengyu Ma. “A Simple but Tough-to-Beat Baseline for Sentence Embedding.” International Conference on Learning Representations (ICLR), 2017.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

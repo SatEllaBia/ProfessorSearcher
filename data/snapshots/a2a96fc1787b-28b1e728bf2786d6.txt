@@ -1,0 +1,364 @@
+Home Experience Publications Students Service Teaching CV
+
+# Lequan Yu
+
+#
+
+### Assistant Professor
+
+Rm 226, Run Run Shaw Building
+Division of AI & Data Science
+School of Computing and Data Science
+The University of Hong Kong
+Email: lqyu [at] hku [dot] hk
+ | Image
+## Biography
+I am an assistant professor at The University of Hong Kong, where I direct the Medical AI Lab. My research lies at the intersection of artificial intelligence and healthcare. We are dedicated to designing advanced AI algorithms for biomedical data analysis, primarily focusing on medical images, to improve medical decision-making.
+Specifically, we focus on: 1) developing multimodal learning algorithms (e.g., foundation model) to integrate multi-scale biomedical data for disease prevention, diagnosis, prognosis, and treatment design; 2) building real-world learning systems to learn generalizable, trustworthy, and fair representations from imperfect biomedical data; and 3) leveraging statistical learning tools (e.g., causal inference) to improve their interpretability, robustness, and safety for healthcare problems.
+Before joining HKU, I was a postdoctoral research fellow at Stanford University. I obtained my Ph.D. degree in CSE, The Chinese University of Hong Kong in 2019 and the B.Eng degree in CS, Zhejiang University in 2015.
+
+Recent focus: 1) LLM/VLM/Agentic AI for Healthcare, 2) Multimodal Learning, 3) Computational Pathology and Precision Oncology, 4) Cardiac AI, and 5) Biomedical Informatics
+We are looking for self-motivated PhD/RA/Interns/visiting students who are interested in medical AI. Please drop me an email with your CV and transcripts and fill out this brief Google Form.
+
+You are welcome to apply for HKU Summer Research Programme 2026 and HKU CDS Research Internship Programme 2026. You are also welcome to apply for the HKU-BICI Joint PhD Programme and HKU-ASTRI Joint PhD Programme.
+If you are an HKU student interested in doing research with me, please send me an email.
+## News
+  * [10/2026] One paper was accepted by Nature Cardiovascular Research.
+  * [08/2026] One paper was accepted by npj Digital Medicine.
+  * [01/2026] Recent publications in 2025 Fall/2026 Spring: 2 Nature Communications, 1 Cell Genomics, 2 TMI, 1 IJCV, 3 ICLR, 2 NeurIPS, 2 AAAI.
+  * [01/2026] Invited to serve as Area Chair of MICCAI 2026.
+  * [11/2025] Our pathology FM adaptation work was accepted by Nature Communications.
+  * [11/2025] Invited to serve as Guest Associated Editor, IEEE Transactions on Medical Imaging (TMI).
+  * [08/2025] Invited to serve as Area Chair of ICLR 2026 and CVPR 2026.
+  * [08/2025] Recent publications in 2025 Summer: 2 TPAMI, 1 TMI, 2 ICML, 1 ACL, and 3 MICCAI.
+  * [06/2025] Invited to serve as Area Chair of AAAI 2026.
+  * [04/2025] Invited to be an Associate Editor of npj Digital Medicine.
+  * [04/2025] Invited to serve as Area Chair of NeurIPS 2025.
+  * [04/2025] The 3rd Workshop on Computer Vision for Automated Medical Diagnosis will appear in ICCV 2025.
+  * [02/2025] The 2nd tutorial on GraphMedIA: Graph Learning in Medical Image Analysis will appear in MICCAI 2025.
+  * [02/2025] One paper was accepted by TMI.
+  * [12/2024] One paper was accepted by npj Digital Medicine.
+  * [12/2024] Two papers were accepted by AAAI 2025.
+  * [10/2024] One paper was accepted by TMI.
+  * [09/2024] One paper was accepted by NeurIPS 2024.
+  * [09/2024] One paper was accepted by TPAMI.
+  * [08/2023] Recent publications in 2024 Summer: 1 MedIA, 1 NN, 1 JBHI, 2 ECCV.
+  * [06/2024] Three papers were accepted by MICCAI 2024.
+  * [02/2024] One paper was accepted by CVPR 2024.
+  * [01/2024] Invited to serve as Area Chair in MICCAI 2024.
+  * [12/2023] Two papers were accepted by AAAI 2024.
+  * [09/2023] Two papers were accepted by NeurIPS 2023.
+  * [07/2023] Recent publications in 2023 Summer: 1 TPAMI, 2 TMI, 1 TIP, 1 JBHI, 1 ICCV, 5 MICCAI.
+  * [04/2023] One co-authored paper was accepted by Radiology: Artificial Intelligence.
+  * [03/2023] Three papers were accepted by CVPR 2023.
+  * [01/2023] Invited to serve as Area Chair in MICCAI 2023.
+  * [11/2022] One co-authored paper was accepted by Nature Communications.
+  * [10/2022] Ranked Top 2% of Scientists on Stanford List.
+  * [09/2022] Our MICCAI CMMCA workshop paper got the Best Paper Award.
+  * [09/2022] Our MICCAI DART workshop paper got the Best Paper Honorable Mention Award.
+  * [04/2022] Named on the World's First List of Top 150 Chinese Young Scholars in Artificial Intelligence.
+## Experience
+
+  * Stanford University, Palo Alto, California, USA
+
+Nov. 2019 – Mar. 2021
+
+Postdoctoral Research Fellow
+Advisor: Prof. Lei Xing
+  * NVIDIA, deep learning for medical imaging research group, Bethesda, Maryland, USA
+
+Jul. 2018 – Oct. 2018
+
+Applied Research Intern
+Topic: Few-shot medical image segmentation
+  * Siemens Healthineers, Princeton, New Jersey, USA
+
+Mar. 2017 – Jul. 2017
+
+Research Intern
+Topic: Body landmark detection via deep reinforcement learning
+## Selected Publications [Google Scholar]
+
+2026
+  * HealthFlow: automating electronic health record analysis via a strategically self-evolving multi-agent framework
+Yinghao Zhu, Zixiang Wang, Yifan Qi, Lei Gu, Dehao Sui, Haoran Hu, Xichen Zhang, Ziyi He, Yasha Wang, Junjun He, Liantao Ma, Lequan Yu.
+npj Digital Medicine, 2026.
+  * SeekFlow: Synergizing Radiology and Pathology Foundation Models for Precision Oncology via Knowledge-Guided Evidence Flow
+Peixiang Huang, Yanyan Huang, Yihang Chen, Maximus Yeung, Yuming Jiang, Lequan Yu.
+European Conference on Computer Vision (ECCV), 2026.
+  * FineST: contrastive learning integrates histology and spatial transcriptomics for nuclei-resolved ligand-receptor analysis
+Lingyu Li, Tianjie Wang, Zhuo Liang, Huajian Yu, Stephanie Ma, Lequan Yu^{†}, Yuanhua Huang^{†}.
+Nature Communications, 2026.
+  * Generative Enhancement for 3D Medical Images
+Lingting Zhu, Noel Codella, Dongdong Chen, Zhenchao Jin, Lu Yuan, Lequan Yu.
+International Journal of Computer Vision (IJCV), 2026.
+  * MorphoNet: Morphological sub-region-based structure learning for WSI analysis
+Fuying Wang, Feng Wu, Ming Hu, Junjun He, Liansheng Wang, Jianning Chen, Li Liang, Shujun Wang, Lequan Yu.
+Medical Image Analysis (MedIA), 2026.
+  * MuMA: 3D PBR Texturing via Multi-Channel Multi-View Generation and Albedo Post-Processing
+Lingting Zhu, Jingrui Ye, Runze Zhang, Zeyu Hu, Yingda Yin, Lanjiong Li, Jinnan Chen, Shengju Qian, Xin Wang, Qingmin Liao, Lequan Yu.
+IEEE Transactions on Image Processing (TIP), 2026.
+  * ClinicRealm: Re-evaluating large language models with conventional machine learning for non-generative clinical prediction tasks
+Yinghao Zhu, Junyi Gao, Zixiang Wang, Weibin Liao, Xiaochen Zheng, Lifang Liang, Miguel O. Bernabeu, Yasha Wang, Lequan Yu, Chengwei Pan, Ewen M. Harrison & Liantao Ma.
+npj Digital Medicine , 2026.
+  * Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation
+Yi Wu, Shengju Qian, Lingting Zhu, Lei Liu, Wandi Qiao, Ziqiang Li, Lequan Yu, Bin Li.
+, Lequan Yu.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+  * Bridging Radiology and Pathology Foundation Models via Concept-Based Multimodal Co-Adaptation
+Yihang Chen, Yanyan Huang, Fuying Wang, Maximus Yeung, Yuming Jiang, Shujun Wang, Lequan Yu.
+International Conference on Learning Representations (ICLR), 2026.
+  * Horseshoe Splatting: Handling Structural Sparsity for Uncertainty-Aware Gaussian-Splatting Radiance Field Rendering
+Feng Wu, Tsai Hor Chan, Yihang Chen, Lingting Zhu, Guosheng Yin, Lequan Yu.
+International Conference on Learning Representations (ICLR), 2026.
+  * AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer
+Lingting Zhu, Shengju Qian, Haidi Fan, Jiayu Dong, Zhenchao Jin, Siwei Zhou, Dong Gen, Xin Wang, Lequan Yu.
+International Conference on Learning Representations (ICLR), 2026.
+  * PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X‑Ray Reasoning
+Yushi Feng, Junye Du, Yingying Hong, Qifan Wang, Lequan Yu.
+AAAI Conference on Artificial Intelligence (AAAI), 2026.
+  * FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI
+Hao Li, Zhenfeng Zhuang, Jingyu Lin, Yu Liu, Yifei Chen, Qiong Peng, Lequan Yu, Liansheng Wang.
+AAAI Conference on Artificial Intelligence (AAAI), 2026.
+2025
+  * Knowledge-Guided Adaptation of Pathology Foundation Models Effectively Improves Cross-domain Generalization and Demographic Fairness
+Yanyan Huang, Weiqin Zhao, Zhengyu Zhang, Yihang Chen, Yu Fu, Feng Wu, Yuming Jiang, Li Liang, Shujun Wang, Lequan Yu.
+Nature Communications, 2025.
+  * Hist2Cell: Deciphering Fine-grained Cellular Architectures from Histology Images
+Weiqin Zhao, Zhuo Liang, Xianjie Huang, Yuanhua Huang, Lequan Yu.
+Cell Genomics, 2025.
+  * SIB-MIL: Sparsity-Induced Bayesian Neural Network for Robust Multiple Instance Learning on Whole Slide Image Analysis
+Yihang Chen, Tsai Hor Chan, Jianning Chen, Li Liang, Guosheng Yin, Lequan Yu.
+IEEE Transactions on Medical Imaging (TMI), 2025.
+  * Feature Preserving Shrinkage on Bayesian Neural Networks via the R2D2 Prior
+Tsai Hor Chan, Dora Yan Zhang, Guosheng Yin, Lequan Yu.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
+  * MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks
+Yinghao Zhu, Ziyi He, Haoran Hu, Xiaochen Zheng, Xichen Zhang, Zixiang Wang, Junyi Gao, Liantao Ma, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2025.
+  * Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process
+Tsai Hor Chan, Feng Wu, Yihang Chen, Guosheng Yin, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2025.
+  * Variational Polya Tree
+Lu Xu, Tsai Hor Chan, Lequan Yu, Kwok Fai Lam, Guosheng Yin.
+Conference on Neural Information Processing Systems (NeurIPS), 2025.
+  * Scaling Chest X-ray Foundation Models from Mixed Supervisions for Dense Prediction
+Fuying Wang, Lequan Yu.
+IEEE Transactions on Medical Imaging (TMI), 2025.
+  * MoST-IG: Morphology-Guided Spatial Transcriptomics Integration via Visual-Genomic Graph Optimal Transport
+Liting Yu, Tao Ma, Weiqin Zhao, Zhuo Liang, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025.
+  * HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis
+Peixiang Huang, Yanyan Huang, Weiqin Zhao, Junjun He, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025.
+  * Bridging Radiological Images and Factors with Vision-Language Model for Accurate Diagnosis of Proliferative Hepatocellular Carcinoma
+Yanyan Huang, Wanli Zhang, Peixiang Huang, Yu Fu, Ruimeng Yang, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025.
+  * Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs
+Yushi Feng, Tsai Hor Chan, Guosheng Yin, Lequan Yu.
+Neural Networks, 2025.
+  * CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
+Wang, Feng Wu, Yihan Tang, Lequan Yu.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
+  * From Token to Rhythm: A Multi-Scale Approach for ECG-Language Pretraining
+Wang, Jiacheng Xu, Lequan Yu.
+International Conference on Machine Learning (ICML), 2025.
+  * Cross-Modal Alignment via Variational Copula Modelling
+Feng Wu, Tsai Hor Chan, Wang, Guosheng Yin, Lequan Yu.
+International Conference on Machine Learning (ICML), 2025.
+[code]
+
+  * TAD-Graph: Enhancing Whole Slide Image Analysis via Task-Aware Subgraph Disentanglement
+Fuying Wang, Jiayi Xin, Weiqin Zhao, Yuming Jiang, Maximus Yeung, Liansheng Wang, Lequan Yu.
+IEEE Transactions on Medical Imaging (TMI), 2025.
+
+[code]
+  * Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
+Lingting Zhu, Guying Lin, Jinnan Chen, Xinjie Zhang, Zhenchao Jin, Zhao Wang, Lequan Yu.
+AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+[code]
+  * From Layers to States: A State Space Model Perspective to Deep Neural Network Layer Dynamics
+Qinshuo Liu, Weiqin Zhao, Wei Huang, Yanwen Fang, Lequan Yu, Guodong Li.
+International Conference on Learning Representations (ICLR), 2025.
+
+2024
+
+  * Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis
+Weiqin Zhao, Ziyu Guo, Yinshuang Fan, Yuming Jiang, Maximus Yeung, Lequan Yu.
+npj Digital Medicine, 2024.
+
+[code]
+  * Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement
+Yanyan Huang, Weiqin Zhao, Yihang Chen, Yu Fu, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2024.
+
+[code]
+  * Unleash the Power of State Space Model for Whole Slide Image with Local Aware Scanning and Importance Resampling
+Yanyan Huang, Weiqin Zhao, Yu Fu, Lingting Zhu, Lequan Yu.
+IEEE Transactions on Medical Imaging (TMI), 2024.
+
+[code]
+  * Multi-sensor Learning Enables Information Transfer across Different Sensory Data and Augments Multi-modality Imaging
+Lingting Zhu, Yizheng Chen, Lianli Liu, Lei Xing, Lequan Yu.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.
+
+[code]
+
+  * HERGen: Elevating Radiology Report Generation with Longitudinal Data
+Fuying Wang, Shenghui Du, Lequan Yu.
+European Conference on Computer Vision (ECCV), 2024.
+[code]
+
+  * cDP-MIL: Robust Multiple Instance Learning via Cascaded Dirichlet Process
+Yihang Chen, Tsai Hor Chan, Guosheng Yin, Yuming Jiang, Lequan Yu.
+European Conference on Computer Vision (ECCV), 2024.
+
+[code]
+
+  * Multi-task Heterogeneous Graph Learning on Electronic Health Records
+Tsai Hor Chan, Guosheng Yin, Kyongtae Bae, Lequan Yu.
+Neural Networks, 2024.
+
+[code]
+  * Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining
+Jiarun Liu, Hao Yang, Hong-Yu Zhou, Yan Xi, Lequan Yu, Yizhou Yu, Yong Liang, Guangming Shi, Shaoting Zhang, Hairong Zheng, Shanshan Wang.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.
+
+[code]
+  * ORCGT: Ollivier-Ricci Curvature-based Graph Model for Lung STAS Prediction
+Min Cen, Zheng Wang, Zhenfeng Zhuang, Hong Zhang, Dan Su, Zhen Bao, Weiwei Wei, Baptiste Magnier, Lequan Yu, Liansheng Wang.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.
+  * Advancing H&E-to-IHC Virtual Staining with Task-Specific Domain Knowledge for HER2 Scoring
+Qiong Peng, Weiping Lin, Yihuang Hu, Ailisi Bao, Chenyu Lian, Weiwei Wei, Meng Yue, Jingxin Liu, Lequan Yu, Liansheng Wang.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.
+  * L2B: Learning to Bootstrap Robust Models for Combating Label Noise
+Yuyin Zhou, Xianhang Li, Fengze Liu, Qingyue Wei, Xuxi Chen, Lequan Yu, Cihang Xie, Matthew P. Lungren, Lei Xing.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+[code]
+  * A Dual Enrichment Synergistic Strategy to Handle Data Heterogeneity for Domain Incremental Cardiac Segmentation
+Kang Li, Yu Zhu, Lequan Yu, Pheng-Ann Heng.
+IEEE Transactions on Medical Imaging (TMI), 2024.
+  * Boosting Multiple Instance Learning Models for Whole Slide Image Classification: A Model-agnostic Framework Based on Counterfactual Inference
+Weiping Lin, Zhenfeng Zhuang, Lequan Yu, Liansheng Wang.
+AAAI Conference on Artificial Intelligence (AAAI), 2024.
+[code]
+
+  * Memory-Efficient Prompt Tuning for Incremental Histopathology Classification
+Yu Zhu, Kang Li, Lequan Yu, Pheng-Ann Heng.
+AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+2023
+
+  * Adaptive Uncertainty Estimation via High-Dimensional Testing on Latent Representations
+Tsai Hor Chan, Kin Wai Lau, Jiajun Shen, Guosheng Yin, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+[code]
+  * IDRNet: Intervention-Driven Relation Network for Semantic Segmentation
+Zhenchao Jin, Xiaowei Hu, Lingting Zhu, Luchuan Song, Li Yuan, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+[code]
+  * ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis
+Yanyan Huang, Weiqin Zhao, Shujun Wang, Yu Fu, Yuming Jiang, Lequan Yu.
+International Conference on Computer Vision (ICCV), 2023.
+
+[code]
+  * HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image Analysis
+Ziyu Guo, Weiqin Zhao, Shujun Wang, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
+
+[code]
+  * Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis
+Lingting Zhu, Zeyue Xue, Zhenchao Jin, Xian Liu, Jingzhen He, Ziwei Liu, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
+  * Adaptive Region-Specific Loss for Improved Medical Image Segmentation
+Yizheng Chen, Lequan Yu, Jen-Yeu Wang, Neil Panjwani, Jean-Pierre Obeid, Wu Liu, Lianli Liu, Nataliya Kovalchuk, Michael Francis Gensheimer, Lucas Kas Vitzthum, Beth M Beadle, Daniel T Chang, Quynh-Thu Le, Bin Han, Lei Xing.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+  * Shared-specific Feature Learning with Bottleneck Fusion Transformer for Multi-modal Whole Slide Image Analysis
+Zhihua Wang, Lequan Yu, Xin Ding, Xuehong Liao, Liansheng Wang.
+IEEE Transactions on Medical Imaging (TMI), 2023.
+  * RECIST-induced Reliable Learning: Geometry-driven Label Propagation for Universal Lesion Segmentation
+Lianyu Zhou, Lequan Yu, Liansheng Wang.
+IEEE Transactions on Medical Imaging (TMI), 2023.
+  * Transformer-based Multimodal Fusion for Survival Prediction by Integrating Whole Slide Images, Clinical, and Genomic Data
+Yihang Chen, Weiqin Zhao, Lequan Yu.
+IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
+  * Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning
+Tsai Hor Chan, Fernando Julio Cendra, Lan Ma, Guosheng Yin, Lequan Yu.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+[code]
+
+  * Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation
+Lingting Zhu, Xian Liu, Xuanyu Liu, Rui Qian, Ziwei Liu, Lequan Yu.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+[code]
+  * MagicNet: Semi-Supervised Multi-Organ Segmentation via Magic-Cube Partition and Recovery
+Duowen Chen, Yunhao Bai, Wei Shen, Qingli Li, Lequan Yu, Yan Wang.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+[code]
+  * Hybrid Graph Convolutional Network with Online Masked Autoencoder for Robust Multimodal Cancer Survival Prediction
+Wentai Hou, Chengxuan Lin, Lequan Yu, Jing Qin, Rongshan Yu, Liansheng Wang.
+IEEE Transactions on Medical Imaging (TMI), 2023.
+  * MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis
+Weiqin Zhao, Shujun Wang, Maximus Yeung, Tianye Niu, Lequan Yu.
+AAAI Conference on Artificial Intelligence (AAAI), 2023.
+[code]
+
+2022
+  * Leveraging data-driven self-consistency for high-fidelity gene expression recovery
+Md Tauhidul Islam, Jen-Yeu Wang, Hongyi Ren, Xiaomeng Li, Masoud Badiei Khuzani, Shengtian Sang, Lequan Yu, Liyue Shen, Wei Zhao, Lei Xing.
+Nature Communications, 2022.
+  * Data Discernment for Affordable Training in Medical Image Segmentation
+Youyi Song, Lequan Yu, Baiying Lei, Kup-Sze Choi, Jing Qin.
+IEEE Transactions on Medical Imaging (TMI), 2022.
+[code]
+
+  * MuRCL: Multi-instance Reinforcement Contrastive Learning for Whole Slide Image Classification
+Zhonghang Zhu, Lequan Yu, Wei Wu, Rongshan Yu, Defu Zhang, Liansheng Wang.
+IEEE Transactions on Medical Imaging (TMI), 2022.
+
+[code]
+  * Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning
+Fuying Wang, Yuyin Zhou, Shujun Wang, Varut Vardhanabhuti, Lequan Yu.
+Conference on Neural Information Processing Systems (NeurIPS), 2022.
+
+[code]
+  * MCIBI++: Soft Mining Contextual Information Beyond Image for Semantic Segmentation
+Zhenchao Jin, Dongdong Yu, Zehuan Yuan, Lequan Yu.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
+
+[code]
+  * You Should Look at All Objects
+Zhenchao Jin, Dongdong Yu, Luchuan Song, Zehuan Yuan, Lequan Yu.
+European Conference on Computer Vision (ECCV), 2022.
+  * Domain-incremental Cardiac Image Segmentation with Style-oriented Replay and Domain-sensitive Feature Whitening
+Kang Li, Lequan Yu, Pheng-Ann Heng.
+IEEE Transactions on Medical Imaging (TMI), 2022.
+  * NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation
+Zhaohu Xing, Lequan Yu, Liang Wan, Tong Han, Lei Zhu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+[code]
+  * Joint Prediction of Meningioma Grade and Brain Invasion via Task-Aware Contrastive Learning
+Tianling Liu, Wennan Liu, Lequan Yu, Liang Wan, Tong Han, Lei Zhu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+  * Spatial-hierarchical Graph Neural Network with Dynamic Structure Learning for Histological Image Classification
+Wentai Hou, Helong Huang, Qiong Peng, Rongshan Yu, Lequan Yu, Liansheng Wang.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+  * Reinforcement Learning Driven Intra-modal and Inter-modal Representation Learning for 3D Medical Image Classification
+Zhonghang Zhu, Liansheng Wang, Baptiste Magnier, Lei Zhu, Defu Zhang, Lequan Yu.
+Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+  * CD²-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning
+Yiqing Shen, Yuyin Zhou, Lequan Yu.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+  * H²-MIL: Exploring Hierarchical Representation with Heterogeneous Multiple Instance Learning for Whole Slide Image Analysis
+Wentai Hou, Lequan Yu, Chengxuan Lin, Helong Huang, Rongshan Yu, Jing Qin, Liansheng Wang.
+AAAI Conference on Artificial Intelligence (AAAI), 2022.
+  * Lymph Node Metastasis Prediction from Whole Slide Images with Transformer-guided Multi-instance Learning and Knowledge Transfer
+Zhihua Wang, Lequan Yu, Xin Ding, Xuehong Liao, Liansheng Wang.
+IEEE Transactions on Medical Imaging (TMI), 2022.
+  * Novel-view X-ray Projection Synthesis through Geometry-integrated Deep Learning
+Liyue Shen, Lequan Yu, Wei Zhao, John Pauly, Lei Xing.

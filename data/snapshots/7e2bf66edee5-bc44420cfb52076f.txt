@@ -1,0 +1,204 @@
+[Input]
+
+Search this site
+
+Embedded Files
+
+Skip to main content
+
+Skip to navigation
+
+Data Intelligence Lab@HKU
+
+Image
+
+Chao Huang
+
+Assistant Professor
+
+Data Intelligence Lab@HKU
+
+Department of Computer Science & Institute of Data Science
+
+University of Hong Kong (HKU)
+
+📧 chaohuang75@gmail.com    🎓 Google Scholar     🚀 Lab Github
+🌟  开源交流群     📣  Twitter    🌐 Linkedin   📚 小红书
+
+I am an Assistant Professor & Ph.D Advisor at the Department of Computer Science and Institute of Data Science, at HKU. I am the director of Data Intelligence Lab@HKU, with the focus on Large Language Models,  Autonomous Agents,  Graph Learning,  Recommender Systems and  AI for Smart Cities.
+
+👨‍💻✨ Our Research Work is Open-Sourced at HKUDS  🚀
+
+Image
+CLI-Anything
+
+~58k GitHub 🌟
+
+Github Trending ✖️ 23 🚀
+
+Image
+
+DeepTutor
+
+~55 k GitHub 🌟
+
+Github Trending ✖️ 25 🚀
+
+Image
+
+nanobot
+
+~50k GitHub 🌟
+
+Github Trending ✖️ 2 🚀
+
+Image
+
+LightRAG
+
+~40.5k GitHub 🌟
+
+Github Trending ✖️ 40 🚀
+
+Image
+
+Vibe-Trading
+
+~37.6 k GitHub 🌟
+
+Github Trending ✖️ 19 🚀
+
+Image
+
+RAG-Anything
+
+~24.4k GitHub 🌟
+
+Github Trending ✖️ 18 🚀
+
+Image
+AI-Trader
+
+~23k GitHub 🌟
+
+Github Trending ✖️ 10 🚀
+
+Image
+
+DeepCode
+
+~1 6.8 k GitHub 🌟
+
+Github Trending ✖️ 22 🚀
+
+Image
+
+OpenHarness
+
+~16 k GitHub 🌟
+
+Github Trending ✖️ 1 🚀
+
+Image
+
+ViMax
+
+~12.8 k GitHub 🌟
+
+Github Trending ✖️ 9 🚀
+
+Image
+
+AutoAgent
+
+~9.8 k GitHub 🌟
+
+Github Trending ✖️ 1 4 🚀
+
+Image
+
+ClawWork
+
+~8.6 k GitHub 🌟
+
+Image
+
+AgentPilot
+
+~7.8 k GitHub 🌟
+Github Trending ✖️ 1 🚀
+
+Image
+
+AI-Researcher
+
+~5.8 k GitHub 🌟
+
+Github Trending ✖️ 7 🚀
+
+Image
+
+ClawTeam
+
+~5.5k GitHub 🌟
+
+Image
+
+Paper2Slides
+
+~3.8k GitHub 🌟
+
+Image
+
+VideoRAG
+
+~3.4 k GitHub 🌟
+
+Github Trending ✖️ 4 🚀
+
+Image
+
+AutoSwarm
+
+~2.4 k GitHub 🌟
+
+Github Trending ✖️ 2 🚀
+##
+
+🚀 Awards & Honors:
+
+  * 🏆 2025 AI 100 Young Pioneers (AI100青年先锋)
+
+  * 🏆 2025 Global AI 2000 Most Influential Scholars
+
+  * 🏆 2025 World AI Conference (WAIC) Youth Outstanding Paper Honorable Mention Award (青年优秀论文提名奖)
+
+  * 🏆 2024 World AI Conference (WAIC) "Bright Stars" (云帆奖·璀璨明星)
+
+  * 🏆 2024 Frontiers of Science Award from ICBS 2024 (国际基础科学大会·前沿科学奖)
+
+  * 🏆 World's Top 2% Scientists Published by Stanford University (2022, 2023, 2024, 2025)
+
+🚀 Top-Cited Papers across AI Conferences.
+  * 4 Papers Ranked in the Top 0.25% (e.g., EMNLP, WWW, KDD)
+
+  * 8 Papers Ranked in the Top 1% (e.g., NeurIPS, EMNLP, WWW, KDD, WSDM, AAAI)
+
+  * 17 Papers Ranked in the Top 2% (e.g., ACL, SIGIR, WWW, KDD, WSDM)
+
+  * 24 Papers Ranked in the Top 5% (e.g., ICLR, ACL, SIGIR, KDD, WSDM, WWW, ICDE)
+
+  * 5 papers ranked #1 Most-Cited at their respective venues and publication years:
+
+    * KDD (2024 & 2026); WWW 2024; WSDM (2023 & 2024)
+
+🚀 Best Paper & Most Influential Paper Recognitions
+  * 16 Most Influential Papers (e.g., KDD, WWW, SIGIR, CIKM, AAAI, and ICDE)
+
+  * Best Paper Honorable Mention Award (ACM MM 2024)
+
+  * Best Paper Nomination (WSDM 2022 & WWW 2019)
+
+Google Sites
+
+Report abuse

@@ -1,0 +1,70 @@
+# Hongyang Li
+
+Assistant Professor, School of Computing and Data Science (CDS), The University of Hong Kong (HKU). Assistant Director (AI Research and Tech Transfer) of CDS, HKU. The recent (hopefully) CV is here.
+  * Academic Page at CDS
+  * Email: [email protected]
+  * Office Room:
+    * CB 301E, Chow Yei Ching Building (周亦卿楼), HKU Hong Kong
+    * Room 1315, CDS-1, No.4 Building, 590 Fangchun Road, HKU Shanghai Zhangjiang Base
+  * Lab Location:
+    * HW335, Haking Wong Building, HKU Hong Kong
+    * Room 825, CDS-1, No.4 Building, HKU Shanghai Zhangjiang Base
+
+Image: Hongyang Li
+## Prospective Students / FTEs
+
+We are taking in 2026/2027 Internship. Newbies / undergraduates are welcome! Please refer to this page for more details.
+  * Post-doc / Ph.D. / MPhil: No need to contact me first. We usually hire HKPFS or HKU Presidential Scholarship level candidates. For informal inquiries or initial contact, please email to my academic assistant Zhenjie Yang and [email protected].
+  * Research Assistant / Internship: please send requests to [email protected].
+  * For full-time employee (FTE) at HKU (HK and Shanghai both), we would be happy to recruit Research Scientist / Engineer / Staff in Embodied AI and Autonomous Driving!
+  * For recruitment in Shanghai Innovation Institute (SII), please refer to the official website.
+  * For positions at Archon Robotics, please contact [email protected] directly.
+## Biography
+Hongyang Li is Assistant Professor at The University of Hong Kong (HKU), Assistant Director (AI Research and Tech Transfer) at the School of Computing and Data Science, HKU. He co-founded OpenDriveLab (opendrivelab.com) in 2021. His research focus is on embodied intelligent systems. He led the end-to-end autonomous driving project, UniAD and won the IEEE CVPR 2023 Best Paper Award. UniAD has impact both in academia and industry, including Tesla FSD V13.
+He created the first large-scale real robot ecosystem, AgiBot World, that systematically investigated the scaling law principles for robotic manipulation and won IROS 2025 Best Paper Finalist. He proposed the bird's-eye-view perception work, BEVFormer, that won Top 100 AI Papers in 2022. He served as Area Chair for CVPR, NeurIPS (including 2023 Notable AC), ICLR, ICCV, ICML, RSS, and Referee for Nature, Nature Communications, Science Robotics.
+He is the Chair for IEEE Standards P3474 under IEEE Vehicular Technology Society. He is the Senior Member of IEEE. He is the recipient of China AI Wu Wen Jun Early Career Award 2024, BAAI Young Scholar 2025, RSS Early Career Spotlight Award 2026.
+中文简介
+李弘扬，香港大学计算与数据科学学院助理院长（AI研究与技术转化）、助理教授，港大OpenDriveLab团队（opendrivelab.com）负责人。研究方向为端到端智能系统在机器人、自动驾驶的应用。他主导的端到端自动驾驶方案UniAD于2022年提出，获IEEE CVPR 2023最佳论文奖。UniAD等系列工作产生了明显的社会经济效益，包括特斯拉于2023年推出的FSD V13。他构造的超大规模具身智能训练场Agibot World, 是业界首个百万真机、千万仿真数据集，系统研究具身Scaling Law方法论，该系列工作获IROS 2025 Best Paper Finalist、被顶级期刊TRO接受。他提出的俯视图感知方法BEVFormer，获2022年百强影响力人工智能论文榜单，成为业界广泛使用的纯视觉检测基准。他多次担任CVPR、NeurIPS、ICLR、ICCV、ICML、RSS等国际会议领域主席（AC），其中获得NeurIPS 2023 Notable AC。他是《自然》、《自然·通讯》、《科学·机器人》审稿人。IEEE、CCF、CSIG高级会员、IEEE汽车委员会自动驾驶国际标准P3474工作组组长。荣获2024年中国吴文俊人工智能青年科技奖。入选2025年北京智源研究院智源青年学者。荣获2026年国际顶级会议RSS Early Career Spotlight Award。
+## Research
+
+  * Focus: AI for Robotics, Autonomous Driving, 3D Vision, Foundation Models
+  * Google Scholar
+  * HKU Scholars Hub
+  * Publications at OpenDriveLab
+## Teaching
+  * CCAI9025: AI-driven Robotics for Humankind
+    * Moodle, Highlight, Field Trip
+    * Fall 2025
+    * Venue: WLGH, Graduate House
+  * DATA8017: Fundamentals of Autonomous Intelligent Systems
+    * Moodle
+    * Fall 2025
+    * Venue: IDS P603 Seminar Room, Graduate House
+  * IDSS2501: Embodied AI 101
+    * Moodle
+    * Summer Semester 2025
+    * Venue: LE2, Main Campus
+## Talks
+
+  * Talk on "Humanoid for Sports", BAAI Conference, China, June 2026. YouTube
+
+YouTube video player
+
+  * Talk on "Simulation at Scale for Production-level Autonomous Driving", Workshop on Simulation for Autonomous Driving, CVPR 2026, Denver, USA. YouTube
+
+YouTube video player
+  * Talk on "Towards Generalizable and Intelligent System for Robotic Manipulation", New York University, USA, September 2025. YouTube
+
+YouTube video player
+
+  * Talk on "End-to-end Autonomous Driving: Past, Current and Onwards", Workshop on Autonomous Driving, CVPR 2025, Nashville, USA. YouTube
+
+YouTube video player
+  * Talk on "What are Good (Pre-training) Representations for Robotic Manipulation?", TU Delft, Netherlands, July 2024, in conjunction with RSS 2024. YouTube / Slides
+
+YouTube video player
+
+  * Talk on "Could Foundation Models really resolve End-to-end Autonomy?", Tutorial on End-to-End Autonomy: A New Era of Self-Driving, CVPR 2024, Seattle, USA. YouTube / Slides
+
+YouTube video player
+All rights reserved © 2019 - 2026

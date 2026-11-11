@@ -1,0 +1,271 @@
+MENU
+
+# Professors and Messages to Students
+
+* * *
+
+## Dr. K.P. Chan
+
+Image
+
+### Message to students
+
+If you are interested in making a machine more intelligent, can communicate with human in a more natural manner, e.g. understand handwritings and natural languages, or human emotion via facial expressions, you are welcome to contact me. I am looking for students who are enthusiastic and hardworking and good in mathematics to work with me to explore these interesting topics.
+### Research topics/projects
+
+  1. Pattern Recognition and Machine Learning - Facial Expression Recognition, Captcha Recognition
+  2. Chinese Computing - Handwritten Chinese Recognition and Chinese Language Processing.
+
+### Links
+
+http://www.cs.hku.hk/~kpchan/
+
+* * *
+
+## Dr. K.K.Y. Wong
+### Message to students
+
+I am looking for PhD candidates with the following qualities: having a solid mathematical background and good programming skill; being self-motivated and able to work independently; interest in computer vision, image processing and/or geometric computing.
+
+### Research topics/projects
+
+Camera calibration, 3D model reconstruction, motion estimation, motion tracking, image segmentation, digital video surveillance, face recognition, medical imaging.
+### Links
+
+http://www.cs.hku.hk/~kykwong
+
+* * *
+
+## Prof. Y.Z. Yu
+
+### Message to students
+
+I am looking for smart, resourceful and hardworking postgraduate students to perform high-impact research in computer graphics, computer vision and pattern recognition.
+
+### Research topics/projects
+
+Which you wish to recruit graduate students to work on Computer Graphics, Computational Cameras, Pattern Recognition, and Video Analytics
+### Links
+
+http://www.cs.hku.hk/people/academic-staff/yzyu
+http://i.cs.hku.hk/~yzyu/
+
+* * *
+
+## Prof. T.W. Lam
+
+Image
+
+### Message to students
+
+My research is about algorithms. Before I focused more on theoretical aspects, recently I get more satisfaction from algorithm engineering and practical applications (in particular, Bioinformatics). If you have a mathematical mind and like tackling challenging problems, you're of my type.
+### Research topics/projects
+
+Energy-efficient scheduling, text indexing and alignment, NGS data analysis
+
+### Links
+
+www.cs.hku.hk/~twlam
+
+* * *
+
+## Dr. H.F. Ting
+
+### Message to students
+
+My research is on the design and analysis of algorithms for various applications, and recently I am focusing on applications from Algorithmic Game theory and Bioinformatics. My projects need students with good background in mathematics.
+### Research topics/projects
+
+Online auctions, Online pricing, Short read alignment, Sequence analysis
+
+### Links
+
+http://www.cs.hku.hk/people/academic-staff/hfting
+
+* * *
+
+## Prof. R.C.K. Cheng
+
+Image
+### Message to students
+
+My research interest is about database management. I have been working extensively on uncertain databases in the last few years, covering topics like uncertain data models, probabilistic queries, indexing structures, data cleaning, and data mining. Recently, I am also interested in cloud databases and information network. If you are strong in databases and algorithms, and you have passion in solving real-world problems, you are welcome to my group!
+### Research topics/projects
+
+Uncertain databases, social network, cloud databases
+
+### Links
+
+http://www.cs.hku.hk/~ckcheng/
+
+* * *
+
+## Prof. B.C.M. Kao
+### Message to students
+My research interests include real-time systems, transaction processing, information retrieval, data mining, data analysis, and big-data management --- basically anything that deals with large amounts of data. Currently, I am supervising/co-supervising 7 graduate students. Some of the research problems I am working on are related to social networks (such as Facebook), social tagging systems (such as Delicious and Flickr), and web search engines (such as Google).
+Other research problems are related to the processing and management of large sequence data (such as biological data). Previously, I have also worked on mining data with uncertainty.
+### Research topics/projects
+
+Database, data mining, information retrieval
+
+### Links
+
+http://www.cs.hku.hk/people/academic-staff/kao
+
+* * *
+
+## Dr. H.T.H. Chan
+
+Image
+
+### Message to students
+
+Looking for mathematically talented students who are motivated and independent and wish to pursue research in algorithms and the general area of theoretical computer science.
+
+### Research topics/projects
+
+Algorithms, Optimization, Social Networks, Security & Privacy
+### Links
+
+http://i.cs.hku.hk/~hubert/
+
+* * *
+
+## Dr. Z. Huang
+
+Image
+### Message to students
+Broadly speaking, my research is in the area of theoretical computer science. Specifically, my research interests span various topics in algorithmic game theory, differential privacy, and online algorithms. The main theme of my research is to develop the theory of computation in the presence of private data held by self-interested agents, using mathematical tools from computer science, economics, information theory, etc.
+If you are mathematically mature and enjoy solving hard algorithm problems, you might be interested in working with me (check my publications for more details).
+### Research topics/projects
+
+Algorithms, Optimization, Game Theory, Privacy
+
+### Links
+
+http://i.cs.hku.hk/~zhiyi/
+
+* * *
+
+## Dr. H. Cui
+
+Image
+### Message to students
+My research interests are in operating systems, programming languages, and distributed systems, with a particular focus on improving software reliability and security. I have been working on building effective tools to detect new harmful security bugs in widely used software (such as "useradd" in Linux) as well as building practical systems that can strengthen fault-tolerance of real-world applications. I admit 1 to 2 new PhD students every year.
+We constantly collaborate with faculty and students in CMU and Columbia University, and we publish in good systems conferences such as SOSP, OSDI, ASPLOS, and PLDI. You can contact me via email if you are a good systems hacker.
+### Research topics/projects
+
+Operating systems, reliable and secure multi-threading, distributed systems, fault tolerance
+
+### Links
+
+www.cs.hku.hk/people/academic-staff/heming
+
+* * *
+
+## Prof. C. Wu
+
+Image
+
+### Message to students
+
+I am looking for enthusiastic Ph.D. candidates with solid mathematical background and good programming skill. Being organized, aggressive, and passionate for achieving every goal one sets for oneself are pluses.
+### Research topics/projects
+
+(1) Resource scheduling and pricing in cloud and data centre systems;
+(2) Protocol design and system implementation for network function virtualisation (NFV) and software defined networking (SDN) systems.
+### Links
+
+http://www.cs.hku.hk/~cwu
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

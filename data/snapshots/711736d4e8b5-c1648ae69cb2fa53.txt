@@ -1,0 +1,107 @@
+MENU
+# Professor Wong, Kenneth K.Y.
+
+BEng CUHK; MPhil, PhD Cambridge
+Professor
+Associate Director (Teaching and Learning) of CDS
+Tel: (+852) 3917 8443
+Email: kykwong@cs.hku.hk
+Homepage: https://www.cs.hku.hk/~kykwong
+
+Image
+Prof. Wong received the BEng degree in Computer Engineering, with first class honors, from The Chinese University of Hong Kong in 1998. From 1998 to 2001, he studied in United Kingdom at the University of Cambridge, where he was a member of the Speech, Vision and Robotics Group in the Department of Engineering. He received the MPhil and PhD degrees, both in Computer Vision (Information Engineering), from the University of Cambridge in 2000 and 2001, respectively.
+Since 2001, he has joined The University of Hong Kong where he is now a Full Professor. He served as the Associate Head of the Department of Computer Science from 2008 to 2012, as the Programme Director of the BEng(CompSc) programme from 2008 to 2015, and as the Associate Head of the Division of AI & Data Science from 2025 to 2026.
+He has been appointed as the Deputy Director of AI Literacy Unit (AiLU) since April 2025, and as the Associate Director (Teaching & Learning) of the School of Computing & Data Science since May 2026.
+Prof. Wong's research interests are in Computer Vision and Machine Intelligence. He is the Director of the Computer Vision Laboratory. His research works include camera calibration, shape and motion recovery, face sketch synthesis and recognition, scene text recognition, object retrieval, medical image understanding, and generative AI. He has published over 180 peer-reviewed journal and conference papers.
+Many of his works appear in top venues, including CVPR, ECCV, and ICCV (top conferences in computer vision), and TPAMI, IJCV, and TIP (top journals in computer vision). He is currently an Associate Editor of IJCV. He regularly serves in the program committee of all major conferences in computer vision and AI, including CVPR, ECCV, ICCV, NeurIPS, ICML, ICLR, and AAAI. He is also a regular reviewer of TPAMI, IJCV, and TIP.
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

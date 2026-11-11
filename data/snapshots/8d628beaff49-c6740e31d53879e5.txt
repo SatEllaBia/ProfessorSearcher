@@ -1,0 +1,136 @@
+MENU
+
+#
+# Professor Luo, Ruibang
+
+PhD HKU
+Division Associate Head (AI & Data Science Division) of CDS
+Assistant Director (Learning Experience & Student Enrichment)
+Associate Professor
+Tel: (+852) 2859 2186
+Fax: (+852) 2559 8447
+Email: rbluo [AT] cs [DOT] hku [DOT] hk
+Homepage: https://www.cs.hku.hk/~rbluo
+
+Image
+Dr. Ruibang Luo is an Associate Professor of Computer Science at the University of Hong Kong. He completed his Ph.D. training in Bioinformatics with Dr. Tak-Wah Lam at the University of Hong Kong (2010-2015), and his postdoctoral training with Drs. Steven Salzberg and Michael Schatz at the Center of Computational Biology, Johns Hopkins University (2016-2017). Luo is a researcher working on bioinformatics algorithms and clinical informatics. He published more than 80 papers.
+Ten of them have achieved over a thousand citations. He has been identified as Top 1% Scholars Worldwide by Clarivate Analytics from 2019 to 2023. He has been selected by Baidu Research as Worldwide Top 150 Chinese Young Scholars in Artificial Intelligence. He was named Top 10 Innovators Under 35 Asia Pacific by MIT Technology Review in 2019, and 30 Under 30 Asia in Healthcare and Science by Forbes in 2017.
+## Selected Publications
+
+[HKU Scholars in the Top 1%, 2019-2024]
+  * Ou et al., HKG: An open genetic variant database of 205 Hong Kong Cantonese exomes, NAR Genomics and Bioinformatics 2022
+  * Li et al., Building a Chinese pan-genome of 486 individuals, Communications Biology 2021
+  * Xie et al., The applications and potentials of nanopore sequencing in the (epi)genome and (epi)transcriptome era, The Innovation 2021
+  * Luo et al., SARS‐CoV‐2 biology and variants: anticipation of viral evolution and what needs to be done, Environmental Microbiology 2021
+  * Su et al., RENET2: High-Performance Full-text Gene-Disease Relation Extraction with Iterative Training Data Expansion, NAR Genomics and Bioinformatics 2021
+  * Luo et al., Exploring the limit of using a deep neural network on pileup data for germline variant calling, Nature Machine Intelligence, 2020
+  * Luo et al., A multi-task convolutional deep neural network for variant calling in single molecule sequencing, Nature Communications 2019
+  * Luo et al., 16GT: a fast and sensitive variant caller using a 16-genotype probabilistic model, Oxford GigaScience 2017
+  * Li et al., MEGAHIT: An ultra-fast single-node solution for large and complex metagenomics assembly via succinct de Bruijn graph, Bioinformatics 2015
+  * Cao et al., De novo assembly of a haplotype-resolved human genome, Nature Biotechnology 2015
+  * Xie et al., SOAPdenovo-Trans: de novo transcriptome assembly with short RNA-Seq reads, Bioinformatics 2014
+  * Luo et al., SOAP3-dp: Fast, Accurate and Sensitive GPU-based Short Read Aligner, PLoS ONE 2013
+  * Zhang et al., Oyster genome reveals stress adaptation and shell formation complexity, Nature 2012
+  * Luo et al., SOAPdenovo2: An empirically improved memory-efficient short-read de novo assembler, Oxford GigaScience 2012
+  * Li et al., Structural variation in two human genomes mapped at single-nucleotide resolution by whole genome de novo assembly, Nature Biotechnology 2011
+  * Li et al. , Building the sequence map of the human pan-genome, Nature Biotechnology 2010
+## Recent Research Grants
+  * 2022-5, Industrial donation to support general research, PI,  Oxford Nanopore Technologies
+  * 2021-4, RGC GRF, PI, "Cancer mutation detection using Single Molecule Sequencing"
+  * 2021-23, ITF PRP, Co-PI, "Cardiovascular risk prediction model for patients on lipid modifying drugs"
+  * 2021-23, ITF ITSP Platform Project, Co-PI, "Towards a Fully-Automated Karyotype Analysis for Detecting Chromosomal Abnormality via Intelligent Bioinformatics and Image Analysis"
+  * 2021-6, RGC TRS, Co-PI, "Assess antibiotic resistome flows from pollution hotspots to environments and explore the control strategies"
+  * 2019-4, RGC TRS, Co-I, "Fighting Disease Recurrence and Promoting Tissue Repair after Liver Transplantation: Translating Basic Discoveries to Clinical Excellence"
+  * 2018-21, ITF ITSP Platform Project, Co-I, Advanced 3GS-based bioinformatics algorithms and a complete bioinformatics solution for clinical genetics
+  * 2018-21, RGC ECS, PI, An Artificial Neural Network-based discriminator for validating clinically significant genomic variants
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

@@ -1,0 +1,93 @@
+# Lingkai Kong
+
+孔令恺
+
+Image: version1.png
+
+lingkaikong@g.harvard.edu
+
+lingkaikong@hku.hk
+I am a tenure-track Assistant Professor in the School of Computing and Data Science at the University of Hong Kong (HKU), with a co-hosted appointment in the School of Public Health. Previously, I was a postdoctoral fellow at Harvard University, advised by Prof. Milind Tambe. I obtained my Ph.D. in Computational Science and Engineering from the Georgia Institute of Technology, advised by Prof. Chao Zhang.
+
+For more details, please see my CV.
+I am actively looking for students and collaborators. If you are interested, please email me with the subject line “[PhD/RA/Intern + Year]” and include your CV and transcript.
+
+My long-term goal is to build generative AI agents that understand the world, work alongside people, and help us make the decisions that matter most. My research pursues this vision along three threads:
+
+Generative Decision-Making (RL × GenAI)
+Generative models that act, not just generate. I combine reinforcement learning with diffusion models and LLMs to study reliable generative policies and long-horizon planning under uncertainty.
+
+Multi-Agent Systems
+
+How autonomous agents, together with the people in the loop, learn, cooperate, and strategically interact, and the collective behavior that emerges.
+
+AI for Impact
+
+Translating these methods into deployed systems for high-stakes domains such as public health and sustainability.
+## Selected publications
+
+  1. 2026
+
+Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions
+
+Lingkai Kong, Anagha Satish, Hezi Jiang, Akseli Kangaslahti, Andrew Ma, Wenbo Chen, Mingxiao Song, Lily Xu, and Milind Tambe
+
+In International Conference on Machine Learning (ICML) (Spotlight), 2026
+
+PDF
+
+  2. 2026
+
+Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective
+
+Haichuan Wang, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, and Milind Tambe
+In International Conference on Machine Learning (ICML), 2026
+
+PDF
+
+  3. 2025
+
+Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data
+
+Lingkai Kong, Haichuan Wang, Tonghan Wang, Guojun Xiong, and Milind Tambe
+
+In Advances in Neural Information Processing Systems (NeurIPS), 2025 (Spotlight)
+
+PDF
+
+  4. 2025
+
+Diffusion Models as Constrained Samplers for Optimization with Unknown Constraints
+Lingkai Kong, Yuanqi Du, Wenhao Mu, Kirill Neklyudov, Valentin De Bortol, Haorui Wang, Dongxia Wu, Aaron Ferber, Yi-An Ma, Carla P. Gomes, and Chao Zhang
+
+In Artificial Intelligence and Statistics (AISTATS), 2025
+
+PDF
+
+  5. 2024
+
+Aligning Large Language Models with Representation Editing: A Control Perspective
+
+Lingkai Kong, Haorui Wang, Wenhao Mu, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, and Chao Zhang
+In Advances in Neural Information Processing Systems (NeurIPS), 2024
+
+PDF
+
+  6. 2023
+
+AdaPlanner: Adaptive Planning from Feedback with Language Models
+
+Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, and Chao Zhang
+
+In Advances in Neural Information Processing Systems (NeurIPS), 2023
+
+PDF
+
+  7. 2022
+
+End-to-End Stochastic Optimization with Energy-based Model
+
+Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, and Chao Zhang
+In Advances in Neural Information Processing Systems (NeurIPS), 2022 (Oral, 181/10411, top 1.76%)
+
+PDF

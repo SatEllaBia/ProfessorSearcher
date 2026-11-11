@@ -1,0 +1,153 @@
+# InfoBodied AI Lab
+
+About Me News Publications Members Awards & Service
+
+Image: Yanchao Yang
+
+# Yanchao Yang
+
+Assistant Professor
+School of Computing and Data Science
+Electrical and Computer Engineering
+Institute of Data Science
+The University of Hong Kong
+Email: `yanchaoy at hku dot hk`
+Office: Room 714, Chow Yei Ching Building, HKU
+## About Me
+The InfoBodied AI Lab at HKU is building the next generation of embodied AI systems — robots and autonomous agents that can perceive complex 3D environments in real time, discover actionable concepts from unlabelled data, and learn generalizable manipulation policies that operate reliably in the open world.
+I am an Assistant Professor at the School of Computing and Data Science (CDS), HKU, jointly appointed by the Department of Electrical and Computer Engineering (ECE) and the HKU Musketeers Foundation Institute of Data Science (IDS). I was a Postdoctoral Research Fellow at Stanford University with Leonidas J. Guibas and received my Ph.D.
+from the University of California, Los Angeles (UCLA) with Stefano Soatto. Earlier, I obtained my Master's and Bachelor's degrees from KAUST and USTC, respectively.
+Our research tackles core challenges in robot manipulation, 3D scene understanding and real-time reconstruction, visuomotor control, and the grounding of large vision-language foundation models in the physical world — with a particular focus on reducing dependence on costly human annotation.
+A unifying thread across this work is the use of efficient mutual information estimators as a principled tool for representation learning, concept discovery, and policy optimization, forming the basis of our research program in InfoBodied AI. Our work has appeared at CVPR, NeurIPS, ICLR, ECCV, ICML, CoRL, ICRA, and SIGGRAPH, among others.
+Ph.D. students, postdocs and interns!
+We are looking for highly motivated researchers who want to work on open problems at the frontier of embodied intelligence. Backgrounds in computer vision, robotics, machine learning, or related areas are all welcome. Please reach out via email with a CV and a brief description of your research interests.
+*Students can choose either CDS, ECE, or IDS when applying, but make sure to notify me after the submission.
+*Strong Ph.D. candidates are welcome to apply for HKPFS and HKUPS (all year around).
+*We are now considering applications for 2026/2027 enrollment; the main round and clearing rounds application deadlines can be found at this link.
+*We are also accepting interns via the HKU Summer Research Programme (SRP) and the HKU CDS Research Internship Programme.
+## News
+  * [03/2026] Serving as an Area Chair for Neural Information Processing Systems (NeurIPS 2026).
+  * [12/2025] Serving as an Area Chair for Robotics: Science and Systems (RSS 2026).
+  * [12/2025] Serving as an Area Chair for the European Conference on Computer Vision (ECCV 2026).
+  * [10/2025] We are hosting the HKU AI Forum 2025!
+  * [08/2025] Serving as an Area Chair for the Conference on Computer Vision and Pattern Recognition (CVPR 2026).
+  * [08/2025] Serving as an Area Chair for the International Conference on Learning Representations (ICLR 2026).
+  * [08/2025] Serving as an Area Chair for the AAAI Conference on Artificial Intelligence (AAAI 2026).
+  * [07/2025] I am teaching Embodied AI 101 at HKU this summer.
+  * [04/2025] Our work SLAM3R has won the China3DV Top1 Paper Award. Congrats to the team!
+  * [01/2025] I am glad to receive the CPAL Rising Stars Award of year 2025!
+## Publications
+
+See Google Scholar for a full list of papers. *: equal contributions, ^{†}: corresponding author
+
+Image: himacon
+
+HiMaCon: Discovering Hierarchical Manipulation Concepts from Unlabeled Multi-Modal Data
+Ruizhe Liu, Pei Zhou, Qian Luo, Li Sun, Jun Cen, Yibing Song, Yanchao Yang
+NeurIPS 2025
+arXiv/code/project page
+
+Image: gazevlm
+Gaze-VLM: Bridging Gaze and VLMs via Attention Regularization for Egocentric Understanding
+Anupam Pani, Yanchao Yang
+NeurIPS 2025
+arXiv/code/project page
+
+Image: hypergoalnet
+
+Hyper-GoalNet: Goal-Conditioned Manipulation Policy Learning with HyperNetworks
+Pei Zhou, Wanting Yao, Qian Luo, Xunzhe Zhou, Yanchao Yang
+NeurIPS 2025
+arXiv/code/project page
+
+Image: hypertasr
+HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation
+Li Sun*, Jiefeng Wu*, Feng Chen, Ruizhe Liu, Yanchao Yang
+CoRL 2025
+arXiv/code/project page
+
+Image: humocon
+
+HuMoCon: Concept Discovery for Human Motion Understanding
+Qihang Fang, Chengcheng Tang, Bugra Tekin, Shugao Ma, Yanchao Yang
+CVPR 2025
+arXiv/code/project page
+
+Image: reloc3r
+Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization
+Siyan Dong*, Shuzhe Wang*, Shaohui Liu, Lulu Cai, Qingnan Fan, Juho Kannala, Yanchao Yang
+CVPR 2025
+arXiv/code/project page
+
+Image: slam3r
+SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos
+Yuzheng Liu*, Siyan Dong*, Shuzhe Wang, Yingda Yin, Yanchao Yang, Qingnan Fan, Baoquan Chen
+CVPR 2025, Spotlight
+arXiv/code/project page
+
+Image: hypogen
+HyPoGen: Optimization-Biased Hypernetworks for Generalizable Policy Generation
+Hanxiang Ren*, Li Sun*, Xulong Wang, Pei Zhou, Zewen Wu, Siyan Dong, Difan Zou, Youyi Zheng, Yanchao Yang
+ICLR 2025
+arXiv/code/project page
+
+Image: autocgp
+AutoCGP: Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations
+Pei Zhou*, Ruizhe Liu*, Qian Luo*, Fan Wang, Yibing Song, Yanchao Yang
+ICLR 2025, Spotlight
+arXiv/code/project page
+
+Image: infogs
+
+InfoGS: Efficient Structure-Aware 3D Gaussians via Lightweight Information Shaping
+Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang
+ICLR 2025
+arXiv/code/project page
+## Members
+  * Current:
+    * Postdocs:
+      * Siyan Dong (Ph.D. Shandong University)
+    * Students:
+      * Lulu Cai (B.S. Zhejiang University)
+      * Ruizhe Liu (B.S. Peking University)
+      * Zewen Wu (M.S. B.S. Xi'an Jiao Tong University Gifted Young)
+      * Jinghan Yang (B.S. HKU)
+      * Pei Zhou (M.S. UCSD, B.S. Fudan University)
+      * Anupam Pani (B.S. CityU)
+      * Li Sun (B.S. Zhejiang University)
+      * Qian Luo (M.S. Georgia Tech, B.S. HUST)
+      * Qihang Fang (M.S. B.S. Shandong University)
+      * Qingyuan Zheng (M.S. HKUST, B.S. SJTU)
+      * Yunchao Zhang (B.S. Zhejiang University)
+      * Zhengyang Hu (B.S USTC Gifted Young)
+  * Alumni:
+    * Hanyang Chen (B.S. HKU, now UIUC)
+    * Xiaomeng Xu (B.S. Tsinghua University, now Stanford)
+    * Ruohan Zhang (B.S. USTC, now UIUC)
+    * Jiateng Liu (B.S. Zhejiang University, now UIUC)
+    * Ruoxi Shi (B.S. SJTU, now UCSD)
+    * Yang Zheng (B.S. Tsinghua University, now at Stanford)
+    * Yutong Chen (M.S. B.S. Tsinghua University, now ETH Zurich)
+## Awards & Professional Service
+  * Awards:
+    * CPAL Rising Star Award, 2025
+    * China3DV Top1 Paper Award, 2025
+    * RGC Early Career Award, 2024
+    * Alibaba Innovative Research Award, 2024
+    * Microsoft Accelerate Foundation Models Research Award, 2023
+    * Meta Research Award, 2023
+    * Outstanding Reviewer Award, CVPR, ICLR, NeurIPS
+    * AWS Nominated Paper Award, 2019
+  * Area Chair:
+    * Neural Information Processing Systems (NeurIPS), 2026
+    * Robotics: Science and Systems (RSS), 2026
+    * International Conference on Learning Representations (ICLR), 2026
+    * Conference on Computer Vision and Pattern Recognition (CVPR), 2024, 2025, 2026
+    * European Conference on Computer Vision (ECCV), 2024, 2026
+    * AAAI Conference on Artificial Intelligence (AAAI), 2026
+  * Program Committee / Reviewer:
+    * Conferences: CVPR, ICCV, ECCV, ICML, ICLR, IJCAI, AAAI, ICRA, NeurIPS, CoRL
+    * Journals: TPAMI, TIP, IJCV, RAL, T-RO
+© 2024 Yanchao Yang. All rights reserved.
+
+Designed by Chen Zhao.

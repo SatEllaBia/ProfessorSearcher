@@ -1,0 +1,69 @@
+  * Difan Zou
+  * Home
+  * Group
+  * Publications
+  * Teaching
+  * Contact
+
+Image: Difan Zou
+## Difan Zou
+
+Machine learning, optimization, and graph learning
+
+[Button: Links]
+
+Email (dzou@cs.hku.hk) Scholar
+
+  * Hong Kong
+  * School of Computing and Data Science, HKU
+  * Email (dzou@cs.hku.hk)
+  * Twitter
+  * Facebook
+  * Google Scholar
+I am an assistant professor in the School of Computing and Data Science at The University of Hong Kong and The HKU Musketeers Foundation Institute of Data Science. I am generally interested in machine learning, stochastic optimization, and graph learning, with a special focus on the theoretical and empirical understanding of deep learning, especially foundation models.
+I am also interested in developing AI/ML methods for practical problems in areas such as signal processing, intelligent transportation, and mathematics.
+Previously, I obtained my Ph.D. in the Computer Science department at the University of California, Los Angeles (UCLA), supervised by Prof. Quanquan Gu. I obtained my master’s degree in electrical engineering and bachelor’s degree in applied physics, both from the University of Science and Technology of China (USTC).
+Open positions. I welcome enquiries from prospective PhD students, postdoctoral researchers, and research assistants. Please email a CV and a brief description of your research interests.
+## News
+
+  * July 2026
+
+Our paper on Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation was accepted to the ICML 2026 FoGen Workshop as an oral presentation and received the Best Paper Runner-Up Award.
+
+  * May 2026
+
+One paper is accepted to COLT 2026.
+
+  * April 2026
+
+Five papers are accepted to ICML 2026.
+
+  * January 2026
+
+Seven papers are accepted to ICLR 2026.
+
+  * December 2025
+Our paper on Interpretability vs. Utility for SAEs in LLMs was accepted to the NeurIPS 2025 ResponsibleFM Workshop as an oral presentation and received an Outstanding Paper Award.
+
+  * November 2025
+
+Two papers are accepted to AAAI 2026.
+
+  * September 2025
+
+Seven papers are accepted to NeurIPS 2025.
+
+  * September 2025
+
+Welcoming new PhD students Yufei Zhao, Xuan Tang, Bingqing Jiang, Dechen Zhang, and Xu Wang.
+
+  * August 2025
+
+One paper is accepted to EMNLP 2025.
+
+  * May 2025
+One paper is accepted to ACL 2025.
+
+View all news →
+
+© 2026 Difan Zou. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.

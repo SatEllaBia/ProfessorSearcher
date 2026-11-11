@@ -1,0 +1,120 @@
+Luo Lab
+
+[Button: ☰]
+
+  * Home
+  * About
+  * News
+  * People
+  * Publications
+  * Software
+  * Teaching
+  * [Button: 🌙]
+
+$ whoami → associate_professor --bioinformatics --clinical-informatics
+# Ruibang Luo_
+
+Associate Professor
+
+Associate Head (Dept. of AI & Data Science)
+
+Assistant Director (Learning Exp. & Student Enrichment)
+
+School of Computing and Data Science
+The University of Hong Kong
+
+Office:
+    Rm 422, Chow Yei Ching Building, HKU
+Pokfulam Road, Hong Kong
+Email:
+    rbluo [at] cs [dot] hku [dot] hk [Button: Copy]
+
+google-scholar orcid cv.pdf github lab-github
+variant-calling long-read deep-learning dna-storage clinical-ai genome-algorithms
+
+// about
+## About
+Dr. Ruibang Luo is an Associate Professor of Computer Science at the University of Hong Kong. He completed his PhD training in Bioinformatics at the University of Hong Kong with Dr. Tak-Wah Lam (2010–2015), and his postdoctoral training at the Center of Computational Biology, Johns Hopkins University with Drs. Steven Salzberg and Michael Schatz (2016–2017). Luo works on bioinformatics algorithms and clinical informatics.
+He has published more than 100 papers with over 60k citations and has been identified as a Top 1% Scholar Worldwide by Clarivate Analytics since 2019. He achieved 30 Under 30 Asia in Healthcare and Science, Top 10 Innovators Under 35 Asia Pacific by MITTR, and APEC Science Prize for Innovation, Research, and Education.
+🔍 Recruitment: We are looking for dedicated and self-motivated students and postdocs with passion in bioinformatics. If you enjoy deciphering biological and medical big data by writing up your own code to target for the best speed, sensitivity and accuracy, you might be interested in working with me. Please contact me through email with your CV.
+🌍 Visiting Scholars: We invite scholars at any career stage for short-term or long-term collaborative visits at HKU. We offer an engaging research environment, access to advanced facilities and technologies, and numerous professional development opportunities.
+
+// news --highlights
+## News & Highlights
+
+Recent achievements and updates
+
+2026
+
+NSFC Excellent Young Scientist Fund
+
+Award to researchers with proven results in basic research.
+NSFC Website
+
+2026
+
+APEC ASPIRE 2026
+
+Single winner each year among 21 APEC economies.
+APEC announcement
+
+2025
+
+General Chair, GIW/ISCB-Asia 2025
+
+Leading the organization of the international conference on genome informatics.
+Conference Website
+
+2024
+
+Outstanding Young Researcher Award (OYRA)
+Recognized for exceptional research contributions at HKU.
+View winners
+
+2022/23
+
+Faculty's Best Teacher Award
+
+HKU Engineering and Computer Science Departments.
+View certificate
+
+2022
+
+Top 150 Chinese Young Scholars in AI
+
+Baidu Research - Artificial Intelligence category.
+View profile
+
+2020-2026
+
+World's Top 2% Scientists
+
+Stanford University - Global ranking.
+View database
+
+2019
+
+Innovators Under 35 Asia Pacific
+MIT Technology Review - Bioinformatics breakthroughs.
+View profile
+
+2019-2026
+
+Top 1% Scholars Worldwide
+
+Clarivate Analytics - Annual recognition.
+View listing
+
+2017
+
+Forbes 30 Under 30 Asia
+
+Healthcare & Science category.
+View article
+
+Luo Lab in Bioinformatics
+
+School of Computing and Data Science | The University of Hong Kong
+
+Rm 422, Chow Yei Ching Building, Pokfulam Road, Hong Kong
+© 2026 Luo Lab · Last updated: September 2026 | Lab GitHub

@@ -1,0 +1,122 @@
+MENU
+# Professor Komura, Taku
+
+PhD Tokyo
+Professor
+Tel: (+852) 2859 7072
+Fax: (+852) 2559 8447
+Email: taku@cs.hku.hk
+Homepage: https://www.cs.hku.hk/~taku
+
+Image: taku
+Taku Komura joined Hong Kong University in 2020. Before joining HKU, he worked at the University of Edinburgh (2006-2020), City University of Hong Kong (2002-2006) and RIKEN (2000-2002). He received his BSc, MSc and PhD in Information Science from University of Tokyo. His research has focused on data-driven character animation, physically-based character animation, crowd simulation, 3D modelling, cloth animation, anatomy-based modelling and robotics.
+Recently, his main research interests have been on physically-based animation and the application of machine learning techniques for animation synthesis. He received the Royal Society Industry Fellowship (2014), the Google AR/VR Research Award (2017), ACM SIGGRAPH Best Paper Award (2022) and ACM SIGGRAPH Test-of-Time Award (2026).   He served as Conference Chair for ACM SIGGRAPH Asia 2025.
+## Research Interests
+
+Physical simulation, Character animation, 3D modelling
+## Selected Publications
+  * Wang, Xuan, Zhaofeng Luo, Minchen Li, Taku Komura, and Kemeng Huang. "AGIPC: Adaptive In-Solve Algebraic Coarsening for GPU IPC." In Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers, pp. 1-11. 2026
+  * Pi, Huaijin, Zhi Cen, Zhiyang Dou, and Taku Komura. "Coda: Coordinated diffusion noise optimization for whole-body manipulation of articulated objects." Advances in Neural Information Processing Systems 38 (2026): 31758-31780.
+  * Pan, Liang, Zeshi Yang, Zhiyang Dou, Wenjia Wang, Buzhen Huang, Bo Dai, Taku Komura, and Jingbo Wang. "Tokenhsi: Unified synthesis of physical human-scene interactions through task tokenization." In Proceedings of the Computer Vision and Pattern Recognition Conference, pp. 5379-5391. 2025.
+  * Ye, Xiaohan, Xifeng Gao, Kui Wu, Zherong Pan, and Taku Komura. "SDRS: Shape-Differentiable Robot Simulator." IEEE Transactions on Robotics (2025).
+  * Huang, Kemeng, Xinyu Lu, Huancheng Lin, Taku Komura, and Minchen Li. "StiffGIPC: Advancing GPU IPC for stiff affine-deformable simulation." ACM Transactions on Graphics 44, no. 3 (2025): 1-20.
+  * Starke, Sebastian, Ian Mason, and Taku Komura. "Deepphase: Periodic autoencoders for learning motion phase manifolds." ACM Transactions on Graphics (ToG) 41, no. 4 (2022): 1-13.
+  * Fan, Yingruo, Zhaojiang Lin, Jun Saito, Wenping Wang, and Taku Komura. "Faceformer: Speech-driven 3d facial animation with transformers." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 18770-18780. 2022.
+  * Wang, Peng, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, and Wenping Wang. "Neus: Learning neural implicit surfaces by volume rendering for multi-view reconstruction." arXiv preprint arXiv:2106.10689 (2021).
+  * Sebastian Starke, He Zhang, Taku Komura, Jun Saito, "Neural State Machine for Character-Scene Interactions", ACM Transactions on Graphics 38(6), 2019 (Proceedings of SIGGRAPH Asia 2019)
+  * Ian Mason, Sebastian Starke, He Zhang, Hakan Bilen, Taku Komura, "Few-shot Learning of Homogeneous Human Locomotion Styles" , Computer Graphics Forum, 37(7), 2018
+  * He Zhang*, Sebastian Starke* (joint first authors), Taku Komura, Jun Saito, Mode-Adaptive Neural Networks for Quadruped Motion Control , ACM Transactions on Graphics 37(4),2018 (Proceedings of SIGGRAPH 2018)
+  * Daniel Holden, Taku Komura, Jun Saito "Phase-Functioned Neural Networks for Character Control", ACM Transactions on Graphics 36(4), 2017 (Proceedings of SIGGRAPH 2017)
+  * Xi Zhao, Ruizhen Hu, Paul Guerrero, Niloy J. Mitra, Taku Komura, "Relationship Templates for Creating Scene Variations", ACM Transactions on Graphics, 35 (6), 2016 (Proceedings of SIGGRAPH Asia 2016)
+  * Daniel Holden, Jun Saito, Taku Komura "A deep learning framework for character motion synthesis and editing", ACM Transactions on Graphics 35(4), 2016 (Proceedings of SIGGRAPH 2016)
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

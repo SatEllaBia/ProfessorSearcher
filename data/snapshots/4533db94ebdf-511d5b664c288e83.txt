@@ -1,0 +1,141 @@
+MENU
+
+# Professor Zhang, Zheng
+
+## BSc Fudan; MS UT Dallas; PhD UIUC;
+
+## Professor
+
+Email: zhaz@hku.hk
+
+Image
+## Research Interests
+  * Forward-looking fundamental research on Large Language Models, focusing on their design, computational properties, applications in real-world contexts, and transformative potential in scientific discovery.
+  * Development of practical and innovative frameworks to detect, diagnose, and mitigate hallucinations and reasoning limitations in LLMs, applicable across diverse modalities.
+  * Addressing educational challenges in an AI-driven future by fostering Renaissance-like thinking, achieving exceptional performance with AI tools, and strengthening core abilities without tool dependence—ultimately empowering individuals to surpass pre-AI capabilities. Developed LLM4LLM Project, an innovative curriculum using LLMs to explain their own mechanisms through interactive learning. Recent talk
+## Selected Publications
+### Open-source frameworks for scalable machine learning and graph machine learning.
+
+Initiated popular scalable machine learning and graph neural network framework through robust, open-source platforms (~2.9K and ~1.9K citations, for MXNet and DGL, respectively).
+  * Minjie Wang, Da Zheng, Zihao Ye, Quan Gan, Mufei Li, Xiang Song, Jinjing Zhou, Chao Ma, Lingfan Yu, Yu Gai, Tianjun Xiao, Tong He, George Karypis, Jinyang Li, Zheng Zhang. Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks. arXiv:1909.01315. Sep 2019
+  * Chen T, Li M, Li Y, Lin M, Wang N, Wang M, Xiao T, Xu B, Zhang C, Zhang Z. Mxnet: A flexible and efficient machine learning library for heterogeneous distributed systems. arXiv:1512.01274. Dec 2015.
+### Large Language Models
+
+Rethinking LLMs as computing devices and addressing their key limitations; mechanisms and benchmarks to perform hallucination detection.
+  * Zhang Z. Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning. TMLR, Nov 2025./li>
+  * Ru D, Qiu L, Hu X, Zhang T, Shi P, Chang S, Jiayang C, Wang C, Sun S, Li H, Zhang Z. Ragchecker: A fine-grained framework for diagnosing retrieval-augmented generation. NeurIPS 2024 D&B Track. 2024 Aug 15.
+  * Hu X, Ru D, Qiu L, Guo Q, Zhang T, Xu Y, Luo Y, Liu P, Zhang Y, Zhang Z. RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models. EMNLP 2024.
+### Graph Neural Networks, Algorithms and Applications
+
+GNN algorithms and system co-design, application and benchmarking of GNN for relational data, and applications in text and multi-agent trajectory prediction.
+  * Huang K, Jiang H, Wang M, Xiao G, Wipf D, Song X, Gan Q, Huang Z, Zhai J, Zhang Z. FreshGNN: Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training. VLDB Endowment. 2024 Feb 1;17(6):1473-86.
+  * Wang M, Gan Q, Wipf D, Cai Z, Li N, Tang J, Zhang Z, et al. 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs. arXiv:2404.18209. 28 Apr 2024.
+  * Guo Q, Jin Z, Wang Z, Qiu X, Zhang W, Zhu J, Zhang Z, Wipf D. Fork or fail: Cycle-consistent training with many-to-one mappings. AISTATS. 2021 Mar; pp. 1828-36.
+  * Guo Q, Jin Z, Qiu X, Zhang W, Wipf D, Zhang Z. Cyclegt: Unsupervised graph-to-text and text-to-graph generation via cycle training. arXiv:2006.04702. 2020 Jun 8.
+  * Li L, Yao J, Wenliang L, et al. Grin: Generative relation and intention network for multi-agent trajectory prediction. NeurIPS. 2021 Dec;34:27107-18.
+### Transformer Architecture Optimizations
+
+Early solutions for addressing long-range context challenges, influencing subsequent innovations in attention mechanisms.
+
+  * Guo Q, Qiu X, Liu P, Shao Y, Xue X, Zhang Z. Star-transformer. NeurIPS 2019. 2019 Feb 25.
+  * Ye Z, Guo Q, Gan Q, Qiu X, Zhang Z. Bp-transformer: Modelling long-range context via binary partitioning. ICLR 2020. 2019 Nov 11.
+### Core Computer Vision Problems
+
+Research key challenges in computer vision, object-centric learning and sequential image attention.
+  * Seitzer M, Horn M, Zadaianchuk A, et al. Bridging the gap to real-world object-centric learning. ICLR 2023.
+  * Welleck S, Mao J, Cho K, Zhang Z. Saliency-based sequential image attention with multiset prediction. NeurIPS. 2017
+  * Xiao T, Zhang J, Yang K, Peng Y, Zhang Z. Error-driven incremental learning in deep convolutional neural network for large-scale image classification. ACM Multimedia. 2014 Nov; pp. 177-86.
+  * Xiao T, Xu Y, Yang K, Zhang J, Peng Y, Zhang Z. The application of two-level attention models in deep convolutional neural network for fine-grained image classification. CVPR. 2015; pp. 842-50.
+More details: https://hackmd.io/H2AnjPGmRv-1OOWkV4A8GA?view
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

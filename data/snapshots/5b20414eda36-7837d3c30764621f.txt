@@ -1,0 +1,46 @@
+Jian Qian
+
+About Me Research Interests Research Papers Teaching
+
+# Jian Qian
+
+Image: Jian Qian
+
+Assistant Professor (Incoming)
+Department of AI and Data Science
+The University of Hong Kong
+Email: jianqian@hku.hk
+Google Scholar
+## About Me
+Welcome to my homepage! I am an assistant professor in the Department of AI and Data Science at The University of Hong Kong. Previously, I was a Courant Instructor and CDS Fellow at New York University. I received my Ph.D. from the Department of EECS at MIT, where I had the great pleasure of being advised by Sasha Rakhlin. Before MIT, I earned a diplôme in Mathematics and Computer Science from École Normale Supérieure, Paris, and a B.S.
+in Mathematics from the University of Science and Technology of China.
+## Research Interests
+
+My research primarily focuses on the intersection between machine learning theory and interactive decision making. I am particularly interested in:
+
+  * Statistical learning theory
+  * Bandits and reinforcement learning
+  * Online learning
+
+Note: I am looking for motivated PhD students and RAs to join my research group. If you are interested, please send me an email with your CV, transcript, and research interests.
+## Selected Publications & Preprints
+
+  * Refined Risk Bounds for Unbounded Losses via Transductive Priors
+Jian Qian, Alexander Rakhlin, Nikita Zhivotovskiy
+Journal of Machine Learning Research (JMLR)
+[paper]
+  * The Statistical Complexity of Interactive Decision Making
+Dylan J Foster, Sham Kakade, Jian Qian, Alexander Rakhlin
+Minor Revision at Mathematics of Operations Research
+[paper]
+  * To bootstrap or to rollout? An optimal and adaptive interpolation
+Wenlong Mou, Jian Qian
+Major Revision at Mathematics of Operations Research
+[paper]
+## Teaching
+
+  * Fall 2025 (at NYU): UA-MATH 334 - Mathematical Statistics
+
+* * *
+
+Last updated: December 2024

@@ -1,0 +1,143 @@
+MENU
+# Professor Cheng, Reynold C.K.
+
+BEng, MPhil HKU; MSc, PhD Purdue
+Division Head (AI & Data Science Division) of CDS; Professor
+Steering Committee of Musketers Foundation Institute of Data Science
+Tel: (+852) 2219 4778
+Fax: (+852) 2559 8447
+Email: ckcheng [AT] cs [DOT] hku [DOT] hk
+Homepage: https://reynold.hku.hk
+
+
+
+Image
+Reynold Cheng is a Professor of the Department of Computer Science in the University of Hong Kong (HKU). His research interests are in data science, big graph analytics and uncertain data management. He was an Assistant Professor in the Department of Computing of the Hong Kong Polytechnic University (HKPU) from 2005 to 2008. He received his BEng (Computer Engineering) in 1998, and MPhil (Computer Science and Information Systems) in 2000 from HKU.
+He then obtained his MSc and PhD degrees from Department of Computer Science of Purdue University in 2003 and 2005.
+Prof. Cheng received the SIGMOD Research Highlights Reward 2020, HKICT Awards 2021, and HKU Knowledge Exchange Award (Engineering) 2021. He was granted an Outstanding Young Researcher Award 2011-12 by HKU. He received the Universitas 21 Fellowship in 2011, and two Performance Awards from HKPU Computing in 2006 and 2007. He is an academic advisor to the College of Professional and Continuing Education of HKPU.
+He is a member of IEEE, ACM, ACM SIGMOD, and UPE. He was a PC co-chair of IEEE ICDE 2021, and has been serving on the program committees and review panels for leading database conferences and journals like SIGMOD, VLDB, ICDE, KDD, IJCAI, AAAI, and TODS. He is on the editorial board of IS and DAPD, and was a former editorial board member of TKDE.
+##
+
+## Research Interests
+
+Data Science, Graph Analytics, Data Uncertainty Management
+## Selected Publications
+
+1.      Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks Lakshmanan, Wenjie Zhang, and Xuemin Lin. Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs. In the ACM SIGMOD Conf. (SIGMOD 2020), pp. 1051-1066, Jun 2020. Also awarded SIGMOD Research Highlights Award 2020 (published in SIGMOD Record March 2021 (Vol. 50, No. 1), and accepted in ACM TODS journal as “SIGMOD 2020 best papers”.
+2.      Silviu Maniu, Reynold Cheng, and Pierre Senellart. An Indexing Framework for Queries on Probabilistic Graphs. In ACM Transactions on Database Systems (TODS), 42(2), article 13, pp. 1-34, June 2017.
+
+3.      Zhipeng Huang, Yudian Zheng, Reynold Cheng, Yizhou Sun, Nikos Mamoulis, and Xiang Li. Meta Structure: Computing Relevance in Large Heterogeneous Information Networks. In KDD 2016, pp. 1595-1604.
+4.      Yixiang Fang, Reynold Cheng, Siqiang Luo, and Jiafeng Hu. Effective Community Search for Large Attributed Graphs. In PVLDB 2016, 9(12), pp. 1233-1244.
+
+5.      Siyu Lei, Silviu Maniu, Luyi Mo, Reynold Cheng, and Pierre Senellart. Online Influence Maximization. In KDD, 2015, pp. 645-654.
+6.       Jinchuan Chen, Reynold Cheng, Mohammed Mokbel and Chi-Yin Chow. Scalable Processing of Snapshot and Continuous Nearest-Neighbor Queries over One-Dimensional Uncertain Data. In VLDBJ, Special Issue on Uncertain and Probabilistic Databases, 18(5), pp. 1219-1240, 2009. (Awarded Research Output Prize in Dept. of Computer Science, Faculty of Engineering, HKU, 2010).
+
+7.       Reynold Cheng, Jinchuan Chen and Xike Xie. Cleaning Uncertain Data with Quality Guarantees. In PVLDB 1(1), pp. 722-735, 2008.
+8.       Yufei Tao, Xiaokui Xiao and Reynold Cheng. Range Search on Multidimensional Uncertain Data. In ACM Transactions on Database Systems (TODS), 32(3), pp. 15, 2007.
+
+9.       Reynold Cheng, Yuni Xia, Sunil Prabhakar, Rahul Shah and Jeffrey Vitter. Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data. VLDB, 2004, pp. 876-887.
+10.       Reynold Cheng, Dmitri Kalashnikov and Sunil Prabhakar. Evaluating Probabilistic Queries over Imprecise Data. In ACM SIGMOD, 2003, pp. 551-562.
+##
+## Recent Selected Grants
+  1. PI – Using Knowledge Graphs for Long-Tail Keyword Query Recommendation in Video Search (HKU-TCL Joint Research Centre for Artificial Intelligence, Ref: 200009430, Nov 2020-Oct 2022). Amount: HKD 1,000,000.
+  2. Co-PI – A real-time monitoring and warning system for COVID-19 and influenza infection in building environment(Collaborative Research Funding (CRF) 2021/22 and Second Round One-off CRF COVID and NID Research Exercises, Ref: C7104-21G). Amount: HKD 6,508,880.
+  3. PI – HINCare: A Heterogeneous Information Network for Elderly-Care Helper Recommendation (Innovation and Technology Fund (ITF) – Midstream Research Programme for Universities (MRP), Ref: MRP/029/18, 2019-2021). Amount: HKD 4,066,400.
+  4. PI – Modelling of Artificial Neural Networks, Distributed System with High Reliability for Intelligent Data Management System (IDMS), contract research, Hong Kong Applied Science and Technology Research Institute (ASTRI), Ref: 200008954, 30/1/2019-31/12/2020. Amount: HKD 900,000.
+  5. PI (Co-I: N. Mamoulis) – Query Suggestion for Geo-Textual Data (RGC GRF, Ref: 106150091, 2016-19). Amount: HKD 518,528.
+  6. PI (Co-I: B. Cautis and S. Maniu) – Discovering and Querying Meta-Graphs in Large Heterogeneous Information Networks (RGC GRF, Ref: 17229116, 2016-18). Amount: HKD 675,647.
+  7. PI (Co-I: W. Fan and P. Senellart) – Efficient Query Algorithms for Uncertain Graph Databases (RGC GRF, Ref: 17205115, 2015-17). Amount: HKD 462,528.
+  8. Co-I (PI: T.H. Lam) – Advancing Information and Communications Technology in Family Services (The Hong Kong Jockey Club Charities Trust (HKJC). Ref: 2018-0025-001, 2018-2022). Amount: HKD 37.3M.
+  9. Co-I (PI: W. Lou) – Embrace My Age: A Partnered Solution for Better, Heathlier, and Meaningful Ageing  (Hong Kong Jockey Club Charity, 2019-2022). Amount: HKD 12.95M.
+
+
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

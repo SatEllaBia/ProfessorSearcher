@@ -1,0 +1,74 @@
+Alec Kirkley About Publications Group Teaching Software CV
+
+Image: Alec Kirkley
+
+Alec Kirkley
+
+Assistant Professor
+
+School of Computing and Data Science & Department of Urban Planning and Design
+
+University of Hong Kong
+
+✉ akirkley@hku.hk ◎ Google Scholar ⌥ GitHub ✦ Bluesky ↓ CV
+
+Research Interests
+Network Science Statistical Physics Complex Systems Statistical Inference Information Theory Urban Science
+
+Education
+
+PhD Physics — University of Michigan, 2021
+
+MS Physics — University of Michigan, 2018
+
+BS Physics, BA Math — University of Rochester, 2017
+Summa Cum Laude
+## About
+
+I am a physicist working on developing new mathematical and computational tools for network science and statistical physics to gain a better quantitative understanding of complex systems. Broadly, I work on problems related to identifying structural and dynamical regularities in complex systems data, with a particular interest in methods that can determine whether such regularities exist at all.
+Currently I am an Assistant Professor at the University of Hong Kong (HKU), hosted by the School of Computing and Data Science and jointly appointed with the Department of Urban Planning and Design. I received my PhD in Physics at the University of Michigan in 2021 under the supervision of Mark Newman.
+
+My current research centers on three main questions:
+  1. What structural and dynamical regularities appear in empirical complex systems? To address this question, I develop statistically principled unsupervised learning methods for noisy network, spatial, and time series data (e.g., here and here).
+  2. When do such regularities actually exist, and when are they artifacts of noise? To address this question, I study the statistical and information theoretic detectability of structure and dynamics in complex systems data (e.g., here and here).
+  3. How can these regularities be extracted efficiently and accurately? To address this question, I work on improving the efficiency and interpretability of network model fitting and evaluation (e.g., here and here).
+A lot of my work is motivated by the fact that methodological choices can often determine the results of scientific analyses. Choosing appropriate methods is of particular importance for network science, as it is a relatively young field with no standard accepted set of tools (e.g., for community detection, reconstruction, etc). A solid toolkit for network science must have methods that are:
+  * Founded solely in rigorous modeling and/or scientific principles
+  * Robust to the structural and dynamical heterogeneity found within a particular application
+  * Completely free (to the extent that it is possible) from any tunable parameters that permit the overfitting of statistical fluctuations and/or enable human aesthetic and scientific confirmation biases through cherry-picking
+  * Scalable to large networks
+This enables theoretically meaningful, conceptually consistent summaries and comparisons of complex systems while ensuring robustness to statistical fluctuations and flexibility for large datasets.
+This kind of inferential work cannot be delegated to AI, as the aim is to operationalize human intuition mathematically, specifying precisely what kind of structure we are looking for and what would count as evidence for it. No method can extract meaningful structure from data unless we first define "meaningful" in context!
+In my research I primarily work on the design, optimization, and analysis of principled methods for inference and unsupervised learning with network data, with the goal of contributing to a network science toolkit that follows the above principles. I also explore applications to spatial and/or time series data, often through the lens of networks.
+I strongly subscribe to Occam's Razor, leading me to prefer simple models as well as Bayesian and information theoretic approaches to inference and learning in my work. I develop new mathematical and computational methods that draw on ideas from a range of disciplines including information theory, statistical physics, Bayesian inference, spatial analysis, scientific computing, and data mining.
+I believe interdisciplinary thinking and research is essential for broadening the increasingly narrow scope of scientific research (despite the challenges it encounters in dissemination and evaluation). I am therefore happy to collaborate with researchers across different fields that are interested in using networks in their research.
+## Selected publications as a primary author
+
+Information theory for hypergraph similarity Science Advances (2026)
+
+Estimation of partial rankings from sparse, noisy comparisons Communications Physics (2026)
+
+Fast Nonparametric inference of network backbones for weighted graph sparsification Physical Review X (2025)
+
+Structural reducibility of hypergraphs Physical Review Letters [Editor's Suggestion] (2025)
+Transfer entropy for finite data Physical Review E [Letter, Editor's Suggestion] (2025)
+
+Network mutual information measures for graph similarity Communications Physics (2024)
+
+Bayesian regionalization of urban mobility networks Physical Review Research (2024)
+
+Identifying hubs in directed networks Physical Review E [Editor's Suggestion] (2024)
+Compressing network populations with modal networks reveals structural diversity Communications Physics (2023)
+
+Implicit models, latent compression, intrinsic biases, and cheap lunches in community detection Physical Review E (2023)
+
+Spatial regionalization based on optimal information compression Communications Physics (2022)
+
+Belief propagation for networks with loops Science Advances (2021)
+Information theoretic network approach to socioeconomic correlations Physical Review Research (2020)
+
+Balance in signed networks Physical Review E (2019)
+
+From the betweenness centrality in street networks to structural invariants in random planar graphs Nature Communications (2018)
+
+→ Full publication list

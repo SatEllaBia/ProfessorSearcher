@@ -1,0 +1,116 @@
+MENU
+# Professor Kong, Lingkai
+
+PhD Georgia Tech
+Assistant Professor
+Email: lingkaikong@hku.hk
+Homepage: https://lingkai-kong.com
+
+
+Image
+Lingkai Kong is an Assistant Professor in the School of Computing and Data Science, with a joint appointment in the School of Public Health at the University of Hong Kong. Prior to joining the University of Hong Kong, he was a Postdoctoral Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences. He received his Ph.D. in Computational Science and Engineering from the Georgia Institute of Technology.
+His research focuses on building generative AI agents that can understand complex environments, reason effectively, and support decision-making in high-impact domains. His work has been published in leading AI and machine learning venues, including ICML, NeurIPS, and ICLR, and he has delivered tutorials at major data science conferences such as KDD. He is also a recipient of the Otto & Jenny Krauss Fellowship.
+## Research Interests
+
+  * Machine Learning
+  * Generative Models
+  * Reinforcement Learning
+  * AI for Social Impact
+## Selected Publications
+  * Lingkai Kong, Anagha Satish, Hezi Jiang, Akseli Kangaslahti, Andrew Ma, Wenbo Chen, Mingxiao Song, Lily Xu, and Milind Tambe. “Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions.” In International Conference on Machine Learning (ICML), 2026 (Spotlight).
+  * Haichuan Wang, Tao Lin, Lingkai Kong, Ce Li, Hezi Jiang, and Milind Tambe. “Reward Shaping for Inference-Time Alignment: A Stackelberg Game Perspective.” In International Conference on Machine Learning (ICML), 2026.
+  * Lingkai Kong, Haichuan Wang, Tonghan Wang, Guojun Xiong, and Milind Tambe. “Composite Flow Matching for Reinforcement Learning with Shifted-Dynamics Data.” In Advances in Neural Information Processing Systems (NeurIPS), 2025 (Spotlight).
+  * Lingkai Kong, Haorui Wang, Wenhao Mu, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, and Chao Zhang. “Aligning Large Language Models with Representation Editing: A Control Perspective.” In Advances in Neural Information Processing Systems (NeurIPS), 2024.
+  * Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, and Chao Zhang. “AdaPlanner: Adaptive Planning from Feedback with Language Models.” In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+  * Lingkai Kong, Jiaming Cui, Yuchen Zhuang, Rui Feng, B. Aditya Prakash, and Chao Zhang. “End-to-End Stochastic Optimization with Energy-based Model.” In Advances in Neural Information Processing Systems (NeurIPS), 2022 (Oral).
+Division of AI & Data Science,
+School of Computing and Data Science
+Rm 207 Chow Yei Ching Building
+The University of Hong Kong
+Pokfulam Road, Hong Kong
+香港大學計算與數據科學學院, 人工智能與數據科學系
+香港薄扶林道香港大學周亦卿樓207室
+
+Email: aienq@hku.hk
+Telephone: 3917 3146
+
+Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+  * Home
+  * About Us
+    * Message to Students
+    * Our History
+    * Dept Videos
+    * Computing Facilities
+    * How to Get Here & Where to Stay
+    * Location Map
+    * Contact Information
+  * People
+    * Academic Staff
+    * Administrative Staff
+    * Research Student
+    * Job Openings
+  * Teaching & Learning
+    * Undergraduate
+    * BEng (AI & Data Science)
+    * BASc (Applied AI)
+    * 2nd Major in CS
+    * Minor in Computer Science
+    * BBA(IS)/BEng(CompSc)
+    * Course Offered
+    * Final Year Projects
+      * Final Year Project Exhibition
+      * Final Year Project Competition
+    * Industry-based Projects
+    * Download Area
+    * Postgraduate
+    * Research Based
+    * MPhil/PhD
+      * Programme Structure
+      * Admission
+      * Further Inquiries
+      * Student Conference Travel Support
+    * Course Offered and Seminar Requirements
+    * Taught Based
+    * MSc(CompSc)
+    * MSc(ECom&IComp)
+    * MSc(FTDA)
+    * MDASC
+    * MStat
+    * MSc(AI)
+  * Research
+    * Research Groups & Laboratories
+    * Innovation & Technology Projects
+    * Research Projects
+    * Research Highlights
+    * Major Facilities
+    * CS Past Theses
+    * CS Technical Reports
+    * CS Research Internship
+  * News & Events
+    * In the Media
+    * Photo Gallery
+    * Seminars and Events
+    * News and Announcements
+    * Competitions
+  * About the Students
+    * Student Bodies
+    * Hiring Students
+      * Information for Employers
+      * HKUCS Job Portal
+Don't have an account yet? Register Now!
+
+[Button: ×]
+### Sign in to your account
+
+Username * [Input: Username]
+
+Password * [Input: Password]
+
+[Input] Remember me
+
+[Button: Log in]
+
+  * Forgot your username?
+  * Forgot your password?
+
+[Input] [Input] [Input] [Input]

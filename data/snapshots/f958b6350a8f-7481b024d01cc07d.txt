@@ -1,0 +1,141 @@
+Skip navigation
+
+## Dai, B
+
+ Collaborations
+
+ Bibliometrics
+
+RSS (for New Additions)
+
+
+
+  * Profile
+  * Publications
+  * Datasets
+  * External Relations
+  * Patents
+  * University Responsibilities
+  * Grants
+  * Bibliometrics
+
+  * Contact Information
+  * Professional Qualifications
+  * Biography
+
+Name Card
+
+Image: A picture of Dai, Bo
+### Professor Dai, Bo 戴勃
+
+Title:
+
+Assistant Professor
+
+Department:
+
+School of Computing and Data Science
+
+Faculty:
+
+Faculty of Engineering
+
+Contact Information
+
+Image: A picture of Dai, Bo
+
+Office:
+
+GH P302I
+### Professor Dai, Bo 戴勃
+
+Title:
+
+Assistant Professor
+
+Department:
+
+School of Computing and Data Science
+
+Faculty:
+
+Faculty of Engineering
+
+Research Interests:(click to check for cognate researchers)
+
+  * Generative AI
+  * Interactive AI
+  * AI and Creativity
+  * Real-to-Sim-to-Real
+
+My URLs:
+
+  * Departmental Page
+  * Personal Page
+  * ORCID
+
+Professional Qualifications
+Year  | Awarding Institution  | Qualification
+--- | --- | ---
+2014  | Shanghai Jiao Tong University  | B.Eng. in Computer Science and Technology
+2018  | The Chinese University of Hong Kong  | Ph.D. in Information Engineering
+
+Biography
+Dr Bo Dai is an Assistant Professor in the Musketeers Foundation Institute of Data Science, The University of Hong Kong. He obtained his PhD degree from The Chinese University of Hong Kong, working with Prof. Dahua Lin. His research interests include Generative AI and its interdisciplinary applications in areas covering Embodied AI, Scientific Discovery, Metaverse and Creativity.
+His representative works include AnimateDiff, a pioneering work and milestone in video generation, as well as a leading research series in city-scale scene reconstruction and rendering such as CityNeRF, GridNeRF, LandMark, and Scaffold-GS. He is an Area Chair of NeurIPS2024 and AAAI 2021.
+
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Loading Content...Please Wait!
+
+Missing Publications?
+
+If you do not see your publications here, please note:
+  * We receive data from HKU's Research Output System (ROS), after you or your people enter data there. If you have entered, or are going to enter data into ROS, we do not want to enter them manually into the Hub, as it will create duplicates. When entering data into ROS, please remember to include the DOI or ISBN. It will help us match on outside sources, dedup, and bring in cleaner data than ROS supplies.
+  * If you are NOT going to enter publication data into ROS, or if you have publications from before your time at HKU, please put them into an EndNote file and send to us, [email protected]. It will allow us to enter in batch. HKU has a site license for EndNote. You may google for "endnote@hku". HKU Libraries can instruct on Endnote, either in class or one on one, http://lib.hku.hk/general/help.html
+Want to make a "Selected Publications" section?
+
+  * You may log into your ResearcherPage with your HKU Portal, and use the "Manage Publications" entry on the green left side menu, to unlink publications from your ResearcherPage, or, select a few to appear in a new box, "Selected Publications".
+
+Want your "Invited Lectures & Keynote Speeches" to appear?
+
+  * Some people did not want them, so we turned it off. If you want them to appear here, please write to the address below, and tell us!
+Want your Biography to appear here?
+
+  * Please send to us at address below, and we will add a biography section to your page. It could also hold jpeg or gif images.
+  * Similar for "Professional Qualifications"
+
+ORCID
+
+  * Did you remember to claim your ORCID account? If not, you cannot use it with publishers. And, although we loaded publications into it, they won't appear there until you claim it.
+
+Confused?
+
+  * Please write to [email protected].
+#### Export Publications
+
+[Input] [Input]
+
+Step 1: Select material type
+
+Step 2: Select content and export format [Select]
+
+ Download
+
+The University of Hong Kong Libraries, University of Hong Kong  
+
+Contact HKU Scholars Hub
+
+Tel:       3910-3912
+Email:  [email protected]

@@ -1,0 +1,699 @@
+Academic Staff (https://ai.hku.hk/people/academic-staff)
+【turn1view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://ai.hku.hk/people/academic-staff","lineno":null}); Total lines: 697
+L0: MENU
+L1: 
+L2: # Academic Staff
+L3: 
+L4: #### 【0†Cao, Yuan】
+L5: 曹原
+L6: 
+L7: 
+L8: 
+L9: #### Assistant Professors
+L10: RR-118
+L11: 
+L12: #### 【1†Cheng, Reynold C.K.】
+L13: 鄭振剛
+L14: 
+L15: 
+L16: 
+L17: #### Professor
+L18: Division Head (AI & Data Science Division) of CDS
+L19: Steering Committee of Musketers Foundation Institute of Data Science
+L20: CB-303
+L21: 
+L22: #### 【2†Chim, Tat Wing】
+L23: 詹達榮
+L24: 
+L25: 
+L26: 
+L27: #### Senior Lecturer
+L28: HW-519
+L29: 
+L30: #### 【3†Choi, Yi King】
+L31: 蔡綺琼
+L32: 
+L33: 
+L34: 
+L35: #### Senior Lecturer
+L36: Master Programme Executive Director of CDS
+L37: CB-322
+L38: 
+L39: #### 【4†Dai, Bo】
+L40: 戴勃
+L41: 
+L42: 
+L43: 
+L44: #### Assistant Professor
+L45: P-302I
+L46: #### 【5†Dougherty Alan William】
+L47: 
+L48: 
+L49: 
+L50: 
+L51: #### Lecturer
+L52: CB-317
+L53: 
+L54: #### 【6†Fang, Juanru】
+L55: 方涓茹
+L56: 
+L57: 
+L58: 
+L59: #### Lecturer
+L60: CB-317
+L61: 
+L62: #### 【7†Gao, Shenghua】
+L63: 高盛華
+L64: 
+L65: 
+L66: 
+L67: #### Associate Professor
+L68: Assistant Director (Shanghai Initiatives)
+L69: CB-406
+L70: 
+L71: #### 【8†Gašević, Dragan】
+L72: 
+L73: 
+L74: 
+L75: 
+L76: #### Chair Professor
+L77: RMS-414
+L78: 
+L79: #### 【9†GONG, Peng】
+L80: 
+L81: 
+L82: 
+L83: #### Chair Professor (by courtesy)
+L84: Vice-President and Pro-Vice-Chancellor (Academic Development)
+L85: 
+L86: #### 【10†Han, Kai】
+L87: 韓鍇
+L88: 
+L89: 
+L90: 
+L91: #### Assistant Professor
+L92: RR-220
+L93: 
+L94: #### 【11†Huang, Chao】
+L95: 黃超
+L96: #### Assistant Professor
+L97: 【12†Institute of Data Science†datascience.hku.hk】 Scholar
+L98: CB-318
+L99: 
+L100: #### 【13†Kao, Benjamin C.M.】
+L101: 高志明
+L102: 
+L103: 
+L104: 
+L105: #### Professor
+L106: CB-307
+L107: 
+L108: #### 【14†Kirkley, Alec William】
+L109: 
+L110: 
+L111: 
+L112: #### Assistant Professor
+L113: P307I
+L114: 
+L115: #### 【15†Komura, Taku】
+L116: 
+L117: #### Professor
+L118: CB-407
+L119: 
+L120: #### 【16†Kong, Lingkai】
+L121: 孔令愷
+L122: 
+L123: 
+L124: 
+L125: #### Assistant Professor
+L126: CB-301C
+L127: 
+L128: #### 【17†Kong, Lingpeng】
+L129: 孔令鵬
+L130: 
+L131: 
+L132: 
+L133: #### Assistant Professor
+L134: CB-320
+L135: 
+L136: #### 【18†Li, Hongyang】
+L137: 李弘揚
+L138: 
+L139: 
+L140: 
+L141: #### Assistant Professor
+L142: CB-301E
+L143: 
+L144: #### 【19†Liang, Yingyu】
+L145: 梁穎宇
+L146: #### Associate Professor
+L147: 【12†Institute of Data Science†datascience.hku.hk】 Scholar
+L148: Co-hosted at the Department of Computer Science
+L149: P307E, Graduate House
+L150: 
+L151: #### 【20†Liu, Chi Man】
+L152: 
+L153: 
+L154: #### Lecturer
+L155: 
+L156: 
+L157: 
+L158: 
+L159: 
+L160: #### CB-316
+L161: 
+L162: #### 【21†Luo, Ping】
+L163: 羅平
+L164: 
+L165: 
+L166: 
+L167: #### Professor
+L168: Associate Director (AI Research and Tech Transfer) of CDS
+L169: Associate Director (Innovation and outreach) of Musketers Foundation Institute of Data Science
+L170: CB-326
+L171: 
+L172: #### 【22†Luo, Ruibang】
+L173: 羅銳邦
+L174: #### Associate Professor
+L175: Division Associate Head (AI & Data Science Division) of CDS
+L176: Assistant Director (Learning Experience & Student Enrichment)
+L177: CB-422
+L178: 
+L179: #### 【23†Ma, Yi】
+L180: 馬毅
+L181: 
+L182: 
+L183: 
+L184: #### Professor, Chair of Artificial Intelligence
+L185: Director of CDS
+L186: Director & Chair Professor of HKU Musketeers Foundation Institute of Data Science
+L187: CB-301A
+L188: 
+L189: #### 【24†Pan, Jia】
+L190: 潘佳
+L191: 
+L192: 
+L193: 
+L194: #### Associate Professor
+L195: CB-410
+L196: 
+L197: #### 【25†Qian, Jian】
+L198: 錢艦
+L199: 
+L200: 
+L201: 
+L202: #### Assistant Professor
+L203: CB-301G
+L204: 
+L205: #### 【26†Qu, Liangqiong】
+L206: 屈靚瓊
+L207: #### Assistant Professor
+L208: RR-121
+L209: 
+L210: #### 【27†Schnieders, Dirk】
+L211: 
+L212: 
+L213: 
+L214: 
+L215: #### Senior Lecturer
+L216: CB-324
+L217: 
+L218: #### 【28†Tam, Anthony T.C.】
+L219: 譚達俊
+L220: 
+L221: 
+L222: 
+L223: #### Lecturer
+L224: Academic Advisor
+L225: CB-305
+L226: 
+L227: #### 【29†Wang Yang (MATH)†www.presidentsoffice.hku.hk】
+L228: 
+L229: 
+L230: 
+L231: #### Chair Professor
+L232: Vice-President and Pro-Vice-Chancellor (Institutional Advancement)
+L233: 
+L234: #### 【30†Wipf, David Paul】
+L235: 
+L236: 
+L237: 
+L238: #### Professor
+L239: 
+L240: 
+L241: 
+L242: 
+L243: 
+L244: (【31†HKU X-Lab†sh-xlab.hku.hk】)
+L245: 
+L246: 
+L247: 
+L248: HW-520
+L249: 
+L250: #### 【32†Wong, Kenneth K.Y.】
+L251: 黃君義
+L252: #### Professor
+L253: Associate Director (Teaching and Learning) of CDS
+L254: CB-323
+L255: 
+L256: #### 【33†Wu, Zhenqin】
+L257: 吳楨欽
+L258: 
+L259: 
+L260: 
+L261: #### Assistant Professor
+L262: CB404
+L263: 
+L264: #### 【34†Xu, Dong】
+L265: 徐東
+L266: 
+L267: 
+L268: 
+L269: #### Professor
+L270: CB-401B
+L271: 
+L272: #### 【35†Yang, Yanchao】
+L273: 
+L274: 
+L275: 
+L276: #### Assistant Professor
+L277: CB-408
+L278: 
+L279: #### 【36†Fan, Yu】
+L280: 
+L281: 
+L282: 
+L283: #### Assistant Professor
+L284: CCT-502
+L285: 
+L286: #### 【37†Yu, Lequan】
+L287: 于樂全
+L288: 
+L289: 
+L290: 
+L291: #### Assistant Professor
+L292: RR-226
+L293: 
+L294: #### 【38†Yu, Tao】
+L295: 余濤
+L296: 
+L297: 
+L298: 
+L299: #### Assistant Professor
+L300: 【12†Institute of Data Science†datascience.hku.hk】 Scholar
+L301: CB-408
+L302: 
+L303: #### 【39†Yu, Yizhou】
+L304: 俞益州
+L305: #### Chair Professor
+L306: CB-325
+L307: 
+L308: #### 【40†Zhang, Zheng】
+L309: 
+L310: 
+L311: 
+L312: #### Professor
+L313: 
+L314: 
+L315: 
+L316: 
+L317: 
+L318: (【31†HKU X-Lab†sh-xlab.hku.hk】)
+L319: 
+L320: 
+L321: 
+L322: CB-309
+L323: 
+L324: #### 【41†Zhao, Hengshuang】
+L325: 趙恒爽
+L326: 
+L327: 
+L328: 
+L329: #### Assistant Professor
+L330: CB-424
+L331: 
+L332: #### 【42†Zou, Difan】
+L333: 鄒荻凡
+L334: 
+L335: 
+L336: 
+L337: #### Assistant Professor
+L338: 【12†Institute of Data Science†datascience.hku.hk】 Scholar
+L339: CB-425
+L340: 
+L341: 
+L342: 
+L343: * * *
+L344: 
+L345: CB = Chow Yei Ching Building,   HW = Haking Wong Building,   RR = Run Run Shaw Building,    CJT = Jockey Club Tower (Centennial Campus)
+L346: 
+L347: 
+L348: 
+L349: # Honorary Professors
+L350: 
+L351: #### 【43†Au, Allen M.H.】
+L352: #### Honorary Professor
+L353: 
+L354: #### 【44†Cheung, D.W.L.】
+L355: 
+L356: 
+L357: 
+L358: #### Honorary Professor
+L359: 
+L360: #### 【45†Cheung, Paul†www.ecom-icom.hku.hk】
+L361: 
+L362: 
+L363: #### Honorary Professor
+L364: 
+L365: #### 【46†Chin, Francis Y.L.】
+L366: 
+L367: 
+L368: #### Emeritus & Honorary Professor
+L369: 
+L370: #### 【47†Chow, Kam Pui】
+L371: 
+L372: 
+L373: #### Honorary Associate Professor
+L374: 
+L375: #### 【48†Pun, K.H.】
+L376: 
+L377: 
+L378: 
+L379: #### Honorary Associate Professor
+L380: 
+L381: #### 【49†Tang, Winnie S.M.†www.ecom-icom.hku.hk】
+L382: 
+L383: 
+L384: 
+L385: #### Honorary Professor
+L386: 
+L387: #### 【50†Tang, Xiaoou†www.ie.cuhk.edu.hk】
+L388: 
+L389: 
+L390: 
+L391: #### Honorary Professor
+L392: #### 【51†Ting, H.F.】
+L393: 
+L394: 
+L395: 
+L396: #### Honorary Associate Professor
+L397: 
+L398: #### 【52†Tse, T.H.】
+L399: 
+L400: 
+L401: 
+L402: #### Honorary Professor
+L403: 
+L404: #### 【53†Wang, C.L.】
+L405: 
+L406: 
+L407: 
+L408: #### Honorary Professor
+L409: 
+L410: #### 【54†Wang, Minjie】
+L411: 
+L412: 
+L413: 
+L414: #### Adjunct Associate Professor
+L415: 
+L416: #### 【55†Wenping Wang】
+L417: 
+L418: 
+L419: 
+L420: #### Emeritus Professor
+L421: 
+L422: #### 【56†Yu, Philip L.H.†www.eduhk.hk】
+L423: 
+L424: 
+L425: 
+L426: #### Honorary Professor
+L427: 
+L428: #### 【57†Iannella, Renato†www.ecom-icom.hku.hk】
+L429: 
+L430: 【57† †www.ecom-icom.hku.hk】
+L431: 
+L432: #### Adjunct Professor
+L433: 
+L434: #### 【58†Lau, Francis C.M.】
+L435: 
+L436: 
+L437: 
+L438: #### Honorary Professor
+L439: #### 【59†Shuen, Amy†www.ecom-icom.hku.hk】
+L440: 
+L441: 
+L442: 
+L443: #### Adjunct Professor
+L444: 
+L445: #### 【60†Yuen, John T.H.】
+L446: 
+L447: 
+L448: 
+L449: #### Honorary Assistant Professor
+L450: 
+L451: # Part-time Lecturer
+L452: 
+L453: Cautis, Bogdan
+L454: 
+L455: Chan, B.M.Y.
+L456: 
+L457: Chan, P.S.
+L458: 
+L459: Chung, H.Y.
+L460: 
+L461: Chung, W.Y.
+L462: 
+L463: Ebler, Daniel
+L464: 
+L465: Farhoomand, Ali
+L466: 
+L467: Goel, Mayank
+L468: 
+L469: Ho, S.C.
+L470: 
+L471: Kwan, Y.K.
+L472: 
+L473: Law, Y.W.
+L474: 
+L475: Li, F.K.
+L476: 
+L477: Luo, T.
+L478: 
+L479: Mamoulis, N.
+L480: 
+L481: Mitcheson, George
+L482: 
+L483: Montgomery, Alan
+L484: 
+L485: Ng, T.L.
+L486: 
+L487: Rahmel, Juergen
+L488: 
+L489: Shum, C.D.
+L490: 
+L491: Sozio, Mauro
+L492: 
+L493: Tse, Hayson
+L494: 
+L495: Yeung, Leo
+L496: 
+L497: Yiu, S.W.
+L498: 
+L499: Zhang, J.
+L500: # Senior Research Staff
+L501: 
+L502: Xiong, Hao
+L503: # Postdoctoral Fellow
+L504: 
+L505: Wen, Rongwei
+L506: 
+L507: Jiang, Yangqin
+L508: 
+L509: Li, Zhonghang
+L510: 
+L511: Cha, Jihun
+L512: 
+L513: Liu, Lei
+L514: 
+L515: Luo, Zhenxiao
+L516: 
+L517: Feng, Tianfeng
+L518: 
+L519: Dong, Siyan
+L520: 
+L521: Feng, Qingqing
+L522: 
+L523: Feng, Xiachong
+L524: 
+L525: Peng, Liang
+L526: 
+L527: Zhang, Qianru
+L528: 
+L529: Xia, Binke
+L530: 
+L531: Lin, Kunyu
+L532: 
+L533: Ji, Ming
+L534: 
+L535: Zhang, Hongyuan
+L536: 
+L537: Liu, Xinhui
+L538: 
+L539: Zhao, Benchi
+L540: 
+L541: Zheng, Linfang
+L542: 
+L543: Zheng, Zhenxian
+L544: 
+L545: Wu, Hao
+L546: 
+L547: Zhang, Rui
+L548: 
+L549: Luo, Sichun
+L550: 
+L551: Li, Zihao
+L552: 
+L553: Huang, Tianxin
+L554: 
+L555: Wang, Can
+L556: 
+L557: Xie, Zhanteng
+L558: 
+L559: Chen, Yizhou
+L560: 
+L561: Hu, Yanglin
+L562: 
+L563: Zhang, Huaien
+L564: 
+L565: Li, Lang
+L566: 
+L567: Gong, Deshan
+L568: 
+L569: Liu, Dingkun
+L570: 
+L571: Han, Ruihua
+L572: 
+L573: Li, Xiao
+L574: 
+L575: Zhu, Zhenyu
+L576: Yang, Zhenjie
+L577: 
+L578: Li, Jiaqi
+L579: 
+L580: Liu, Yiran
+L581: 
+L582: Ma, Hao
+L583: 
+L584: Li, Zhaoyi
+L585: 
+L586: Liao, Guibiao
+L587: 
+L588: Dong, Xiaowu
+L589: 
+L590: Chen, Linwei
+L591: 
+L592: Zhang, Yinqiang
+L593: 
+L594: Jia, Jianhao
+L595: 
+L596: Zhang, Xie
+L597: 
+L598: Liu, Hongyang
+L599: 
+L600: Yuan, Longzhi
+L601: 
+L602: Zhang, Kai
+L603: 
+L604: 
+L605: 
+L606: 
+L607: Division of AI & Data Science,
+L608: School of Computing and Data Science
+L609: Rm 207 Chow Yei Ching Building
+L610: The University of Hong Kong
+L611: Pokfulam Road, Hong Kong
+L612: 香港大學計算與數據科學學院, 人工智能與數據科學系
+L613: 香港薄扶林道香港大學周亦卿樓207室
+L614: 
+L615: Email: aienq@hku.hk
+L616: Telephone: 3917 3146
+L617: Copyright © School of Computing and Data Science, The University of Hong Kong. All rights reserved.
+L618:   * 【61†Home】
+L619:   * About Us
+L620:     * 【62†Message to Students】
+L621:     * 【63†Our History】
+L622:     * 【64†Dept Videos】
+L623:     * 【65†Computing Facilities】
+L624:     * 【66†How to Get Here & Where to Stay】
+L625:     * 【67†Location Map】
+L626:     * 【68†Contact Information】
+L627:   * People
+L628:     * 【69†Academic Staff】
+L629:     * 【70†Administrative Staff】
+L630:     * 【71†Research Student】
+L631:     * 【72†Job Openings】
+L632:   * Teaching & Learning
+L633:     * Undergraduate
+L634:     * 【73†BEng (AI & Data Science)†www.cds.hku.hk】
+L635:     * 【74†BASc (Applied AI)†www.cds.hku.hk】
+L636:     * 【75†2nd Major in CS†csai.cds.hku.hk】
+L637:     * 【75†Minor in Computer Science†csai.cds.hku.hk】
+L638:     * 【76†BBA(IS)/BEng(CompSc)】
+L639:     * 【77†Course Offered】
+L640:     * 【78†Final Year Projects】
+L641:       * 【79†Final Year Project Exhibition】
+L642:       * 【80†Final Year Project Competition】
+L643:     * 【81†Industry-based Projects】
+L644:     * 【75†Download Area†csai.cds.hku.hk】
+L645:     * Postgraduate
+L646:     * Research Based
+L647:     * 【82†MPhil/PhD】
+L648:       * 【83†Programme Structure】
+L649:       * 【84†Admission】
+L650:       * 【85†Further Inquiries】
+L651:       * 【86†Student Conference Travel Support】
+L652:     * 【87†Course Offered and Seminar Requirements】
+L653:     * Taught Based
+L654:     * 【88†MSc(CompSc)†www.msc-cs.hku.hk】
+L655:     * 【89†MSc(ECom&IComp)†www.ecom-icom.hku.hk】
+L656:     * 【90†MSc(FTDA)†mscftda.cds.hku.hk】
+L657:     * 【91†MDASC†saasweb.hku.hk】
+L658:     * 【92†MStat†mstat.cds.hku.hk】
+L659:     * 【93†MSc(AI)†hkumath.hku.hk】
+L660:   * Research
+L661:     * 【94†Research Groups & Laboratories】
+L662:     * 【95†Innovation & Technology Projects】
+L663:     * 【96†Research Projects】
+L664:     * 【97†Research Highlights†www.cds.hku.hk】
+L665:     * 【98†Major Facilities】
+L666:     * 【99†CS Past Theses】
+L667:     * 【100†CS Technical Reports】
+L668:     * 【101†CS Research Internship†www.cs.hku.hk】
+L669:   * News & Events
+L670:     * 【102†In the Media】
+L671:     * 【103†Photo Gallery】
+L672:     * 【104†Seminars and Events】
+L673:     * 【105†News and Announcements】
+L674:     * 【106†Competitions】
+L675:   * About the Students
+L676:     * 【107†Student Bodies】
+L677:     * Hiring Students
+L678:       * 【108†Information for Employers】
+L679:       * 【109†HKUCS Job Portal†career.cs.hku.hk】
+L680: Don't have an account yet? 【110†Register Now!】
+L681: 
+L682: [Button: ×]
+L683: ### Sign in to your account
+L684: 
+L685: Username * [Input: Username]
+L686: 
+L687: Password * [Input: Password]
+L688: 
+L689: [Input] Remember me
+L690: 
+L691: [Button: Log in]
+L692: 
+L693:   * 【111†Forgot your username?】
+L694:   * 【112†Forgot your password?】
+L695: 
+L696: [Input] [Input] [Input] [Input]

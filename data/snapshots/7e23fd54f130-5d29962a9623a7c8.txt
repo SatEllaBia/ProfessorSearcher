@@ -1,0 +1,55 @@
+[Input]
+
+Search this site
+
+Embedded Files
+
+Skip to main content
+
+Skip to navigation
+
+Zhenqin (Michael) Wu
+
+Image
+#
+
+Hi, I am 桢钦 (Zhenqin/Michael)
+
+Research Interests:
+
+AI/ML for c omputational b iology
+
+Spatial o mics
+
+Agentic discovery of spatial biology insights
+
+Contact me:
+
+zqwu (at) cs.hku.hk
+
+zhenqin (at) enablemedicine.com
+Hi! I'm an Assistant Professor in the Department of AI & Data Science, School of Computing and Data Science at the University of Hong Kong. My research fo cuses on developing artificial intelligence (AI), deep learning, and LLM-powered agentic tools for modeling and interpret ing spatial biology, including spatial proteomics, transcriptomics, and histopathological imaging (a nice review article here).
+I serve as a scientific advisor to Enable Medicine, a biotechnology start-up based in Menlo Park, California specializing in CODEX and other spatial omics experiments and data analysis. Besides, I am also an advisor to Strand AI, a start-up building multimodal foundation models for patient biology data.
+
+I am seeking enthusiastic PhD candidates and postdoctoral researchers to join my journey. Feel free to reach out if you are interested!
+##
+
+More about me
+
+I obtained my Ph.D. at Stanford University, advised by Prof. James Zou and Dr. Vijay Pande, during which I worked on deep learning/machine learning applications in various fields of computational biology (Thesis). Before that, I was at Peking University, where I completed my B.Sc. in Chemistry, advised by Prof. Xinsheng Zhao.
+My general research interests focus on deep learning and machine learning applications in biology and chemistry. I am especially interested in leveraging spatial omics data to answer the following questions:
+
+  * How are diverse cells spatially organized in both normal and dysfunctional tissues?
+
+  * How to identify specific spatial structures that correlate with disease states and prognosis?
+
+  * How to simplify and automate complex data analysis pipelines for spatial omics?
+When not coding or sleeping, you will most likely find me on a badminton court - jumping around and catching my breath. I was a long-term member of the bass section of Sing++ (an acapella at Stanford, follow us!). Oh, and just to clarify, even though I majored in chemistry for over a decade, don't expect to see me in any wet labs. I practice my chemistry lab skills in my kitchen, dealing with soy sauce and oyster sauce.
+
+zhenqin@hku.hk
+
+Page updated
+
+Google Sites
+
+Report abuse
