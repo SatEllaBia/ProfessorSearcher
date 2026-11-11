@@ -1,0 +1,1648 @@
+[
+  {
+    "professor_id": 1,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      2,
+      36
+    ],
+    "profile_source_id": 2,
+    "email": "yuancao@hku.hk",
+    "homepage_url": "https://yuancaohku.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 36,
+        "evidence_quote": "I am looking for highly motivated Ph.D. students",
+        "reasoning": "Explicit PhD invitation; no intake or funding commitment stated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 2,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 2,
+        "evidence_quote": "Learning Theory",
+        "raw_topic": "Learning theory and high-dimensional statistics",
+        "match_strength": 0,
+        "reasoning": "Foundational ML; the checked interests do not establish a direct agents, visual generation, or AI graphics focus."
+      }
+    ]
+  },
+  {
+    "professor_id": 2,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      3,
+      37,
+      63,
+      74
+    ],
+    "profile_source_id": 3,
+    "email": "ckcheng@cs.hku.hk",
+    "homepage_url": "https://reynold.hku.hk",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 74,
+        "evidence_quote": "openings for PhD (4 years) and MPhil (2 years) this year",
+        "reasoning": "Both degrees are named. “This year” has no publication date to anchor it; confirm the intake.",
+        "intake": "this year (year not established)",
+        "temporal_state": "unclear"
+      },
+      {
+        "degree": "MPhil",
+        "status": 2,
+        "source_id": 74,
+        "evidence_quote": "openings for PhD (4 years) and MPhil (2 years) this year",
+        "reasoning": "Both degrees are named. “This year” has no publication date to anchor it; confirm the intake.",
+        "intake": "this year (year not established)",
+        "temporal_state": "unclear"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 3,
+        "evidence_quote": "Graph Analytics",
+        "raw_topic": "Databases, graph analytics and uncertain data",
+        "match_strength": 0,
+        "reasoning": "Data systems focus; not a direct match to the requested research areas."
+      }
+    ]
+  },
+  {
+    "professor_id": 3,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      4,
+      59,
+      73,
+      75
+    ],
+    "profile_source_id": 4,
+    "email": "bdai@hku.hk",
+    "homepage_url": "https://daibo.info/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 59,
+        "evidence_quote": "Looking for researchers/interns/phds/post-docs.",
+        "reasoning": "The personal homepage explicitly lists PhDs; undated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 4,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 75,
+        "evidence_quote": "AnimateDiff, a pioneering work and milestone in video generation",
+        "raw_topic": "Video generation / AnimateDiff",
+        "match_strength": 3,
+        "reasoning": "The institutional biography explicitly identifies video generation."
+      },
+      {
+        "area": "ai_graphics",
+        "topic": "neural_rendering",
+        "source_id": 75,
+        "evidence_quote": "city-scale scene reconstruction and rendering",
+        "raw_topic": "City-scale learned scene reconstruction and rendering",
+        "match_strength": 3,
+        "reasoning": "The cited biography identifies a rendering research series including CityNeRF and Scaffold-GS; the neural-rendering tag is an interpretation of that series."
+      },
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 4,
+        "evidence_quote": "Embodied AI",
+        "raw_topic": "Generative AI applied to embodied AI",
+        "match_strength": 2,
+        "reasoning": "Embodied AI is explicitly listed; particular agent architectures are not established in this profile."
+      }
+    ]
+  },
+  {
+    "professor_id": 4,
+    "review_state": "partial",
+    "checked_source_ids": [
+      5,
+      60
+    ],
+    "profile_source_id": 5,
+    "email": "gaosh@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. The IDS page has inconsistent interest blocks: its biography says 3D reconstruction/image generation/video understanding, while another block lists medical informatics. Match uses the biography; needs a personal research-page cross-check.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 5,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 5,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "image_generation",
+        "source_id": 60,
+        "evidence_quote": "image generation",
+        "raw_topic": "Image generation and visual understanding",
+        "match_strength": 3,
+        "reasoning": "The biography explicitly lists image generation. Another research-interest block on the same page lists unrelated medical topics; this inconsistency is flagged in the notes."
+      }
+    ]
+  },
+  {
+    "professor_id": 5,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      6,
+      65
+    ],
+    "profile_source_id": 6,
+    "email": "dgasevic@hku.hk",
+    "homepage_url": "https://web26.edu.hku.hk/faculty-academics/dgasevic",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Recruitment evidence comes from the Faculty of Education. Verify the appropriate degree home and CDS supervision arrangements.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 65,
+        "evidence_quote": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+        "reasoning": "Explicit supervision invitation for both degrees on the Education profile. Confirm whether the application should be through Education or CDS.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 2,
+        "source_id": 65,
+        "evidence_quote": "I am available to supervise PhD/MPhil students and would welcome enquiries for supervision.",
+        "reasoning": "Explicit supervision invitation for both degrees on the Education profile. Confirm whether the application should be through Education or CDS.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 6,
+        "evidence_quote": "human-AI interaction",
+        "raw_topic": "Learning analytics and human–AI interaction in education",
+        "match_strength": 1,
+        "reasoning": "AI interaction and educational use of generative models are adjacent; the checked evidence does not establish visual content generation or agent construction as the main focus."
+      }
+    ]
+  },
+  {
+    "professor_id": 6,
+    "review_state": "partial",
+    "checked_source_ids": [
+      7
+    ],
+    "profile_source_id": 7,
+    "email": "penggong@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Courtesy appointment retained. Only the official research biography was established; a personal research homepage and recruitment statement remain unresolved.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 7,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 7,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 7,
+        "evidence_quote": "satellite remote sensing data",
+        "raw_topic": "AI for remote sensing, sustainability and environmental health",
+        "match_strength": 0,
+        "reasoning": "Applied remote sensing does not itself establish a direct match to the requested areas."
+      }
+    ]
+  },
+  {
+    "professor_id": 7,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      8,
+      38
+    ],
+    "profile_source_id": 8,
+    "email": "kaihanx@hku.hk",
+    "homepage_url": "https://www.kaihan.org",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 38,
+        "evidence_quote": "PhD / Postdoc / RA",
+        "reasoning": "Listed under Openings with an invitation to strong candidates. No cohort-specific intake stated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 8,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 8,
+        "evidence_quote": "generative AI",
+        "raw_topic": "Generative AI and spatial intelligence",
+        "match_strength": 2,
+        "reasoning": "Explicit generative-AI focus; specific modalities are separately supported by homepage publications."
+      },
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 38,
+        "evidence_quote": "Joint Video-Audio Generation and Editing",
+        "raw_topic": "Joint video/audio generation and editing (JoVA)",
+        "match_strength": 3,
+        "reasoning": "The homepage lists the named 2026 video/audio generation work."
+      },
+      {
+        "area": "generation",
+        "topic": "3d_generation",
+        "source_id": 38,
+        "evidence_quote": "Generating 4D Shapes via Sparse-Attention Diffusion Transformers",
+        "raw_topic": "4D shape generation (Sculpt4D)",
+        "match_strength": 3,
+        "reasoning": "Time-varying 3D shapes fit the 3D generation topic; the raw description preserves 4D."
+      }
+    ]
+  },
+  {
+    "professor_id": 8,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      9,
+      39,
+      73
+    ],
+    "profile_source_id": 9,
+    "email": "chuang@cs.hku.hk",
+    "homepage_url": "https://sites.google.com/view/chaoh",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 73,
+        "evidence_quote": "I am looking for self-motivated Ph.D. students/Research (Remote) Interns",
+        "reasoning": "Explicit invitation in the Chao Huang section. The shared institutional page is undated and contains older material.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 9,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "llm_agents",
+        "source_id": 39,
+        "evidence_quote": "Large Language Models,  Autonomous Agents",
+        "raw_topic": "Autonomous agents and LLM applications",
+        "match_strength": 3,
+        "reasoning": "The lab explicitly lists both LLMs and autonomous agents, and links agent projects. The LLM-agent tag interprets this combined focus."
+      }
+    ]
+  },
+  {
+    "professor_id": 9,
+    "review_state": "partial",
+    "checked_source_ids": [
+      10,
+      63
+    ],
+    "profile_source_id": 10,
+    "email": "kao@cs.hku.hk",
+    "homepage_url": "https://www.cs.hku.hk/~kao",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Personal homepage failed through both www.cs and i.cs routes. Official profile and departmental student-message section were checked.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 10,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 10,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 10,
+        "evidence_quote": "Database Management Systems, Data Mining",
+        "raw_topic": "Databases and data mining",
+        "match_strength": 0,
+        "reasoning": "The checked profile is primarily database and information retrieval research; homepage retrieval failed."
+      }
+    ]
+  },
+  {
+    "professor_id": 10,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      11,
+      41,
+      73
+    ],
+    "profile_source_id": 11,
+    "email": "akirkley@hku.hk",
+    "homepage_url": "https://aleckirkley.netlify.app/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 73,
+        "evidence_quote": "I am looking for PhD students and Research Assistants",
+        "reasoning": "Explicit invitation in the Alec Kirkley section of an undated institutional page.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 11,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 11,
+        "evidence_quote": "Network Science, Complex Systems, Statistical Physics, Statistical Inference",
+        "raw_topic": "Network science and statistical inference",
+        "match_strength": 0,
+        "reasoning": "No direct requested-area match established by the checked description."
+      }
+    ]
+  },
+  {
+    "professor_id": 11,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      12,
+      42
+    ],
+    "profile_source_id": 12,
+    "email": "taku@cs.hku.hk",
+    "homepage_url": "https://www.cs.hku.hk/~taku",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 42,
+        "evidence_quote": "PhD and Postdoc positions available!",
+        "reasoning": "The homepage explicitly announces PhD positions, without intake dates.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 12,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "ai_graphics",
+        "topic": "learned_animation",
+        "source_id": 12,
+        "evidence_quote": "application of machine learning techniques for animation synthesis",
+        "raw_topic": "Machine learning for character animation synthesis",
+        "match_strength": 3,
+        "reasoning": "An explicit AI-plus-animation direction; this is distinguishable from the profile’s conventional simulation work."
+      },
+      {
+        "area": "generation",
+        "topic": "motion_generation",
+        "source_id": 12,
+        "evidence_quote": "Unified synthesis of physical human-scene interactions through task tokenization",
+        "raw_topic": "Human–scene interaction and motion synthesis",
+        "match_strength": 3,
+        "reasoning": "The listed 2025 publication supports learned interaction synthesis."
+      }
+    ]
+  },
+  {
+    "professor_id": 12,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      13,
+      43
+    ],
+    "profile_source_id": 13,
+    "email": "lingkaikong@hku.hk",
+    "homepage_url": "https://lingkai-kong.com",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 43,
+        "evidence_quote": "[PhD/RA/Intern + Year]",
+        "reasoning": "The student invitation asks PhD applicants to use this subject line. No particular intake is promised.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 13,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "other",
+        "source_id": 13,
+        "evidence_quote": "generative AI agents",
+        "raw_topic": "Generative AI agents for decision-making and social impact",
+        "match_strength": 3,
+        "reasoning": "Direct agent research, preserved under agents.other because the profile spans generative policies and decisions."
+      },
+      {
+        "area": "agents",
+        "topic": "planning",
+        "source_id": 43,
+        "evidence_quote": "long-horizon planning under uncertainty",
+        "raw_topic": "Long-horizon planning with generative policies",
+        "match_strength": 3,
+        "reasoning": "The homepage explicitly describes planning with reinforcement learning, diffusion models and LLMs."
+      },
+      {
+        "area": "agents",
+        "topic": "multi_agent",
+        "source_id": 43,
+        "evidence_quote": "Multi-Agent Systems",
+        "raw_topic": "Human-in-the-loop multi-agent cooperation",
+        "match_strength": 3,
+        "reasoning": "Named research thread on the personal homepage."
+      }
+    ]
+  },
+  {
+    "professor_id": 13,
+    "review_state": "partial",
+    "checked_source_ids": [
+      14,
+      44
+    ],
+    "profile_source_id": 14,
+    "email": "lpk@cs.hku.hk",
+    "homepage_url": "https://ikekonglp.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. The linked NLP group landing page returned no usable text; personal homepage and official profile were readable.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 14,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 14,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 44,
+        "evidence_quote": "generative models",
+        "raw_topic": "Generative models for NLP and representation learning",
+        "match_strength": 2,
+        "reasoning": "Generative models are explicit, but this evidence is language-oriented rather than visual generation."
+      }
+    ]
+  },
+  {
+    "professor_id": 14,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      15,
+      45
+    ],
+    "profile_source_id": 15,
+    "email": "hongyang@hku.hk",
+    "homepage_url": "https://lihongyang.info/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Recruitment page prioritizes HKPFS/HKU Presidential Scholarship-level candidates and directs informal contact to the academic assistant. Degree routes are evidence of possible availability, not a confirmed opening.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 45,
+        "evidence_quote": "Post-doc / Ph.D. / MPhil: No need to contact me first.",
+        "reasoning": "A degree-specific prospective-applicant route and selection expectations are given, but this does not explicitly promise an open vacancy. Use the academic-assistant route described on the page.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 45,
+        "evidence_quote": "Post-doc / Ph.D. / MPhil: No need to contact me first.",
+        "reasoning": "A degree-specific prospective-applicant route and selection expectations are given, but this does not explicitly promise an open vacancy. Use the academic-assistant route described on the page.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 15,
+        "evidence_quote": "Embodied AI, Autonomous Driving, Robotic Manipulation, Humanoids, VLA and World Models",
+        "raw_topic": "Embodied agents, VLA, robotic manipulation and world models",
+        "match_strength": 3,
+        "reasoning": "Explicit research interests directly fit embodied agents."
+      }
+    ]
+  },
+  {
+    "professor_id": 15,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      16,
+      64,
+      73
+    ],
+    "profile_source_id": 16,
+    "email": "yingyul@hku.hk",
+    "homepage_url": "https://yingyuliang.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 73,
+        "evidence_quote": "If you are interested in joining my research group, please drop me an email to discuss further.",
+        "reasoning": "The Yingyu Liang section invites group enquiries but does not specify a degree. Degree-specific availability is therefore only possible, not explicit.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 73,
+        "evidence_quote": "If you are interested in joining my research group, please drop me an email to discuss further.",
+        "reasoning": "The Yingyu Liang section invites group enquiries but does not specify a degree. Degree-specific availability is therefore only possible, not explicit.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "unspecified",
+        "status": 2,
+        "source_id": 73,
+        "evidence_quote": "If you are interested in joining my research group, please drop me an email to discuss further.",
+        "reasoning": "Explicit invitation to discuss joining; no degree or intake specified.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 64,
+        "evidence_quote": "NRFlow: Towards Noise-Robust Generative Modeling via High-Order Mechanism",
+        "raw_topic": "Generative modeling foundations",
+        "match_strength": 2,
+        "reasoning": "A generative-modeling publication is listed, alongside a broader theoretical ML focus."
+      }
+    ]
+  },
+  {
+    "professor_id": 16,
+    "review_state": "partial",
+    "checked_source_ids": [
+      17
+    ],
+    "profile_source_id": 17,
+    "email": "pluo@cs.hku.hk",
+    "homepage_url": "http://luoping.me",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. AI division directory/profile say Professor; the school directory lists Associate Professor. Rank retained from AI source. Personal homepage timed out; official PhD invitation is undated. The Gmail recruitment contact on the official profile differs from the institutional contact field.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 17,
+        "evidence_quote": "I am recruiting a number of Postdocs, PhDs, and RAs.",
+        "reasoning": "Explicit PhD recruitment on the official profile. The linked personal homepage timed out, so currency needs follow-up.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 17,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "other",
+        "source_id": 17,
+        "evidence_quote": "solve complex tasks with larger autonomy",
+        "raw_topic": "Autonomous learning systems and reinforcement learning",
+        "match_strength": 1,
+        "reasoning": "Autonomy and reinforcement learning are stated; the checked official page is not sufficient to establish a specific LLM-agent project."
+      }
+    ]
+  },
+  {
+    "professor_id": 17,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      18,
+      67,
+      71
+    ],
+    "profile_source_id": 18,
+    "email": "rbluo@cs.hku.hk",
+    "homepage_url": "https://www.bio8.cs.hku.hk/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 71,
+        "evidence_quote": "We are looking for dedicated and self-motivated students and postdocs",
+        "reasoning": "The lab recruits students without naming the degree; individual degree availability remains inferred.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 71,
+        "evidence_quote": "We are looking for dedicated and self-motivated students and postdocs",
+        "reasoning": "The lab recruits students without naming the degree; individual degree availability remains inferred.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "unspecified",
+        "status": 2,
+        "source_id": 71,
+        "evidence_quote": "We are looking for dedicated and self-motivated students and postdocs",
+        "reasoning": "Explicit student recruitment, degree unspecified.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 18,
+        "evidence_quote": "bioinformatics algorithms and clinical informatics",
+        "raw_topic": "Bioinformatics algorithms and clinical informatics",
+        "match_strength": 0,
+        "reasoning": "This evidence supports bioinformatics rather than one of the three requested research areas."
+      }
+    ]
+  },
+  {
+    "professor_id": 18,
+    "review_state": "partial",
+    "checked_source_ids": [
+      19
+    ],
+    "profile_source_id": 19,
+    "email": "mayi@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Official page contains extensive research material but no separate personal homepage was established. Recruitment remains unknown.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 19,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 19,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 19,
+        "evidence_quote": "Computer vision, high-dimensional data analysis, and intelligent systems",
+        "raw_topic": "Foundations of vision and representation learning",
+        "match_strength": 1,
+        "reasoning": "Adjacent foundations; the checked profile does not establish the requested agent or generation specialization."
+      }
+    ]
+  },
+  {
+    "professor_id": 19,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      20
+    ],
+    "profile_source_id": 20,
+    "email": "jpan@cs.hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Use the linked prospective-student interest form; the profile explicitly requests not to email directly. Degree-specific recruitment is inferred only.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 20,
+        "evidence_quote": "Express your interest here",
+        "reasoning": "The Prospective Students section provides an interest form, without naming a degree or guaranteeing an opening. It asks applicants not to email directly.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 20,
+        "evidence_quote": "Express your interest here",
+        "reasoning": "The Prospective Students section provides an interest form, without naming a degree or guaranteeing an opening. It asks applicants not to email directly.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 20,
+        "evidence_quote": "agentic physical systems",
+        "raw_topic": "Agentic physical systems and robot intelligence",
+        "match_strength": 3,
+        "reasoning": "The research statement explicitly targets agentic robot systems."
+      },
+      {
+        "area": "agents",
+        "topic": "planning",
+        "source_id": 20,
+        "evidence_quote": "Language-Augmented Symbolic Planner for Open-World Task Planning",
+        "raw_topic": "Language-augmented open-world planning",
+        "match_strength": 3,
+        "reasoning": "The profile lists this RSS 2024 publication."
+      },
+      {
+        "area": "generation",
+        "topic": "motion_generation",
+        "source_id": 20,
+        "evidence_quote": "Text-Guided Synthesis of Crowd Animation",
+        "raw_topic": "Text-guided crowd animation synthesis",
+        "match_strength": 3,
+        "reasoning": "The profile lists a SIGGRAPH 2024 synthesis publication, distinct from conventional graphics."
+      }
+    ]
+  },
+  {
+    "professor_id": 20,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      21,
+      48
+    ],
+    "profile_source_id": 21,
+    "email": "jianqian@hku.hk",
+    "homepage_url": "https://jianqian80.github.io/my-homepage/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Homepage heading says Incoming while the official AI directory lists Assistant Professor; both sources retained.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 48,
+        "evidence_quote": "I am looking for motivated PhD students and RAs",
+        "reasoning": "Explicit PhD invitation. The homepage still labels the appointment Incoming, unlike the official directory.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 21,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "other",
+        "source_id": 21,
+        "evidence_quote": "Bandits and reinforcement learning",
+        "raw_topic": "Interactive decision-making theory and reinforcement learning",
+        "match_strength": 1,
+        "reasoning": "Relevant foundations for agents; a concrete deployed or LLM-agent focus is not established."
+      }
+    ]
+  },
+  {
+    "professor_id": 21,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      22,
+      49
+    ],
+    "profile_source_id": 22,
+    "email": "liangqqu@hku.hk",
+    "homepage_url": "https://liangqiong.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 49,
+        "evidence_quote": "Ph.D. students, and remote interns to join my group in Spring 2027/Fall 2027.",
+        "reasoning": "Explicit upcoming recruitment. Medical imaging and healthcare VLM/LLM interests are emphasized.",
+        "intake": "Spring 2027 / Fall 2027",
+        "temporal_state": "current"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 22,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "image_generation",
+        "source_id": 49,
+        "evidence_quote": "image synthesis/generation",
+        "raw_topic": "Medical image synthesis/generation",
+        "match_strength": 3,
+        "reasoning": "A targeted research direction for the explicitly stated 2027 intake."
+      }
+    ]
+  },
+  {
+    "professor_id": 22,
+    "review_state": "partial",
+    "checked_source_ids": [
+      23
+    ],
+    "profile_source_id": 23,
+    "email": "yang.wang@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. The directory links to an institutional leadership profile rather than a department profile. Rank retained from directory; a personal research homepage and recruitment evidence remain unresolved.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 23,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 23,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 23,
+        "evidence_quote": "pure mathematics and interdisciplinary applications",
+        "raw_topic": "Mathematics, interdisciplinary applications and AI education",
+        "match_strength": 0,
+        "reasoning": "The leadership biography does not establish direct target-area fit."
+      }
+    ]
+  },
+  {
+    "professor_id": 23,
+    "review_state": "partial",
+    "checked_source_ids": [
+      24
+    ],
+    "profile_source_id": 24,
+    "email": "dwipf@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Official profile lists generative-model theory. A separate personal homepage/recruitment page was not established.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 24,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 24,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 24,
+        "evidence_quote": "Understanding modern generative models",
+        "raw_topic": "Generative-model theory and latent variable models",
+        "match_strength": 2,
+        "reasoning": "Explicit generative-model research, without a particular visual modality established here."
+      }
+    ]
+  },
+  {
+    "professor_id": 24,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      25,
+      50,
+      63
+    ],
+    "profile_source_id": 25,
+    "email": "kykwong@cs.hku.hk",
+    "homepage_url": "https://www.cs.hku.hk/~kykwong",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 63,
+        "evidence_quote": "I am looking for PhD candidates",
+        "reasoning": "Explicit PhD invitation in K.K.Y. Wong’s section of an undated departmental messages page.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 25,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "image_generation",
+        "source_id": 50,
+        "evidence_quote": "Image Generation and Improved Visual Representation Capabilities",
+        "raw_topic": "Image generation using binary latent codes (BiGR)",
+        "match_strength": 3,
+        "reasoning": "The homepage lists a 2025 image-generation publication."
+      },
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 50,
+        "evidence_quote": "Dual-Expert Consistency Model for Efficient and High-Quality Video Generation",
+        "raw_topic": "Efficient video generation",
+        "match_strength": 3,
+        "reasoning": "The homepage lists this video-generation work."
+      },
+      {
+        "area": "ai_graphics",
+        "topic": "neural_rendering",
+        "source_id": 50,
+        "evidence_quote": "Neural Inverse Rendering",
+        "raw_topic": "Neural inverse rendering",
+        "match_strength": 3,
+        "reasoning": "The homepage lists PS-NeRF; the tag is supported by the publication title."
+      }
+    ]
+  },
+  {
+    "professor_id": 25,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      26,
+      51
+    ],
+    "profile_source_id": 26,
+    "email": "zqwu@cs.hku.hk",
+    "homepage_url": "https://www.zhenqin-wu.com/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 51,
+        "evidence_quote": "I am seeking enthusiastic PhD candidates and postdoctoral researchers",
+        "reasoning": "Explicit PhD invitation; no intake stated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 26,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "llm_agents",
+        "source_id": 51,
+        "evidence_quote": "LLM-powered agentic tools",
+        "raw_topic": "LLM agents for spatial biology",
+        "match_strength": 3,
+        "reasoning": "The homepage explicitly describes LLM-powered agents for biological data interpretation."
+      }
+    ]
+  },
+  {
+    "professor_id": 26,
+    "review_state": "partial",
+    "checked_source_ids": [
+      27
+    ],
+    "profile_source_id": 27,
+    "email": "dongxu@cs.hku.hk",
+    "homepage_url": "https://www.cs.hku.hk/~dongxu",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Both personal-homepage routes were inaccessible. Generative or AI-graphics specialization cannot be decided from the official profile alone.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 27,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 27,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 27,
+        "evidence_quote": "autonomous driving, AR/VR, video compression",
+        "raw_topic": "Vision, multimedia and AR/VR",
+        "match_strength": 1,
+        "reasoning": "Adjacent visual computing; an AI graphics or generative specialization is not established by the accessible profile. Homepage retrieval failed."
+      }
+    ]
+  },
+  {
+    "professor_id": 27,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      28,
+      53
+    ],
+    "profile_source_id": 28,
+    "email": "yanchaoy@hku.hk",
+    "homepage_url": "https://yanchaoyang.github.io",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 53,
+        "evidence_quote": "We are now considering applications for 2026/2027 enrollment",
+        "reasoning": "The PhD recruitment section states 2026/2027 enrollment. The profile and homepage also describe scholarship routes; no guaranteed award is implied.",
+        "intake": "2026/2027 enrollment (as written)",
+        "temporal_state": "current"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 28,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 28,
+        "evidence_quote": "robots and autonomous agents",
+        "raw_topic": "Embodied agents and robot manipulation",
+        "match_strength": 3,
+        "reasoning": "The profile explicitly centers embodied agents and manipulation policies."
+      },
+      {
+        "area": "ai_graphics",
+        "topic": "neural_rendering",
+        "source_id": 28,
+        "evidence_quote": "neural rendering and real-time reconstruction",
+        "raw_topic": "Neural rendering and real-time reconstruction",
+        "match_strength": 3,
+        "reasoning": "An explicit research direction combining learning and graphics."
+      }
+    ]
+  },
+  {
+    "professor_id": 28,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      29,
+      54
+    ],
+    "profile_source_id": 29,
+    "email": "yufn@hku.hk",
+    "homepage_url": "https://www.law.hku.hk/academic_staff/professor-yu-fan/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Directory displays Fan, Yu, while the linked Law profile displays Yu Fan; official cross-link anchors the identity. Joint Law/CDS appointment.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 29,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 29,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "other",
+        "topic": "other",
+        "source_id": 29,
+        "evidence_quote": "Legal AI, Natural language processing, Computational social science, AI for social good",
+        "raw_topic": "Legal AI and NLP evaluation",
+        "match_strength": 1,
+        "reasoning": "Adjacent use of language models; no agent-construction or visual-generation focus is established in the checked profiles."
+      }
+    ]
+  },
+  {
+    "professor_id": 29,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      30,
+      55
+    ],
+    "profile_source_id": 30,
+    "email": "lqyu@hku.hk",
+    "homepage_url": "https://yulequan.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 55,
+        "evidence_quote": "We are looking for self-motivated PhD/RA/Interns/visiting students",
+        "reasoning": "Explicit PhD invitation; the page requests an email and a brief Google form.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 30,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "other",
+        "source_id": 55,
+        "evidence_quote": "LLM/VLM/Agentic AI for Healthcare",
+        "raw_topic": "Agentic AI for healthcare",
+        "match_strength": 3,
+        "reasoning": "The homepage explicitly identifies agentic AI as a recent focus."
+      },
+      {
+        "area": "generation",
+        "topic": "3d_generation",
+        "source_id": 55,
+        "evidence_quote": "AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer",
+        "raw_topic": "Autoregressive modular 3D asset generation",
+        "match_strength": 3,
+        "reasoning": "The homepage lists this generation publication; broader lab focus remains medical AI."
+      }
+    ]
+  },
+  {
+    "professor_id": 30,
+    "review_state": "partial",
+    "checked_source_ids": [
+      31,
+      56,
+      62,
+      73
+    ],
+    "profile_source_id": 31,
+    "email": "tyu@cs.hku.hk",
+    "homepage_url": "https://taoyds.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. The official homepage redirects to taoyds.github.io. A related XLANG lab page was inaccessible. Student invitation is explicit but degree unspecified.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 62,
+        "evidence_quote": "We are actively looking for strong and motivated students to join our group!",
+        "reasoning": "Explicit student invitation and application form, but the invitation does not name the degree. Do not convert lab members’ degrees into a current vacancy.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 62,
+        "evidence_quote": "We are actively looking for strong and motivated students to join our group!",
+        "reasoning": "Explicit student invitation and application form, but the invitation does not name the degree. Do not convert lab members’ degrees into a current vacancy.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "unspecified",
+        "status": 2,
+        "source_id": 62,
+        "evidence_quote": "We are actively looking for strong and motivated students to join our group!",
+        "reasoning": "Clear invitation, degree unspecified. The page requests a form with proposed extensions of recent papers and warns that individual emails may not receive replies.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "tool_use",
+        "source_id": 62,
+        "evidence_quote": "creating computer use agents",
+        "raw_topic": "Computer-use agents and digital environments",
+        "match_strength": 3,
+        "reasoning": "The homepage explicitly describes agents using screens, clicks and typing."
+      },
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 62,
+        "evidence_quote": "embodied AI agents",
+        "raw_topic": "Agents spanning digital and physical environments",
+        "match_strength": 3,
+        "reasoning": "The research statement explicitly covers grounded actions and robotics."
+      }
+    ]
+  },
+  {
+    "professor_id": 31,
+    "review_state": "partial",
+    "checked_source_ids": [
+      32,
+      57,
+      63
+    ],
+    "profile_source_id": 32,
+    "email": "yzyu@cs.hku.hk",
+    "homepage_url": "https://www.cs.hku.hk/~yzyu",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. Personal homepage displays last modified 30/08/2023. Keep its research emphasis and the undated postgraduate invitation as potentially stale.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 1,
+        "source_id": 63,
+        "evidence_quote": "I am looking for smart, resourceful and hardworking postgraduate students",
+        "reasoning": "The Y.Z. Yu section invites postgraduate students but does not specify a degree. The page is undated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 1,
+        "source_id": 63,
+        "evidence_quote": "I am looking for smart, resourceful and hardworking postgraduate students",
+        "reasoning": "The Y.Z. Yu section invites postgraduate students but does not specify a degree. The page is undated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "unspecified",
+        "status": 2,
+        "source_id": 63,
+        "evidence_quote": "I am looking for smart, resourceful and hardworking postgraduate students",
+        "reasoning": "Explicit postgraduate invitation, degree unspecified.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 57,
+        "evidence_quote": "AI based multimedia content generation",
+        "raw_topic": "AI-based multimedia content generation",
+        "match_strength": 3,
+        "reasoning": "The personal homepage explicitly lists content generation. Its displayed last-modified date is 2023, so current project emphasis needs checking."
+      }
+    ]
+  },
+  {
+    "professor_id": 32,
+    "review_state": "partial",
+    "checked_source_ids": [
+      33
+    ],
+    "profile_source_id": 33,
+    "email": "zhaz@hku.hk",
+    "homepage_url": null,
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. The official profile’s More details hyperlink is malformed. The intended HackMD URL was also inaccessible. The author’s current recruitment status remains unresolved.",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 0,
+        "source_id": 33,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific PhD invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 33,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "other",
+        "source_id": 33,
+        "evidence_quote": "hallucinations and reasoning limitations in LLMs",
+        "raw_topic": "LLM reliability, hallucination diagnosis and reasoning",
+        "match_strength": 1,
+        "reasoning": "Enabling work for agents; the checked statement does not establish agent construction as the main focus."
+      }
+    ]
+  },
+  {
+    "professor_id": 33,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      34,
+      58
+    ],
+    "profile_source_id": 34,
+    "email": "hszhao@cs.hku.hk",
+    "homepage_url": "https://www.ai.hku.hk/~hszhao",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 58,
+        "evidence_quote": "actively looking for self-motivated Ph.D. students",
+        "reasoning": "Explicit prospective-student invitation on the personal homepage, without intake dates.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 34,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 34,
+        "evidence_quote": "Embodied AI",
+        "raw_topic": "Embodied intelligent systems",
+        "match_strength": 3,
+        "reasoning": "The official profile explicitly names embodied AI."
+      },
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 58,
+        "evidence_quote": "fast video generation",
+        "raw_topic": "Fast video generation and editing",
+        "match_strength": 3,
+        "reasoning": "The homepage lists SURF and other recent video-generation projects."
+      },
+      {
+        "area": "generation",
+        "topic": "3d_generation",
+        "source_id": 58,
+        "evidence_quote": "Controllable 3D anime character generation.",
+        "raw_topic": "Controllable 3D anime character generation",
+        "match_strength": 3,
+        "reasoning": "The homepage lists the ICLR 2026 Anime-Ready project."
+      }
+    ]
+  },
+  {
+    "professor_id": 34,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      35,
+      61
+    ],
+    "profile_source_id": 35,
+    "email": "dzou@cs.hku.hk",
+    "homepage_url": "https://difanzou.github.io/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 61,
+        "evidence_quote": "I welcome enquiries from prospective PhD students",
+        "reasoning": "Explicit PhD enquiries welcome under Open positions; no intake or funding commitment stated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 35,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "other",
+        "source_id": 61,
+        "evidence_quote": "Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation",
+        "raw_topic": "Physics-constrained diffusion generation",
+        "match_strength": 2,
+        "reasoning": "The homepage lists a 2026 physics-informed generation work. Preserve the particular topic rather than forcing it into a visual modality."
+      }
+    ]
+  }
+]

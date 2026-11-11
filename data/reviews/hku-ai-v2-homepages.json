@@ -1,0 +1,211 @@
+[
+  {
+    "professor_id": 3,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      4,
+      59,
+      73,
+      75
+    ],
+    "profile_source_id": 4,
+    "email": "bdai@hku.hk",
+    "homepage_url": "https://daibo.info/",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 59,
+        "evidence_quote": "Looking for researchers/interns/phds/post-docs.",
+        "reasoning": "The personal homepage explicitly lists PhDs; undated.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 4,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 75,
+        "evidence_quote": "AnimateDiff, a pioneering work and milestone in video generation",
+        "raw_topic": "Video generation / AnimateDiff",
+        "match_strength": 3,
+        "reasoning": "The institutional biography explicitly identifies video generation."
+      },
+      {
+        "area": "ai_graphics",
+        "topic": "neural_rendering",
+        "source_id": 75,
+        "evidence_quote": "city-scale scene reconstruction and rendering",
+        "raw_topic": "City-scale learned scene reconstruction and rendering",
+        "match_strength": 3,
+        "reasoning": "The cited biography identifies a rendering research series including CityNeRF and Scaffold-GS; the neural-rendering tag is an interpretation of that series."
+      },
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 4,
+        "evidence_quote": "Embodied AI",
+        "raw_topic": "Generative AI applied to embodied AI",
+        "match_strength": 2,
+        "reasoning": "Embodied AI is explicitly listed; particular agent architectures are not established in this profile."
+      }
+    ],
+    "format_version": 2,
+    "interests_ai": "Video generation / AnimateDiff: The institutional biography explicitly identifies video generation.\nCity-scale learned scene reconstruction and rendering: The cited biography identifies a rendering research series including CityNeRF and Scaffold-GS; the neural-rendering tag is an interpretation of that series.\nGenerative AI applied to embodied AI: Embodied AI is explicitly listed; particular agent architectures are not established in this profile.",
+    "interest_evidence": [
+      {
+        "source_id": 75,
+        "evidence_quote": "AnimateDiff, a pioneering work and milestone in video generation"
+      },
+      {
+        "source_id": 75,
+        "evidence_quote": "city-scale scene reconstruction and rendering"
+      },
+      {
+        "source_id": 4,
+        "evidence_quote": "Embodied AI"
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://daibo.info/",
+        "kind": "personal",
+        "source_id": 59,
+        "evidence_quote": "Bo Dai 戴勃",
+        "reasoning": "The saved personal page names Bo Dai, lists the same HKU contact identity, and describes the matching generative-AI projects."
+      },
+      {
+        "url": "https://ai.hku.hk/index.php/people/academic-staff/bdai",
+        "kind": "institutional_profile",
+        "source_id": 4,
+        "evidence_quote": "Professor Dai, Bo",
+        "reasoning": "The saved HKU institutional profile identifies the faculty member."
+      }
+    ],
+    "interests_source": [
+      {
+        "source_id": 4,
+        "evidence_quote": "His research interests are centered around Generative AI and its interdisciplinary applications in areas covering Embodied AI, Scientific Discovery, Metaverse and Creativity.",
+        "method": "verbatim_selection"
+      }
+    ]
+  },
+  {
+    "professor_id": 33,
+    "review_state": "reviewed",
+    "checked_source_ids": [
+      34,
+      58
+    ],
+    "profile_source_id": 34,
+    "email": "hszhao@cs.hku.hk",
+    "homepage_url": "https://www.ai.hku.hk/~hszhao",
+    "notes": "First-pass review of retrieved profile/homepage text and selected research/recruitment sections; not a complete publication audit. ",
+    "recruitment_signals": [
+      {
+        "degree": "PhD",
+        "status": 2,
+        "source_id": 58,
+        "evidence_quote": "actively looking for self-motivated Ph.D. students",
+        "reasoning": "Explicit prospective-student invitation on the personal homepage, without intake dates.",
+        "intake": null,
+        "temporal_state": "undated"
+      },
+      {
+        "degree": "MPhil",
+        "status": 0,
+        "source_id": 34,
+        "evidence_quote": "",
+        "reasoning": "No usable degree-specific MPhil invitation or closure was found in the sources reviewed. This does not mean the professor is closed.",
+        "intake": null,
+        "temporal_state": "undated"
+      }
+    ],
+    "research_matches": [
+      {
+        "area": "agents",
+        "topic": "embodied_agents",
+        "source_id": 34,
+        "evidence_quote": "Embodied AI",
+        "raw_topic": "Embodied intelligent systems",
+        "match_strength": 3,
+        "reasoning": "The official profile explicitly names embodied AI."
+      },
+      {
+        "area": "generation",
+        "topic": "video_generation",
+        "source_id": 58,
+        "evidence_quote": "fast video generation",
+        "raw_topic": "Fast video generation and editing",
+        "match_strength": 3,
+        "reasoning": "The homepage lists SURF and other recent video-generation projects."
+      },
+      {
+        "area": "generation",
+        "topic": "3d_generation",
+        "source_id": 58,
+        "evidence_quote": "Controllable 3D anime character generation.",
+        "raw_topic": "Controllable 3D anime character generation",
+        "match_strength": 3,
+        "reasoning": "The homepage lists the ICLR 2026 Anime-Ready project."
+      }
+    ],
+    "format_version": 2,
+    "interests_ai": "Embodied intelligent systems: The official profile explicitly names embodied AI.\nFast video generation and editing: The homepage lists SURF and other recent video-generation projects.\nControllable 3D anime character generation: The homepage lists the ICLR 2026 Anime-Ready project.",
+    "interest_evidence": [
+      {
+        "source_id": 34,
+        "evidence_quote": "Embodied AI"
+      },
+      {
+        "source_id": 58,
+        "evidence_quote": "fast video generation"
+      },
+      {
+        "source_id": 58,
+        "evidence_quote": "Controllable 3D anime character generation."
+      }
+    ],
+    "homepages": [
+      {
+        "url": "https://www.ai.hku.hk/~hszhao",
+        "kind": "personal",
+        "source_id": 34,
+        "evidence_quote": "Homepage: https://www.ai.hku.hk/~hszhao",
+        "reasoning": "The saved institutional profile explicitly links this HKU-hosted personal homepage; the saved destination identifies the same professor."
+      },
+      {
+        "url": "https://sail.ai.hku.hk",
+        "kind": "lab",
+        "source_id": 34,
+        "evidence_quote": "Research Lab: https://sail.ai.hku.hk",
+        "reasoning": "The saved institutional profile labels this as the research lab; lab-page contents were not independently checked."
+      },
+      {
+        "url": "https://ai.hku.hk/index.php/people/academic-staff/hszhao",
+        "kind": "institutional_profile",
+        "source_id": 34,
+        "evidence_quote": "Professor Zhao, Hengshuang",
+        "reasoning": "The official institutional profile is kept separately from the personal and lab pages."
+      }
+    ],
+    "interests_source": [
+      {
+        "source_id": 58,
+        "evidence_quote": "Computer Vision Embodied AI Multimodal AI Spatial AI Generative AI Physical AI",
+        "method": "verbatim_selection"
+      }
+    ]
+  }
+]
