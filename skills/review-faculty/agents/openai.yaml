@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Faculty"
+  short_description: "Review cached faculty sources with evidence"
+  default_prompt: "Use $review-faculty to review downloaded professor sources in this Faculty Atlas project."
