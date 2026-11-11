@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.uv-cache/
+*.sqlite-wal
+*.sqlite-shm
+data/embedding-cache/
+data/discovery-cache/
+work/
+work-*.log
+dist/
+*.egg-info/
