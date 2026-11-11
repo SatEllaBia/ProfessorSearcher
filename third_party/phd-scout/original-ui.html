@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PhD Scout</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,600&family=DM+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+/* ── Reset & Tokens ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:          #0b0d15;
+  --surface:     #111521;
+  --surface-2:   #171c2c;
+  --surface-3:   #1d2235;
+  --border:      #232840;
+  --border-sub:  #181d2d;
+  --text:        #e3ddd0;
+  --text-muted:  #6b7090;
+  --text-dim:    #323755;
+  --accent:      #c9a447;
+  --accent-dim:  rgba(201,164,71,.12);
+  --accent-ring: rgba(201,164,71,.28);
+  --green:       #34d399;
+  --blue:        #93c5fd;
+  --red:         #f87171;
+  --r: 6px;
+  --serif: 'Cormorant Garamond', Georgia, serif;
+  --mono:  'DM Mono', 'Consolas', monospace;
+}
+
+html { font-size: 14px; scroll-behavior: smooth; }
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: var(--bg); color: var(--text);
+  min-height: 100vh; line-height: 1.5;
+}
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+/* ── Header ─────────────────────────────────────────────────── */
+header {
+  position: sticky; top: 0; z-index: 100;
+  height: 56px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0 2rem;
+  display: flex; align-items: center; gap: 0;
+  overflow: hidden;
+}
+header::before {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255,255,255,.016) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.016) 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+.brand {
+  display: flex; align-items: center; gap: .55rem;
+  margin-right: auto; text-decoration: none;
+}
+.brand-gem {
+  width: 22px; height: 22px; flex-shrink: 0;
+  background: var(--accent);
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+.brand-name {
+  font-family: var(--serif); font-style: italic;
+  font-weight: 600; font-size: 1.15rem; color: var(--text);
+}
+.brand-name em { color: var(--accent); font-style: normal; }
+
+.hdr-stats {
+  display: flex; align-items: center; gap: 1rem;
+  margin-right: 1.75rem;
+  font-family: var(--mono); font-size: .7rem; color: var(--text-muted);
+}
+.hdr-stats .sv { color: var(--text); font-weight: 500; }
+.hdr-stats .sg { color: var(--green); font-weight: 500; }
+.hdr-stats .sa { color: var(--accent); font-weight: 500; }
+.hdr-stats .dot { padding: 0 .1rem; color: var(--text-dim); }
+
+/* ── Tabs ───────────────────────────────────────────────────── */
+.tabs { display: flex; align-items: stretch; height: 100%; }
+.tab {
+  height: 100%; padding: 0 1.2rem;
+  background: none; border: none; border-bottom: 2px solid transparent;
+  color: var(--text-muted); font-size: .75rem; font-weight: 500;
+  letter-spacing: .06em; text-transform: uppercase;
+  cursor: pointer; transition: color .15s, border-color .15s;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-count { font-family: var(--mono); font-size: .65rem; opacity: .65; margin-left: .25rem; }
+
+/* ── Controls ───────────────────────────────────────────────── */
+.controls {
+  padding: .65rem 2rem;
+  display: flex; gap: .5rem; flex-wrap: wrap; align-items: center;
+  background: var(--surface); border-bottom: 1px solid var(--border);
+}
+.ctrl {
+  background: var(--bg); border: 1px solid var(--border);
+  color: var(--text); border-radius: var(--r);
+  padding: .38rem .75rem; font-size: .8rem; font-family: inherit;
+  outline: none; transition: border-color .15s;
+}
+.ctrl::placeholder { color: #4a5070; }
+.ctrl:focus { border-color: var(--accent); }
+select.ctrl {
+  appearance: none; cursor: pointer; padding-right: 1.7rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='5'%3E%3Cpath d='M0 0l4.5 5L9 0z' fill='%236b7090'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right .6rem center;
+}
+#statement:not(:placeholder-shown) {
+  border-color: var(--accent-ring);
+  background: rgba(201,164,71,.025);
+}
+#search    { width: 185px; }
+#statement { width: 265px; min-height: 32px; }
+.ctrl-div  { width: 1px; height: 18px; background: var(--border); margin: 0 .1rem; }
+
+/* ── Status bar ─────────────────────────────────────────────── */
+#statusbar {
+  padding: .35rem 2rem;
+  font-family: var(--mono); font-size: .68rem; color: var(--text-muted);
+  background: var(--surface); border-bottom: 1px solid var(--border-sub);
+  display: flex; gap: 1.25rem; align-items: center; flex-wrap: wrap;
+}
+#statusbar .s-green { color: var(--green); }
+#statusbar .s-dim   { color: var(--text-muted); }
+
+/* ── Table ──────────────────────────────────────────────────── */
+#main { padding: 1.25rem 2rem; }
+#main table { width: 100%; border-collapse: collapse; }
+
+thead tr { background: var(--surface); border-bottom: 1px solid var(--border); }
+th {
+  padding: .5rem .85rem; font-family: var(--mono);
+  font-size: .67rem; font-weight: 500; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: .08em;
+  text-align: left; white-space: nowrap; user-select: none;
+}
+th.r { text-align: right; }
+
+td {
+  padding: .65rem .85rem;
+  border-bottom: 1px solid var(--border-sub);
+  vertical-align: middle;
+}
+
+tr.data-row { cursor: pointer; transition: background .1s, box-shadow .1s; }
+tr.data-row:hover    { background: var(--surface-2); box-shadow: inset 3px 0 0 var(--accent); }
+tr.data-row.expanded { background: var(--surface-2); box-shadow: inset 3px 0 0 var(--accent); }
+
+/* Name cell */
+.name-cell { display: flex; align-items: center; gap: .5rem; }
+.prof-pip  { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+.pip-done    { background: var(--green); box-shadow: 0 0 5px rgba(52,211,153,.5); }
+.pip-pending { background: var(--text-dim); }
+.prof-name   { font-family: var(--serif); font-size: 1.05rem; font-weight: 500; color: var(--text); }
+
+.uni-text  { font-size: .8rem; color: var(--text-muted); }
+.area-text { font-family: var(--mono); font-size: .7rem; color: #54597a; }
+.num       { font-family: var(--mono); font-size: .8rem; color: var(--text-muted); display: block; text-align: right; }
+.num.hi    { color: var(--text); font-weight: 500; }
+
+/* Relevance badge — lighter, more visible */
+.rel {
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: 2px 7px; border-radius: 3px; min-width: 40px;
+  font-family: var(--mono); font-size: .7rem; font-weight: 500;
+  border: 1px solid transparent;
+}
+.rel-hi  { background: rgba(201,164,71,.22); color: #f0c060; border-color: rgba(201,164,71,.45); }
+.rel-med { background: rgba(147,197,253,.15); color: var(--blue); border-color: rgba(147,197,253,.35); }
+.rel-lo  { background: rgba(255,255,255,.04); color: var(--text-muted); border-color: var(--border); }
+.rel-nil { font-family: var(--mono); font-size: .75rem; color: var(--text-dim); }
+
+/* Bookmark */
+.bm-btn {
+  background: none; border: none; cursor: pointer;
+  font-size: .95rem; color: var(--text-dim);
+  padding: .2rem .3rem; line-height: 1;
+  transition: color .12s, transform .1s;
+  display: block; margin: auto;
+}
+.bm-btn:hover { color: var(--accent); transform: scale(1.2); }
+.bm-btn.saved { color: var(--accent); }
+
+/* ── Detail expand (CSS grid height animation) ──────────────── */
+.detail-row td { padding: 0; border-bottom: none; }
+.detail-wrap {
+  display: grid; grid-template-rows: 0fr;
+  transition: grid-template-rows .28s cubic-bezier(.4,0,.2,1);
+}
+.detail-wrap.open { grid-template-rows: 1fr; }
+.detail-inner { overflow: hidden; }
+
+.detail-body {
+  padding: 1.25rem 1.25rem 1.5rem 2.5rem;
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--border);
+  display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;
+}
+
+.summary-text {
+  font-family: var(--serif); font-style: italic;
+  font-size: 1rem; line-height: 1.7; color: var(--text); margin-bottom: .75rem;
+}
+.kw-row { display: flex; flex-wrap: wrap; gap: .3rem; margin-bottom: .85rem; }
+.kw {
+  font-family: var(--mono); font-size: .68rem;
+  padding: 2px 7px; border-radius: 3px;
+  background: var(--accent-dim); color: var(--accent);
+  border: 1px solid var(--accent-ring);
+}
+.info-grid {
+  display: grid; grid-template-columns: max-content 1fr;
+  gap: .3rem .8rem; font-size: .82rem; margin-top: .5rem;
+}
+.ig-label {
+  font-family: var(--mono); font-size: .67rem;
+  text-transform: uppercase; letter-spacing: .07em;
+  color: var(--accent); padding-top: .1rem; white-space: nowrap;
+}
+.ig-val { color: var(--text-muted); line-height: 1.45; }
+
+.meta-row {
+  display: flex; flex-wrap: wrap; gap: .85rem; align-items: center;
+  margin-top: .85rem; padding-top: .75rem;
+  border-top: 1px solid var(--border-sub);
+  font-family: var(--mono); font-size: .7rem; color: var(--text-muted);
+}
+.meta-row a { color: var(--accent); text-decoration: none; }
+.meta-row a:hover { text-decoration: underline; }
+.mv { color: var(--text); font-weight: 500; }
+
+/* Papers */
+.papers-label {
+  font-family: var(--mono); font-size: .67rem; text-transform: uppercase;
+  letter-spacing: .08em; color: var(--text-muted); margin-bottom: .5rem;
+}
+.paper-card {
+  background: var(--surface); border: 1px solid var(--border-sub);
+  border-left: 2px solid var(--border);
+  border-radius: var(--r); padding: .55rem .7rem;
+  margin-bottom: .4rem; transition: border-left-color .12s;
+}
+.paper-card:hover { border-left-color: var(--accent); }
+.paper-title {
+  font-family: var(--serif); font-size: .92rem;
+  line-height: 1.35; color: var(--text); margin-bottom: .18rem;
+}
+.paper-meta { font-family: var(--mono); font-size: .67rem; color: var(--text-muted); }
+.paper-abs {
+  font-size: .78rem; color: var(--text-muted); line-height: 1.52;
+  margin-top: .3rem; font-style: italic;
+  display: -webkit-box; -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical; overflow: hidden;
+  cursor: pointer;
+}
+.paper-abs::after {
+  content: ' ▾ expand';
+  font-style: normal; font-family: var(--mono); font-size: .64rem;
+  color: var(--accent); opacity: .7;
+}
+.paper-abs.expanded {
+  display: block; -webkit-line-clamp: unset; overflow: visible;
+}
+.paper-abs.expanded::after { content: ' ▴ collapse'; }
+
+.no-profile {
+  font-family: var(--mono); font-size: .78rem;
+  color: var(--text-muted); padding: .5rem 0; grid-column: 1 / -1;
+}
+.no-profile code {
+  background: var(--surface); border: 1px solid var(--border);
+  padding: 1px 5px; border-radius: 3px; color: var(--accent);
+}
+
+/* ── My List ─────────────────────────────────────────────────── */
+#list-view { display: none; padding: 1.5rem 2rem; }
+#list-view.active { display: block; }
+
+.list-hdr {
+  display: flex; align-items: baseline; gap: .75rem;
+  margin-bottom: 1.25rem; padding-bottom: .75rem;
+  border-bottom: 1px solid var(--border);
+}
+.list-title { font-family: var(--serif); font-style: italic; font-size: 1.45rem; color: var(--text); }
+.list-sub   { font-family: var(--mono); font-size: .7rem; color: var(--text-muted); }
+
+.list-empty {
+  font-family: var(--serif); font-style: italic;
+  font-size: 1rem; color: var(--text-muted);
+  text-align: center; padding: 3.5rem 0;
+}
+.list-item {
+  display: flex; align-items: center; gap: .7rem;
+  padding: .75rem 1rem;
+  background: var(--surface); border: 1px solid var(--border);
+  border-left: 3px solid var(--border);
+  border-radius: var(--r); margin-bottom: .45rem;
+  cursor: grab; transition: border-left-color .15s, background .12s, box-shadow .15s;
+}
+.list-item:active    { cursor: grabbing; }
+.list-item:hover     { border-left-color: var(--accent); background: var(--surface-2); }
+.list-item.drag-over { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent-ring); }
+.list-item.dragging  { opacity: .3; }
+
+.drag-handle { color: var(--text-dim); font-size: 1rem; flex-shrink: 0; cursor: grab; letter-spacing: -1px; line-height: 1; }
+.list-rank   { font-family: var(--mono); font-size: .95rem; font-weight: 500; color: var(--accent); opacity: .45; width: 1.5rem; text-align: right; flex-shrink: 0; }
+.list-info   { flex: 1; min-width: 0; }
+.lname { font-family: var(--serif); font-size: 1rem; font-weight: 500; color: var(--text); }
+.luni  { font-size: .78rem; color: var(--text-muted); margin-left: .4rem; font-style: italic; }
+.lkws  { display: flex; flex-wrap: wrap; gap: .25rem; margin-top: .3rem; }
+.list-stat { font-family: var(--mono); font-size: .7rem; color: var(--text-muted); flex-shrink: 0; text-align: right; min-width: 44px; }
+.list-rm {
+  background: none; border: none; cursor: pointer;
+  color: var(--text-dim); font-size: .88rem; flex-shrink: 0;
+  padding: .2rem .3rem; border-radius: 3px; line-height: 1;
+  transition: color .12s, background .12s;
+}
+.list-rm:hover { color: var(--red); background: rgba(248,113,113,.1); }
+
+/* ── Name sub-line (hidden on desktop, shown on mobile cards) ── */
+.name-wrap { display: flex; flex-direction: column; }
+.name-sub {
+  display: none;
+  font-size: .75rem; color: var(--text-muted);
+  gap: .35rem; align-items: center; margin-top: .1rem;
+}
+.name-sub-dot { color: var(--text-dim); }
+
+/* ── Toast ──────────────────────────────────────────────────── */
+#toast {
+  position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 500;
+  background: var(--surface-3); border: 1px solid var(--border);
+  border-radius: var(--r); padding: .65rem 1rem;
+  font-family: var(--mono); font-size: .75rem; color: var(--text);
+  box-shadow: 0 4px 16px rgba(0,0,0,.4);
+  transform: translateY(120%); opacity: 0;
+  transition: transform .25s cubic-bezier(.4,0,.2,1), opacity .25s;
+  max-width: 320px;
+}
+#toast.show { transform: translateY(0); opacity: 1; }
+#toast.t-green { border-color: var(--green); color: var(--green); }
+#toast.t-red   { border-color: var(--red);   color: var(--red); }
+
+/* ── Research toolbar ────────────────────────────────────────── */
+#research-toolbar {
+  display: none;
+  padding: .45rem 2rem;
+  background: var(--surface-2); border-bottom: 1px solid var(--border);
+  gap: .65rem; align-items: center;
+  font-family: var(--mono); font-size: .72rem; color: var(--text-muted);
+}
+#research-toolbar.show { display: flex; }
+.res-btn {
+  padding: .3rem .75rem;
+  background: var(--accent-dim); border: 1px solid var(--accent-ring);
+  color: var(--accent); border-radius: var(--r);
+  font-family: var(--mono); font-size: .72rem;
+  cursor: pointer; transition: background .12s;
+}
+.res-btn:hover { background: rgba(201,164,71,.22); }
+.res-btn.all {
+  background: none; border-color: var(--border); color: var(--text-muted);
+}
+.res-btn.all:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Research pip animation */
+@keyframes pip-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: .4; transform: scale(.7); }
+}
+.pip-researching { background: var(--accent); animation: pip-pulse 1s ease-in-out infinite; }
+.pip-failed      { background: var(--red); }
+
+/* ── Responsive breakpoints ─────────────────────────────────── */
+@media (max-width: 860px) {
+  .detail-body { grid-template-columns: 1fr; }
+}
+@media (max-width: 700px) {
+  header { padding: 0 1rem; }
+  .hdr-stats { display: none; }
+  .controls { padding: .6rem 1rem; gap: .4rem; }
+  #search, #statement { width: 100%; }
+  .ctrl-div { display: none; }
+  #statusbar { padding: .35rem 1rem; }
+  #list-view { padding: 1rem .75rem; }
+}
+/* ≤540px: abandon table columns, render rows as flex cards */
+@media (max-width: 540px) {
+  .tab { padding: 0 .75rem; font-size: .7rem; }
+  .brand-name { font-size: .95rem; }
+
+  #main { padding: 0 .5rem; }
+  #list-view { padding: .75rem .5rem; }
+  table, tbody { display: block; width: 100%; }
+
+  /* thead hidden — labels live in the card layout */
+  thead { display: none; }
+
+  /* Each professor row → flex card */
+  tr.data-row {
+    display: flex; align-items: center; gap: .5rem;
+    padding: .65rem .75rem;
+    border-bottom: 1px solid var(--border-sub);
+    border-left: 3px solid transparent;
+    box-shadow: none;
+  }
+  tr.data-row:hover, tr.data-row.expanded {
+    border-left-color: var(--accent);
+    background: var(--surface-2);
+    box-shadow: none;
+  }
+
+  tr.detail-row { display: block; }
+  tr.detail-row td { display: block; padding: 0 .25rem; border: none; }
+
+  /* Reset all td padding — row handles it */
+  tr.data-row td { padding: 0; border: none; }
+
+  /* Star column: fixed width */
+  tr.data-row td:nth-child(1) { flex-shrink: 0; width: 28px; text-align: center; }
+
+  /* Name column: flex-grow, show sub-line */
+  tr.data-row td:nth-child(2) { flex: 1; min-width: 0; }
+  .name-sub { display: flex; }
+
+  /* Hide all other columns — info is in name-sub or detail */
+  tr.data-row td:nth-child(n+3) { display: none; }
+
+  /* Detail panel */
+  .detail-body { padding: .75rem; gap: 1rem; }
+  .summary-text { font-size: .95rem; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="brand-gem"></div>
+    <span class="brand-name">PhD <em>Search</em></span>
+  </div>
+  <div class="hdr-stats" id="hdrStats">
+    <span><span class="sv" id="stTotal">—</span> professors</span>
+    <span class="dot">·</span>
+    <span><span class="sg" id="stDone">—</span> researched</span>
+    <span class="dot">·</span>
+    <span><span class="sa" id="stList">0</span> in list</span>
+  </div>
+  <div class="tabs">
+    <button class="tab active" id="tabAll" onclick="switchTab('all')">Directory</button>
+    <button class="tab" id="tabList" onclick="switchTab('list')">My List<span class="tab-count" id="listCount"></span></button>
+    <button class="tab" id="tabImport" onclick="switchTab('import')">Import</button>
+  </div>
+</header>
+
+<div id="all-view">
+  <div class="controls">
+    <input class="ctrl" id="search"    placeholder="Search name, keywords…">
+    <textarea class="ctrl" id="statement" rows="1" placeholder="Describe your research interests…" style="resize:none;line-height:1.4;padding-top:.45rem;padding-bottom:.45rem"></textarea>
+    <div class="ctrl-div"></div>
+    <select class="ctrl" id="uniFilter"><option value="">All universities</option></select>
+    <select class="ctrl" id="sortBy">
+      <option value="h_index">h-index ↓</option>
+      <option value="adj_count">Adj. pubs ↓</option>
+      <option value="pending">Pending first</option>
+    </select>
+    <div class="ctrl-div"></div>
+    <button class="res-btn all" onclick="researchAll()">Research All Unresearched</button>
+  </div>
+  <div id="research-toolbar">
+  <input type="checkbox" id="sel-all-chk" onchange="toggleSelectAll(this.checked)"
+    style="accent-color:var(--accent);cursor:pointer;">
+  <span id="sel-count">0 selected</span>
+  <button class="res-btn" onclick="researchSelected()">Research Selected (<span id="sel-n">0</span>)</button>
+</div>
+  <div id="statusbar"><span id="sbText"></span><span id="sbRewritten" style="display:none;font-style:italic;color:var(--accent)"></span></div>
+  <div id="main">
+    <table id="table">
+      <thead><tr>
+        <th style="width:28px"></th>
+        <th style="width:38px"></th>
+        <th>Name</th>
+        <th>University</th>
+        <th>Areas</th>
+        <th>Relevance</th>
+        <th class="r">h-index</th>
+        <th class="r">Adj.</th>
+      </tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+</div>
+
+<div id="list-view">
+  <div class="list-hdr">
+    <span class="list-title">Application List</span>
+    <span class="list-sub" id="listSub"></span>
+  </div>
+  <div id="list-container"></div>
+</div>
+
+<div id="import-view" style="display:none; padding:1.25rem 2rem;">
+  <div style="display:flex; gap:1.5rem; align-items:flex-start;">
+
+    <!-- Filter panel -->
+    <div style="width:230px; flex-shrink:0;">
+      <div style="font-family:var(--mono);font-size:.67rem;text-transform:uppercase;letter-spacing:.08em;color:var(--text-muted);margin-bottom:.65rem;">Filters</div>
+      <div style="display:flex;flex-direction:column;gap:.5rem;">
+        <input class="ctrl" id="imp-q" placeholder="Name or university…" list="imp-inst-list" style="width:100%"
+          onkeydown="if(event.key==='Enter')runImportSearch()">
+        <datalist id="imp-inst-list"></datalist>
+
+        <input class="ctrl" id="imp-country" placeholder="Country…" list="imp-country-list" style="width:100%"
+          onkeydown="if(event.key==='Enter')runImportSearch()">
+        <datalist id="imp-country-list"></datalist>
+
+        <input class="ctrl" id="imp-area" placeholder="Area…" list="imp-area-list" style="width:100%"
+          onkeydown="if(event.key==='Enter')runImportSearch()">
+        <datalist id="imp-area-list"></datalist>
+
+        <input class="ctrl" id="imp-min-pub" type="number" placeholder="Min publications" style="width:100%"
+          onkeydown="if(event.key==='Enter')runImportSearch()">
+        <input class="ctrl" id="imp-min-adj" type="number" step="0.1" placeholder="Min adj. count" style="width:100%"
+          onkeydown="if(event.key==='Enter')runImportSearch()">
+        <button class="ctrl" id="imp-search-btn" onclick="runImportSearch()"
+          style="background:var(--accent-dim);border-color:var(--accent-ring);color:var(--accent);cursor:pointer;width:100%;margin-top:.25rem;">
+          Search CSRankings
+        </button>
+      </div>
+      <div id="imp-filter-error" style="display:none;margin-top:.65rem;font-family:var(--mono);font-size:.7rem;color:var(--red);"></div>
+    </div>
+
+    <!-- Preview panel -->
+    <div style="flex:1;min-width:0;">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:.65rem;">
+        <span id="imp-count" style="font-family:var(--mono);font-size:.7rem;color:var(--text-muted);">—</span>
+        <button id="imp-import-btn" onclick="doImportSelected()" disabled
+          style="font-family:var(--mono);font-size:.72rem;padding:.35rem .9rem;background:var(--accent-dim);border:1px solid var(--accent-ring);color:var(--accent);border-radius:var(--r);cursor:default;opacity:.4;transition:opacity .15s;">
+          Import Selected (0)
+        </button>
+      </div>
+      <div style="overflow-x:auto;">
+        <table style="width:100%;border-collapse:collapse;" id="imp-table">
+          <thead>
+            <tr style="background:var(--surface);border-bottom:1px solid var(--border);">
+              <th style="width:32px;padding:.45rem .6rem;">
+                <input type="checkbox" id="imp-select-all" onchange="importToggleAll(this.checked)"
+                  style="accent-color:var(--accent);cursor:pointer;">
+              </th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:left;">Name</th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:left;">University</th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:left;">Country</th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:left;">Areas</th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:right;">Pubs</th>
+              <th style="padding:.45rem .6rem;font-family:var(--mono);font-size:.67rem;font-weight:500;color:var(--text-muted);text-transform:uppercase;letter-spacing:.08em;text-align:right;">Adj</th>
+            </tr>
+          </thead>
+          <tbody id="imp-tbody"></tbody>
+        </table>
+        <div id="imp-empty" style="font-family:var(--serif);font-style:italic;color:var(--text-muted);padding:2.5rem;text-align:center;">
+          Use the filters above and click Search CSRankings.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function escapeHtml(s) {
+  if (s == null) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+                  .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+let allProfessors = [];
+let applicationList = [];
+let inListSet = new Set();
+let debounceTimer = null;
+let fetchController = null;
+
+// ── Toast ─────────────────────────────────────────────────────
+let _toastTimer = null;
+function showToast(msg, type) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.className = 'show' + (type ? ' t-' + type : '');
+  clearTimeout(_toastTimer);
+  const timeout = type === 'red' ? 6000 : 4000;
+  _toastTimer = setTimeout(() => { el.className = ''; }, timeout);
+}
+
+// ── Import tab state ───────────────────────────────────────────
+let importResults = [];
+let importSelectedSet = new Set();
+
+function loadImportMeta() {
+  fetch('/api/csrankings/meta')
+    .then(r => r.json())
+    .then(meta => {
+      const countryList = document.getElementById('imp-country-list');
+      meta.countries.forEach(c => {
+        const opt = document.createElement('option');
+        opt.value = c.name;
+        countryList.appendChild(opt);
+      });
+      const areaList = document.getElementById('imp-area-list');
+      meta.areas.forEach(a => {
+        const opt = document.createElement('option');
+        opt.value = a.name;
+        areaList.appendChild(opt);
+      });
+      const instList = document.getElementById('imp-inst-list');
+      meta.institutions.forEach(inst => {
+        const opt = document.createElement('option');
+        opt.value = inst;
+        instList.appendChild(opt);
+      });
+    })
+    .catch(() => {});  // metadata is optional; search still works without it
+}
+
+function runImportSearch() {
+  const q       = document.getElementById('imp-q').value.trim();
+  const country = document.getElementById('imp-country').value.trim();
+  const area    = document.getElementById('imp-area').value.trim();
+  const minPub  = document.getElementById('imp-min-pub').value.trim();
+  const minAdj  = document.getElementById('imp-min-adj').value.trim();
+
+  const errEl = document.getElementById('imp-filter-error');
+  errEl.style.display = 'none';
+
+  const btn = document.getElementById('imp-search-btn');
+  btn.textContent = 'Searching…';
+  btn.disabled = true;
+
+  const params = new URLSearchParams();
+  if (q)       params.set('q', q);
+  if (country) params.set('country', country);
+  if (area)    params.set('area', area);
+  if (minPub)  params.set('min_pub', minPub);
+  if (minAdj)  params.set('min_adj', minAdj);
+
+  fetch('/api/csrankings?' + params.toString())
+    .then(r => {
+      if (!r.ok) return r.json().then(e => { throw new Error(e.error || 'Fetch failed'); });
+      return r.json();
+    })
+    .then(data => {
+      importResults = data;
+      // Pre-select all that are NOT already imported
+      importSelectedSet = new Set(
+        data.map((_, i) => i).filter(i => !data[i].already_imported)
+      );
+      renderImportTable();
+    })
+    .catch(err => {
+      errEl.textContent = err.message;
+      errEl.style.display = '';
+    })
+    .finally(() => {
+      btn.textContent = 'Search CSRankings';
+      btn.disabled = false;
+    });
+}
+
+function renderImportTable() {
+  const tbody   = document.getElementById('imp-tbody');
+  const empty   = document.getElementById('imp-empty');
+  const countEl = document.getElementById('imp-count');
+
+  if (!importResults.length) {
+    tbody.innerHTML = '';
+    empty.style.display = '';
+    countEl.textContent = 'No results.';
+    updateImportBtn();
+    return;
+  }
+  empty.style.display = 'none';
+
+  const alreadyCount = importResults.filter(p => p.already_imported).length;
+  countEl.textContent =
+    `${importResults.length} found · ${alreadyCount} already imported · ${importSelectedSet.size} selected`;
+
+  tbody.innerHTML = importResults.map((p, i) => {
+    const checked = importSelectedSet.has(i) ? 'checked' : '';
+    const dim     = p.already_imported ? 'opacity:.4;' : '';
+    const badge   = p.already_imported
+      ? ' <span style="font-family:var(--mono);font-size:.62rem;color:var(--text-muted);border:1px solid var(--border);padding:1px 5px;border-radius:3px;">in db</span>'
+      : '';
+    const areas = (p.areas || '').split(' · ').filter(Boolean).slice(0, 3).map(escapeHtml).join(' · ');
+    return `<tr style="${dim}border-bottom:1px solid var(--border-sub);">
+      <td style="padding:.5rem .6rem;"><input type="checkbox" ${checked} onchange="importToggleOne(${i}, this.checked)" style="accent-color:var(--accent);cursor:pointer;"></td>
+      <td style="padding:.5rem .6rem;font-family:var(--serif);font-size:.98rem;">${escapeHtml(p.name)}${badge}</td>
+      <td style="padding:.5rem .6rem;font-size:.8rem;color:var(--text-muted);">${escapeHtml(p.university) || '—'}</td>
+      <td style="padding:.5rem .6rem;font-family:var(--mono);font-size:.72rem;color:var(--text-muted);">${escapeHtml(p.country) || '—'}</td>
+      <td style="padding:.5rem .6rem;font-family:var(--mono);font-size:.7rem;color:#54597a;">${areas || '—'}</td>
+      <td style="padding:.5rem .6rem;font-family:var(--mono);font-size:.78rem;color:var(--text-muted);text-align:right;">${p.pub_count ?? '—'}</td>
+      <td style="padding:.5rem .6rem;font-family:var(--mono);font-size:.78rem;color:var(--text-muted);text-align:right;">${p.adj_count ?? '—'}</td>
+    </tr>`;
+  }).join('');
+
+  updateImportBtn();
+}
+
+function importToggleOne(idx, checked) {
+  if (checked) importSelectedSet.add(idx); else importSelectedSet.delete(idx);
+  const alreadyCount = importResults.filter(p => p.already_imported).length;
+  document.getElementById('imp-count').textContent =
+    `${importResults.length} found · ${alreadyCount} already imported · ${importSelectedSet.size} selected`;
+  updateImportBtn();
+}
+
+function importToggleAll(checked) {
+  importResults.forEach((_, i) => {
+    if (checked) importSelectedSet.add(i); else importSelectedSet.delete(i);
+  });
+  document.querySelectorAll('#imp-tbody input[type=checkbox]').forEach(cb => cb.checked = checked);
+  importToggleOne(0, checked);  // reuse counter update
+}
+
+function updateImportBtn() {
+  const btn = document.getElementById('imp-import-btn');
+  const n   = importSelectedSet.size;
+  btn.textContent  = `Import Selected (${n})`;
+  btn.disabled     = n === 0;
+  btn.style.opacity = n > 0 ? '1' : '.4';
+  btn.style.cursor  = n > 0 ? 'pointer' : 'default';
+}
+
+function doImportSelected() {
+  const profs = [...importSelectedSet].map(i => importResults[i]);
+  fetch('/api/professors/import', {
+    method:  'POST',
+    headers: {'Content-Type': 'application/json'},
+    body:    JSON.stringify(profs),
+  })
+    .then(r => r.json())
+    .then(data => {
+      const msg = data.fetching_static > 0
+        ? `Imported ${data.imported}. Fetching citations & papers for ${data.fetching_static}\u2026`
+        : `Imported ${data.imported} professors`;
+      showToast(msg, 'green');
+      // Mark imported rows in the results
+      [...importSelectedSet].forEach(i => { importResults[i].already_imported = true; });
+      importSelectedSet.clear();
+      renderImportTable();
+      fetchAndRender();  // refresh directory tab
+      switchTab('all'); // switch to Directory so user sees the imported professors
+    })
+    .catch(err => showToast(`Import failed: ${err.message}`, 'red'));
+}
+
+// ── Research controls ──────────────────────────────────────────
+let selectedIds = new Set();
+let researchEventSource = null;
+
+function updateSelectionUI() {
+  const n = selectedIds.size;
+  const toolbar = document.getElementById('research-toolbar');
+  toolbar.classList.toggle('show', n > 0);
+  document.getElementById('sel-count').textContent = n + ' selected';
+  document.getElementById('sel-n').textContent = n;
+}
+
+function toggleProfessorCheckbox(id, checked) {
+  if (checked) selectedIds.add(id); else selectedIds.delete(id);
+  updateSelectionUI();
+}
+
+function toggleSelectAll(checked) {
+  document.querySelectorAll('.prof-chk').forEach(cb => {
+    cb.checked = checked;
+    const id = parseInt(cb.dataset.id);
+    if (checked) selectedIds.add(id); else selectedIds.delete(id);
+  });
+  updateSelectionUI();
+}
+
+function researchSelected() {
+  const ids = [...selectedIds];
+  selectedIds.clear();
+  updateSelectionUI();
+  startResearch(ids);
+}
+
+function researchAll() {
+  startResearch(null);
+}
+
+function startResearch(ids) {
+  fetch('/api/research', {
+    method:  'POST',
+    headers: {'Content-Type': 'application/json'},
+    body:    JSON.stringify(ids !== null ? {ids} : {}),
+  })
+    .then(r => {
+      if (r.status === 409) throw new Error('Research already running');
+      if (!r.ok) throw new Error('Failed to start research');
+      return r.json();
+    })
+    .then(data => {
+      if (data.total === 0) {
+        showToast('All professors are already researched.', 'green');
+        return;
+      }
+      showToast(`Researching ${data.total} professors\u2026`);
+      openResearchStream(data.total);
+    })
+    .catch(err => showToast(err.message, 'red'));
+}
+
+function openResearchStream(total) {
+  if (researchEventSource) researchEventSource.close();
+  let doneCount = 0;
+  researchEventSource = new EventSource('/api/research/stream');
+  researchEventSource.onmessage = e => {
+    const evt = JSON.parse(e.data);
+    if (evt.type === 'state' && evt.running) {
+      doneCount = evt.done;
+      showToast(`Researching ${evt.total} professors\u2026 (${doneCount}/${evt.total} done)`);
+    }
+    if (evt.type === 'progress') {
+      doneCount++;
+      showToast(`Researching ${total} professors\u2026 (${doneCount}/${total} done)`);
+      updateProfessorPip(evt.id, evt.status);
+    }
+    if (evt.type === 'done') {
+      showToast(`Done. ${evt.total} profiles updated.`, 'green');
+      researchEventSource.close();
+      researchEventSource = null;
+      setTimeout(fetchAndRender, 500);
+    }
+  };
+  researchEventSource.onerror = () => {
+    if (researchEventSource) {
+      researchEventSource.close();
+      researchEventSource = null;
+    }
+  };
+}
+
+function updateProfessorPip(id, status) {
+  const pip = document.querySelector(`.prof-pip[data-prof-id="${id}"]`);
+  if (!pip) return;
+  if (status === 'done') {
+    pip.className = 'prof-pip pip-done';
+  } else if (status === 'failed') {
+    pip.className = 'prof-pip pip-failed';
+  }
+}
+
+// parse keywords stored as either JSON array or comma-string
+function parseKws(raw) {
+  if (!raw) return [];
+  try { const a = JSON.parse(raw); return Array.isArray(a) ? a : []; }
+  catch(_) { return raw.split(',').map(s => s.trim()).filter(Boolean); }
+}
+
+// ── Tab ───────────────────────────────────────────────────────
+function switchTab(tab) {
+  const isAll    = tab === 'all';
+  const isList   = tab === 'list';
+  const isImport = tab === 'import';
+  document.getElementById('all-view').style.display    = isAll    ? '' : 'none';
+  document.getElementById('list-view').classList.toggle('active', isList);
+  document.getElementById('import-view').style.display = isImport ? '' : 'none';
+  document.getElementById('tabAll').classList.toggle('active', isAll);
+  document.getElementById('tabList').classList.toggle('active', isList);
+  document.getElementById('tabImport').classList.toggle('active', isImport);
+  if (isList) renderList();
+  if (isImport && !document.getElementById('imp-country-list').children.length) {
+    loadImportMeta();
+  }
+}
+
+// ── Relevance badge ────────────────────────────────────────────
+function relBadge(score) {
+  if (score == null) return '<span class="rel-nil">—</span>';
+  const pct = Math.round(score * 100);
+  const cls = score >= 0.70 ? 'rel-hi' : score >= 0.45 ? 'rel-med' : 'rel-lo';
+  return `<span class="rel ${cls}">${pct}%</span>`;
+}
+
+// ── Fetch with statement ───────────────────────────────────────
+function fetchAndRender() {
+  // Cancel any in-flight request
+  if (fetchController) fetchController.abort();
+  fetchController = new AbortController();
+
+  const statement = document.getElementById('statement').value.trim();
+  const url = statement
+    ? `/api/professors?statement=${encodeURIComponent(statement)}`
+    : '/api/professors';
+
+  fetch(url, { signal: fetchController.signal })
+    .then(r => {
+      if (!r.ok) throw new Error(`Server error: ${r.status}`);
+      const rewritten = r.headers.get('X-Rewritten-Statement');
+      const el = document.getElementById('sbRewritten');
+      if (rewritten) {
+        el.textContent = `→ searching for: ${rewritten}`;
+        el.style.display = '';
+      } else {
+        el.style.display = 'none';
+      }
+      return r.json();
+    })
+    .then(data => {
+      if (!Array.isArray(data)) throw new Error('Unexpected response format');
+      allProfessors = data;
+      // Refresh applicationList references to latest professor data
+      applicationList = applicationList.map(ap =>
+        allProfessors.find(p => p.id === ap.id) || ap
+      );
+      render();
+    })
+    .catch(err => {
+      if (err.name === 'AbortError') return; // Intentional cancel, ignore
+      console.error('fetchAndRender failed:', err);
+      showToast(err.message || 'Search failed', 'red');
+    });
+}
+
+// ── Load ──────────────────────────────────────────────────────
+async function load() {
+  const [pr, lr] = await Promise.all([fetch('/api/professors'), fetch('/api/apply')]);
+  allProfessors = await pr.json();
+  applicationList = await lr.json();
+  inListSet = new Set(applicationList.map(p => p.id));
+
+  const unis = [...new Set(allProfessors.map(p => p.university))].sort();
+  const sel = document.getElementById('uniFilter');
+  unis.forEach(u => {
+    const o = document.createElement('option');
+    o.value = u; o.textContent = u; sel.appendChild(o);
+  });
+
+  updateStats();
+  render();
+  // If browser restored textarea value (session persistence), trigger semantic fetch
+  if (document.getElementById('statement').value.trim()) {
+    fetchAndRender();
+  }
+
+  // Reconnect to any in-progress research job after a page refresh
+  fetch('/api/research/status')
+    .then(r => r.json())
+    .then(s => {
+      if (s.running) {
+        showToast(`Researching ${s.total} professors\u2026 (${s.done}/${s.total} done)`);
+        openResearchStream(s.total);
+      }
+    })
+    .catch(() => {});
+}
+
+function updateStats() {
+  const total = allProfessors.length;
+  const done  = allProfessors.filter(p => p.summary).length;
+  document.getElementById('stTotal').textContent = total;
+  document.getElementById('stDone').textContent  = done;
+  document.getElementById('stList').textContent  = inListSet.size;
+  const n = inListSet.size;
+  document.getElementById('listCount').textContent = n ? ` (${n})` : '';
+}
+
+// ── Bookmark ──────────────────────────────────────────────────
+async function toggleBookmark(e, profId) {
+  e.stopPropagation();
+  if (inListSet.has(profId)) {
+    await fetch(`/api/apply/${profId}`, { method: 'DELETE' });
+    inListSet.delete(profId);
+    applicationList = applicationList.filter(p => p.id !== profId);
+  } else {
+    await fetch('/api/apply', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ professor_id: profId }),
+    });
+    inListSet.add(profId);
+    const prof = allProfessors.find(p => p.id === profId);
+    if (prof) applicationList.push(prof);
+  }
+  updateStats();
+  document.querySelectorAll(`.bm-btn[data-id="${profId}"]`).forEach(btn => {
+    btn.textContent = inListSet.has(profId) ? '★' : '☆';
+    btn.classList.toggle('saved', inListSet.has(profId));
+  });
+}
+
+// ── Render table ──────────────────────────────────────────────
+function render() {
+  const search    = document.getElementById('search').value.toLowerCase();
+  const uni       = document.getElementById('uniFilter').value;
+  const sortKey   = document.getElementById('sortBy').value;
+
+  let rows = allProfessors.filter(p => {
+    if (uni && p.university !== uni) return false;
+    if (search) {
+      const hay = [p.name, p.keywords, p.summary, p.areas].join(' ').toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    return true;
+  });
+
+  const hasStatement = document.getElementById('statement').value.trim().length > 0;
+  document.getElementById('sortBy').disabled = hasStatement;
+  document.getElementById('sortBy').style.opacity = hasStatement ? '0.4' : '';
+  if (!hasStatement) {
+    if (sortKey === 'pending') {
+      rows.sort((a, b) => (a.summary ? 1 : 0) - (b.summary ? 1 : 0));
+    } else {
+      rows.sort((a, b) => (b[sortKey] || 0) - (a[sortKey] || 0));
+    }
+  }
+  // When statement is set, server already sorted by semantic_score — no client sort
+
+  const done = rows.filter(p => p.summary).length;
+  document.getElementById('sbText').innerHTML =
+    `<span>${rows.length} professors</span>` +
+    ` <span class="s-green">${done} researched</span>` +
+    (rows.length - done ? ` <span class="s-dim">${rows.length - done} pending</span>` : '');
+
+  const tbody = document.getElementById('tbody');
+  tbody.innerHTML = '';
+
+  rows.forEach(p => {
+    const isSaved = inListSet.has(p.id);
+    const areas   = (p.areas || '').split(',').map(a => escapeHtml(a.trim())).join(' · ');
+
+    const tr = document.createElement('tr');
+    tr.className = 'data-row';
+    tr.dataset.id = p.id;
+    const subParts = [escapeHtml(p.university), p.h_index ? `h\u00a0${p.h_index}` : null].filter(Boolean);
+    tr.innerHTML = `
+      <td style="padding:.5rem .4rem;width:28px;"><input type="checkbox" class="prof-chk" data-id="${p.id}" onchange="toggleProfessorCheckbox(${p.id}, this.checked)" style="accent-color:var(--accent);cursor:pointer;"></td>
+      <td style="text-align:center">
+        <button class="bm-btn${isSaved ? ' saved' : ''}" data-id="${p.id}" title="${isSaved ? 'Remove from list' : 'Add to list'}">${isSaved ? '★' : '☆'}</button>
+      </td>
+      <td>
+        <div class="name-cell">
+          <span class="prof-pip ${p.summary ? 'pip-done' : 'pip-pending'}" data-prof-id="${p.id}" title="${p.summary ? 'Profile fetched' : 'Pending'}"></span>
+          <div class="name-wrap">
+            <span class="prof-name">${escapeHtml(p.name)}</span>
+            <div class="name-sub">${subParts.join('<span class="name-sub-dot">·</span>')}</div>
+          </div>
+        </div>
+      </td>
+      <td><span class="uni-text">${escapeHtml(p.university)}</span></td>
+      <td><span class="area-text">${areas}</span></td>
+      <td>${relBadge(p.semantic_score)}</td>
+      <td><span class="num${p.h_index ? ' hi' : ''}">${p.h_index ?? '—'}</span></td>
+      <td><span class="num">${p.adj_count ?? '—'}</span></td>
+    `;
+
+    tr.querySelector('.bm-btn').addEventListener('click', e => toggleBookmark(e, p.id));
+
+    const dtr = document.createElement('tr');
+    dtr.className = 'detail-row';
+    const dtd = document.createElement('td');
+    dtd.colSpan = 8;
+
+    const wrap = document.createElement('div');
+    wrap.className = 'detail-wrap';
+    wrap.id = `detail-${p.id}`;
+
+    const inner = document.createElement('div');
+    inner.className = 'detail-inner';
+    inner.innerHTML = buildPreview(p);
+
+    wrap.appendChild(inner);
+    dtd.appendChild(wrap);
+    dtr.appendChild(dtd);
+
+    tr.addEventListener('click', async e => {
+      if (e.target.classList.contains('bm-btn')) return;
+      if (e.target.classList.contains('prof-chk')) return;
+      const isOpen = wrap.classList.contains('open');
+      document.querySelectorAll('.detail-wrap.open').forEach(w => {
+        w.classList.remove('open');
+        w.closest('tr')?.previousElementSibling?.classList.remove('expanded');
+      });
+      if (!isOpen) {
+        if (!inner.dataset.loaded) {
+          try {
+            const full = await fetch(`/api/professors/${p.id}`).then(r => r.json());
+            inner.innerHTML = buildFull(full);
+            inner.dataset.loaded = '1';
+          } catch(_) {}
+        }
+        wrap.classList.add('open');
+        tr.classList.add('expanded');
+      }
+    });
+
+    tbody.appendChild(tr);
+    tbody.appendChild(dtr);
+  });
+}
+
+// ── Detail builders ───────────────────────────────────────────
+function buildPreview(p) {
+  if (!p.summary) return `<div class="detail-body"><div class="no-profile">No research profile yet.&nbsp;<button class="res-btn" style="display:inline;padding:.2rem .6rem;font-size:.7rem;" onclick="startResearch([${p.id}]);event.stopPropagation();">Research</button></div></div>`;
+  const kws = parseKws(p.keywords);
+  const safeUrl = p.homepage_url && /^https?:\/\//i.test(p.homepage_url) ? p.homepage_url : null;
+  return `
+    <div class="detail-body">
+      <div>
+        <p class="summary-text">${escapeHtml(p.summary)}</p>
+        <div class="kw-row">${kws.map(k => `<span class="kw">${escapeHtml(k.trim())}</span>`).join('')}</div>
+        <div class="meta-row">
+          ${p.phd_openings ? `<span>Openings <span class="mv">${escapeHtml(p.phd_openings)}</span></span>` : ''}
+          ${safeUrl ? `<a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">Homepage ↗</a>` : ''}
+        </div>
+      </div>
+      <div></div>
+    </div>`;
+}
+
+function buildFull(p) {
+  if (!p.summary) return `<div class="detail-body"><div class="no-profile">No research profile yet.&nbsp;<button class="res-btn" style="display:inline;padding:.2rem .6rem;font-size:.7rem;" onclick="startResearch([${p.id}]);event.stopPropagation();">Research</button></div></div>`;
+
+  const kws = parseKws(p.keywords);
+  let papers = [];
+  try { papers = JSON.parse(p.recent_papers || '[]'); } catch(_) {}
+  let notes = null;
+  try { notes = p.homepage_notes ? JSON.parse(p.homepage_notes) : null; } catch(_) {}
+
+  const noteRows = notes ? [
+    ['Apply',    notes.how_to_apply],
+    ['Deadline', notes.application_deadline],
+    ['Lab',      notes.lab_size],
+    ['Funding',  notes.funding],
+    ['Projects', notes.active_projects?.length ? notes.active_projects.join(', ') : null],
+    ['Industry', notes.industry_connections],
+    ['Notes',    notes.extra_notes],
+  ].filter(([,v]) => v) : [];
+
+  const notesHtml = noteRows.length ? `
+    <div class="info-grid">
+      ${noteRows.map(([l,v]) => `<span class="ig-label">${escapeHtml(l)}</span><span class="ig-val">${escapeHtml(v)}</span>`).join('')}
+    </div>` : '';
+
+  const papersHtml = papers.length ? `
+    <div>
+      <p class="papers-label">Recent Papers</p>
+      ${papers.slice(0,5).map(pp => `
+        <div class="paper-card">
+          <div class="paper-title">${escapeHtml(pp.title)}</div>
+          <div class="paper-meta">${escapeHtml(pp.year)}${pp.venue ? ' · ' + escapeHtml(pp.venue) : ''}</div>
+          ${pp.abstract ? `<div class="paper-abs" onclick="this.classList.toggle('expanded')">${escapeHtml(pp.abstract)}</div>` : ''}
+        </div>`).join('')}
+    </div>` : '<div></div>';
+
+  const safeUrl = p.homepage_url && /^https?:\/\//i.test(p.homepage_url) ? p.homepage_url : null;
+  return `
+    <div class="detail-body">
+      <div>
+        <p class="summary-text">${escapeHtml(p.summary)}</p>
+        <div class="kw-row">${kws.map(k => `<span class="kw">${escapeHtml(k.trim())}</span>`).join('')}</div>
+        ${notesHtml}
+        <div class="meta-row">
+          ${p.phd_openings ? `<span>Openings <span class="mv">${escapeHtml(p.phd_openings)}</span></span>` : ''}
+          <span>h-index <span class="mv">${p.h_index || '—'}</span></span>
+          <span>Citations <span class="mv">${p.cited_by_count || '—'}</span></span>
+          ${safeUrl ? `<a href="${escapeHtml(safeUrl)}" target="_blank" rel="noopener noreferrer">Homepage ↗</a>` : ''}
+        </div>
+      </div>
+      ${papersHtml}
+    </div>`;
+}
+
+// ── My List ───────────────────────────────────────────────────
+let dragSrcId = null;
+
+function renderList() {
+  const el = document.getElementById('list-container');
+  document.getElementById('listSub').textContent =
+    applicationList.length ? `${applicationList.length} professor${applicationList.length > 1 ? 's' : ''} · drag to reorder` : '';
+
+  if (!applicationList.length) {
+    el.innerHTML = `<p class="list-empty">No professors added yet. Use ☆ in the directory to build your list.</p>`;
+    return;
+  }
+
+  el.innerHTML = '';
+  applicationList.forEach((p, idx) => {
+    const kws = parseKws(p.keywords).slice(0, 5);
+    const div = document.createElement('div');
+    div.className = 'list-item';
+    div.draggable = true;
+    div.dataset.id = p.id;
+    div.innerHTML = `
+      <span class="drag-handle">⠿</span>
+      <span class="list-rank">${idx + 1}</span>
+      <div class="list-info">
+        <span class="lname">${p.name}</span><span class="luni">${p.university}</span>
+        <div class="lkws">${kws.map(k => `<span class="kw">${k.trim()}</span>`).join('')}</div>
+      </div>
+      <span class="list-stat">${p.h_index != null ? `h ${p.h_index}` : ''}</span>
+      <button class="list-rm" title="Remove">✕</button>
+    `;
+
+    div.querySelector('.list-rm').addEventListener('click', async () => {
+      await fetch(`/api/apply/${p.id}`, { method: 'DELETE' });
+      inListSet.delete(p.id);
+      applicationList = applicationList.filter(x => x.id !== p.id);
+      updateStats();
+      renderList();
+      document.querySelectorAll(`.bm-btn[data-id="${p.id}"]`).forEach(b => {
+        b.textContent = '☆'; b.classList.remove('saved');
+      });
+    });
+
+    div.addEventListener('dragstart', () => {
+      dragSrcId = p.id;
+      setTimeout(() => div.classList.add('dragging'), 0);
+    });
+    div.addEventListener('dragend', () => {
+      div.classList.remove('dragging');
+      document.querySelectorAll('.list-item').forEach(i => i.classList.remove('drag-over'));
+    });
+    div.addEventListener('dragover', e => {
+      e.preventDefault();
+      document.querySelectorAll('.list-item').forEach(i => i.classList.remove('drag-over'));
+      if (p.id !== dragSrcId) div.classList.add('drag-over');
+    });
+    div.addEventListener('drop', async e => {
+      e.preventDefault();
+      if (dragSrcId == null || dragSrcId === p.id) return;
+      const si = applicationList.findIndex(x => x.id === dragSrcId);
+      const ti = applicationList.findIndex(x => x.id === p.id);
+      const [moved] = applicationList.splice(si, 1);
+      applicationList.splice(ti, 0, moved);
+      dragSrcId = null;
+      await fetch('/api/apply/order', {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(applicationList.map(x => x.id)),
+      });
+      renderList();
+    });
+
+    el.appendChild(div);
+  });
+}
+
+// ── Events ────────────────────────────────────────────────────
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('statement').addEventListener('input', () => {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(fetchAndRender, 400);
+});
+document.getElementById('uniFilter').addEventListener('change', render);
+document.getElementById('sortBy').addEventListener('change', render);
+
+load();
+</script>
+<div id="toast"></div>
+</body>
+</html>

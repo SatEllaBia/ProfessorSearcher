@@ -1,0 +1,1 @@
+Reused and adapted from https://github.com/NixoN2/phd-scout at fa88c8871fbf03581a86747256723a57d9206161. See LICENSE. The merged server/UI adapt its directory, shortlist and HTTP workflow. Atlas owns the authoritative database.
