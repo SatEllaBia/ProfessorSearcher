@@ -1,0 +1,342 @@
+[
+  {
+    "key": 0,
+    "source_id": 2,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/yuancao",
+    "ref": "turn7view0",
+    "name": "Cao, Yuan",
+    "title": "Assistant Professor",
+    "professor_id": 1,
+    "homepage_url": "https://yuancaohku.github.io/"
+  },
+  {
+    "key": 1,
+    "source_id": 3,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/ckcheng",
+    "ref": "turn4view0",
+    "name": "Cheng, Reynold C.K.",
+    "title": "Professor",
+    "professor_id": 2,
+    "homepage_url": "https://reynold.hku.hk"
+  },
+  {
+    "key": 4,
+    "source_id": 4,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/bdai",
+    "ref": "turn8view0",
+    "name": "Dai, Bo",
+    "title": "Assistant Professor",
+    "professor_id": 3,
+    "homepage_url": null
+  },
+  {
+    "key": 7,
+    "source_id": 5,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/gaosh",
+    "ref": "turn6view0",
+    "name": "Gao, Shenghua",
+    "title": "Associate Professor",
+    "professor_id": 4,
+    "homepage_url": null
+  },
+  {
+    "key": 8,
+    "source_id": 6,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/dgasevic",
+    "ref": "turn3view0",
+    "name": "Gašević, Dragan",
+    "title": "Chair Professor",
+    "professor_id": 5,
+    "homepage_url": null
+  },
+  {
+    "key": 9,
+    "source_id": 7,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/penggong",
+    "ref": "turn9view0",
+    "name": "GONG, Peng",
+    "title": "Chair Professor (by courtesy)",
+    "professor_id": 6,
+    "homepage_url": null
+  },
+  {
+    "key": 10,
+    "source_id": 8,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/kaihan",
+    "ref": "turn5view0",
+    "name": "Han, Kai",
+    "title": "Assistant Professor",
+    "professor_id": 7,
+    "homepage_url": "https://www.kaihan.org"
+  },
+  {
+    "key": 11,
+    "source_id": 9,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/chuang",
+    "ref": "turn2view0",
+    "name": "Huang, Chao",
+    "title": "Assistant Professor",
+    "professor_id": 8,
+    "homepage_url": "https://sites.google.com/view/chaoh"
+  },
+  {
+    "key": 13,
+    "source_id": 10,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/kao",
+    "ref": "turn16view0",
+    "name": "Kao, Benjamin C.M.",
+    "title": "Professor",
+    "professor_id": 9,
+    "homepage_url": "https://www.cs.hku.hk/~kao"
+  },
+  {
+    "key": 14,
+    "source_id": 11,
+    "url": "https://ai.hku.hk/people/academic-staff/akirkley",
+    "ref": "turn11view0",
+    "name": "Kirkley, Alec William",
+    "title": "Assistant Professor",
+    "professor_id": 10,
+    "homepage_url": "https://aleckirkley.netlify.app/"
+  },
+  {
+    "key": 15,
+    "source_id": 12,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/taku",
+    "ref": "turn14view0",
+    "name": "Komura, Taku",
+    "title": "Professor",
+    "professor_id": 11,
+    "homepage_url": "https://www.cs.hku.hk/~taku"
+  },
+  {
+    "key": 16,
+    "source_id": 13,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/lkkong",
+    "ref": "turn12view0",
+    "name": "Kong, Lingkai",
+    "title": "Assistant Professor",
+    "professor_id": 12,
+    "homepage_url": "https://lingkai-kong.com"
+  },
+  {
+    "key": 17,
+    "source_id": 14,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/lpk",
+    "ref": "turn13view0",
+    "name": "Kong, Lingpeng",
+    "title": "Assistant Professor",
+    "professor_id": 13,
+    "homepage_url": "https://ikekonglp.github.io/"
+  },
+  {
+    "key": 18,
+    "source_id": 15,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/hongyang",
+    "ref": "turn17view0",
+    "name": "Li, Hongyang",
+    "title": "Assistant Professor",
+    "professor_id": 14,
+    "homepage_url": "https://lihongyang.info/"
+  },
+  {
+    "key": 19,
+    "source_id": 16,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/yingyul",
+    "ref": "turn18view0",
+    "name": "Liang, Yingyu",
+    "title": "Associate Professor",
+    "professor_id": 15,
+    "homepage_url": null
+  },
+  {
+    "key": 21,
+    "source_id": 17,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/pluo",
+    "ref": "turn15view0",
+    "name": "Luo, Ping",
+    "title": "Professor",
+    "professor_id": 16,
+    "homepage_url": "http://luoping.me"
+  },
+  {
+    "key": 22,
+    "source_id": 18,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/rbluo",
+    "ref": "turn10view0",
+    "name": "Luo, Ruibang",
+    "title": "Associate Professor",
+    "professor_id": 17,
+    "homepage_url": "https://www.cs.hku.hk/~rbluo"
+  },
+  {
+    "key": 23,
+    "source_id": 19,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/mayi",
+    "ref": "turn22view0",
+    "name": "Ma, Yi",
+    "title": "Professor, Chair of Artificial Intelligence",
+    "professor_id": 18,
+    "homepage_url": null
+  },
+  {
+    "key": 24,
+    "source_id": 20,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/jpan",
+    "ref": "turn23view0",
+    "name": "Pan, Jia",
+    "title": "Associate Professor",
+    "professor_id": 19,
+    "homepage_url": null
+  },
+  {
+    "key": 25,
+    "source_id": 21,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/jianqian",
+    "ref": "turn21view0",
+    "name": "Qian, Jian",
+    "title": "Assistant Professor",
+    "professor_id": 20,
+    "homepage_url": "https://jianqian80.github.io/my-homepage/"
+  },
+  {
+    "key": 26,
+    "source_id": 22,
+    "url": "https://ai.hku.hk/people/academic-staff/liangqqu",
+    "ref": "turn26view0",
+    "name": "Qu, Liangqiong",
+    "title": "Assistant Professor",
+    "professor_id": 21,
+    "homepage_url": "https://liangqiong.github.io/"
+  },
+  {
+    "key": 29,
+    "source_id": 23,
+    "url": "https://www.presidentsoffice.hku.hk/leadership/professor-yang-wang",
+    "ref": "turn19view0",
+    "name": "Wang Yang (MATH)",
+    "title": "Chair Professor",
+    "professor_id": 22,
+    "homepage_url": null
+  },
+  {
+    "key": 30,
+    "source_id": 24,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/dwipf",
+    "ref": "turn20view0",
+    "name": "Wipf, David Paul",
+    "title": "Professor",
+    "professor_id": 23,
+    "homepage_url": null
+  },
+  {
+    "key": 32,
+    "source_id": 25,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/kykwong",
+    "ref": "turn25view0",
+    "name": "Wong, Kenneth K.Y.",
+    "title": "Professor",
+    "professor_id": 24,
+    "homepage_url": "https://www.cs.hku.hk/~kykwong"
+  },
+  {
+    "key": 33,
+    "source_id": 26,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/zqwu",
+    "ref": "turn27view0",
+    "name": "Wu, Zhenqin",
+    "title": "Assistant Professor",
+    "professor_id": 25,
+    "homepage_url": "https://www.zhenqin-wu.com/"
+  },
+  {
+    "key": 34,
+    "source_id": 27,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/dongxu",
+    "ref": "turn24view0",
+    "name": "Xu, Dong",
+    "title": "Professor",
+    "professor_id": 26,
+    "homepage_url": "https://www.cs.hku.hk/~dongxu"
+  },
+  {
+    "key": 35,
+    "source_id": 28,
+    "url": "https://ai.hku.hk/people/academic-staff/yanchaoy",
+    "ref": "turn29view0",
+    "name": "Yang, Yanchao",
+    "title": "Assistant Professor",
+    "professor_id": 27,
+    "homepage_url": "https://yanchaoyang.github.io"
+  },
+  {
+    "key": 36,
+    "source_id": 29,
+    "url": "https://ai.hku.hk/people/academic-staff/yufn",
+    "ref": "turn32view0",
+    "name": "Fan, Yu",
+    "title": "Assistant Professor",
+    "professor_id": 28,
+    "homepage_url": "https://www.law.hku.hk/academic_staff/professor-yu-fan/"
+  },
+  {
+    "key": 37,
+    "source_id": 30,
+    "url": "https://ai.hku.hk/people/academic-staff/yulequan",
+    "ref": "turn33view0",
+    "name": "Yu, Lequan",
+    "title": "Assistant Professor",
+    "professor_id": 29,
+    "homepage_url": "https://yulequan.github.io/"
+  },
+  {
+    "key": 38,
+    "source_id": 31,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/tyu",
+    "ref": "turn35view0",
+    "name": "Yu, Tao",
+    "title": "Assistant Professor",
+    "professor_id": 30,
+    "homepage_url": "https://www.cs.hku.hk/~tyu"
+  },
+  {
+    "key": 39,
+    "source_id": 32,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/yzyu",
+    "ref": "turn30view0",
+    "name": "Yu, Yizhou",
+    "title": "Chair Professor",
+    "professor_id": 31,
+    "homepage_url": "https://www.cs.hku.hk/~yzyu"
+  },
+  {
+    "key": 40,
+    "source_id": 33,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/zhaz",
+    "ref": "turn28view0",
+    "name": "Zhang, Zheng",
+    "title": "Professor",
+    "professor_id": 32,
+    "homepage_url": null
+  },
+  {
+    "key": 41,
+    "source_id": 34,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/hszhao",
+    "ref": "turn34view0",
+    "name": "Zhao, Hengshuang",
+    "title": "Assistant Professor",
+    "professor_id": 33,
+    "homepage_url": "https://www.ai.hku.hk/~hszhao"
+  },
+  {
+    "key": 42,
+    "source_id": 35,
+    "url": "https://ai.hku.hk/index.php/people/academic-staff/dzou",
+    "ref": "turn31view0",
+    "name": "Zou, Difan",
+    "title": "Assistant Professor",
+    "professor_id": 34,
+    "homepage_url": null
+  }
+]
